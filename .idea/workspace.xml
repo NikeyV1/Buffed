@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="70e6e803-a33e-4f1f-a819-8099e7fdbfb0" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/altar-ritual.md" beforeDir="false" afterPath="$PROJECT_DIR$/altar-ritual.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +274,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766680820044</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="...">
+      <option name="closed" value="true" />
+      <created>1766682569027</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1766682569027</updated>
+    </task>
+    <task id="LOCAL-00022" summary="...">
+      <option name="closed" value="true" />
+      <created>1766682659018</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1766682659018</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
