@@ -1,5 +1,5 @@
-* [Home](README.md)
-* [Buff Guide](buff-guide.md)
+* [Home](https://nikeyv1.github.io/Buffed/#/README?id=buff-system-wiki)
+* [Buff Guide](https://nikeyv1.github.io/Buffed/#/buff-guide?id=buff-guide)
 * [Essence Guide](essence-guide.md)
 * [Altar-Ritual](altar-ritual.md)
 * [Systemübersicht](system-overview.md)
