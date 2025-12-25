@@ -16,7 +16,7 @@ Alles zu verfügbaren Buffs:
 - Cooldowns
 - Besonderheiten & Synergien
 
-Siehe: [Buff Guide](buff-guide.md)
+Siehe: [Buff Guide](https://nikeyv1.github.io/Buffed/#/buff-guide?id=buff-guide)
 
 ---
 
