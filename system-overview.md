@@ -56,16 +56,16 @@ Beim Tod wird zuerst immer auf **0 Punkte** gesetzt.
 
 Punkte können ausgegeben werden für:
 
-- **Buff Tokens:** Ermöglichen das Ziehen eines zufälligen Buffs
-- **Buff Items:** Direkte Buff-Verstärkung oder Hilfsmittel
-- **Essencen:** Verstärken aktiv den Buff (sichtbar durch Partikel)
+- **Buff Tokens:** Ermöglichen das Kaufen eines Buff-Tokens
+- **Buff Items:** Direkte Buff-Items oder Hilfsmittel
+- **Essencen:** Kaufe essencen für den Buff
 
 ---
 
 ## 💎 Wichtige Buff-Items
 
 - **Revive Beacon:** Belebt gebannte Spieler wieder; selten erhältlich und wird beim Einsatz verbraucht.
-- **Warden Shard:** Droppt zu 30% von einem getöteten Warden; benötigt für den Warden Buff.
+- **Warden Shard:** Droppt zu 30 % von einem getöteten Warden; benötigt für den Warden Buff.
 - **Reroll Book:** Tauscht den aktuellen Buff gegen einen neuen zufälligen, sofern alle rerollbaren Buffs einmal durch ein Ritual freigeschaltet wurden.
 - **Tokens:** Ermöglichen die gezielte Auswahl eines Buffs; sehr teuer, aber präzise.
 - **Buff Swapper:** Tauscht aktive Buffs inklusive zugehöriger Buff-Items zwischen zwei Spielern.
