@@ -112,14 +112,14 @@ Mobiler Frontkämpfer mit Ansturm und Gruppenbuffs
 
 ### Archer Buff
 - **Rechtsklick:** Sättigung II für 5 Sekunden *(120 Sek)*
-- **Rechtsklick + Sneaken:** Extrem starker Pfeil *(16 Sek)*
+- **Rechtsklick + Sneaken:** Schießt einen extrem starken Pfeil *(16 Sek)*
 
 ---
 
 ### Tank Buff
 - **Rechtsklick:** Resistenz II + Absorption II für 30 Sekunden *(100 Sek)*
 - **Passiv:**
-    - Schildbruch stößt Angreifer zurück und verursacht Schaden *(30 Sek CD)*
+    - Schildbruch stößt Angreifer zurück und verursacht Schaden *(30 Sek)*
 
 ---
 
@@ -132,14 +132,14 @@ Mobiler Frontkämpfer mit Ansturm und Gruppenbuffs
 ---
 
 ### Wither Buff
-- **Rechtsklick:** Schießt Wither-Schädel *(20 Sek)*
-- **Rechtsklick + Sneaken:** Wither III für 10 Sekunden *(120 Sek)*
+- **Rechtsklick:** Schießt einen Wither-Schädel *(20 Sek)*
+- **Rechtsklick + Sneaken:** Für 20 sek erhalten geschlagene Spieler Wither III für 10 Sekunden *(120 Sek)*
 
 ---
 
 ### Warden Buff
-- **Rechtsklick:** Warden-Strahl *(120 Sek)*
-- **Rechtsklick + Sneaken:** Darkness + Slowness für 16 Sekunden *(90 Sek)*
+- **Rechtsklick:** Feuert einen Warden-Strahl ab *(120 Sek)*
+- **Rechtsklick + Sneaken:** Spieler in deiner Nähe erhalten Darkness und Slowness für 16 Sekunden *(90 Sek)*
 
 ---
 
@@ -148,9 +148,7 @@ Mobiler Frontkämpfer mit Ansturm und Gruppenbuffs
 - **Rechtsklick:**
     - Drachenatem-Wolke
     - Heilt Spieler innerhalb der Wolke *(30 Sek)*
-- **Rechtsklick + Sneaken:**
-    - 4 Endkristalle
-    - Heilung + Rüstungsreparatur *(100 Sek)*
+- **Rechtsklick + Sneaken:** Spawnt 4 Endkristalle, die dich heilen und die Rüstung repariert *(100 Sek)*
 
 ---
 
@@ -159,7 +157,7 @@ Mobiler Frontkämpfer mit Ansturm und Gruppenbuffs
     - Teleport hinter Ziel
     - Slowness + No-Jump (5 Sek) *(80 Sek)*
 - **Rechtsklick auf Spieler:**
-    - Spinnennetz am Kopf *(25 Sek)*
+    - Headwebt den Gegner *(25 Sek)*
 - **Passiv:** Enderperlen fliegen durch Entities
 
 ---
@@ -167,42 +165,52 @@ Mobiler Frontkämpfer mit Ansturm und Gruppenbuffs
 ### Storm Buff
 - **Sneak + Rechtsklick:**
     - Trident entfesselt Blitze
-    - Kann Gegner lähmen (bei Regen stärker) *(45 Sek)*
+    - Lähmt Gegner wenn es regnet *(45 Sek)*
 - **Rechtsklick auf Spieler:**
-    - Kettenblitz mit fallendem Schaden *(90 Sek)*
+    - Kettenblitz mit fallendem Schaden
+    - Gibt Gegnern Weakness I *(90 Sek)*
 
 ---
 
 ### Guardian Buff
 - **Rechtsklick:**
-    - Gegner in 12 Blöcken
-    - Glowing + kein Blockabbau (20 Sek) *(80 Sek)*
+  - Alle Gegner im Umkreis von 12 Blöcken erhalten Glowing
+  - Betroffene Spieler können 20 Sekunden lang keine Blöcke abbauen *(80 Sek)*
+
 - **Sneak + Rechtsklick:**
-    - 4 Wächter für 30 Sekunden
-    - Auto-Angriff (15 Blöcke)
-    - Treffer: 33 % Chance → Windcharge / Enderperle / Blockplatzierung schlägt fehl (10 Sek)
-    - *(160 Sek CD)*
+  - Beschwört 4 schwebende Wächter, die **30 Sekunden lang um dich kreisen
+  - Wächter greifen automatisch Feinde im Umkreis von 15 Blöcken an
+  - Getroffene Spieler haben 10 Sekunden lang eine 25 % Chance, dass
+    Wind Charges, Enderperlen und Blockplatzierung fehlschlagen *(160 Sek)*
+
 
 ---
 
 ### Cavalry Buff
 - **Rechtsklick:**
-    - Beschwört Pferd & reitet vorwärts
-    - Knockback in 2,5 Blöcken
-    - Ende: Schaden + Slowness + Mining Fatigue *(65 Sek)*
-- **Rechtsklick + Sneaken:**
-    - Verbündete (20 Blöcke) → Regeneration + Speed (20 Sek) *(80 Sek)*
-- **Passiv:** Cavalry-Lanze fügt Freeze-Ticks hinzu
+  - Beschwört ein Pferd und stürmt vorwärts
+  - Gegner im Umkreis von 2,5 Blöcken** erhalten Knockback
+  - Beim Ende des Ansturms:
+    - Gegner in der Nähe erleiden Schaden
+    - Erhalten Slowness und Mining Fatigue *(65 Sek Cooldown)*
+
+- **Sneak + Rechtsklick:**
+  - Verbündete im Umkreis von 20 Blöcken erhalten für 20 Sekunden
+    - Regeneration
+    - Speed *(80 Sek Cooldown)*
+
+* **Passiv:**
+  * Die Cavalry-Lanze fügt getroffenen Gegnern Freeze-Ticks hinzu
 
 ---
 
 ### Adventurer Buff
-- **Rechtsklick:** Auto-Treefeller (20 Sek) *(100 Sek)*
+- **Rechtsklick:** Für 20 Sekunden werden komplette Bäume automatisch gefällt, sobald ein einzelner Log abgebaut wird *(100 Sek)*
 - **Rechtsklick + Sneaken:**
     - Speed II
     - Dolphin’s Grace I
     - Fire Resistance I *(20 Sek)*  
-      **Darf nicht zum Weglaufen aus Kämpfen benutzt werden**
+      * Darf nicht zum Weglaufen aus Kämpfen benutzt werden
 - **Passiv:**
     - Blöcke landen direkt im Inventar
     - +50 % EXP aus allen Quellen
@@ -211,12 +219,15 @@ Mobiler Frontkämpfer mit Ansturm und Gruppenbuffs
 
 ### Trickster Buff *(Legendary)*
 - **Rechtsklick:**
-    - Teleport nach oben
-    - Gegner → Cobwebs + Schild deaktiviert
-    - Treffer verursachen Flächenschaden *(65 Sek)*
+  - Teleportiert den Spieler nach oben
+  - Setzt alle Gegner in der Nähe in Cobwebs
+  - Deaktiviert Schilde betroffener Gegner
+  - Trifft man einen Gegner, verursacht der Angriff Flächenschaden *(65 Sek)*
 - **Rechtsklick + Sneaken:**
-    - Speed, Strength & Fire Resistance *(20 Sek)*
-- **Passiv:** Positive Trankeffekte wirken **50 % länger**
+  - Re-pottet den Spieler mit
+    - Speed
+    - Strength
+    - Fire Resistance *(20 Sek)*
+- **Passiv:** Positive Trank-Effekte wirken 50 % länger
 
 ---
-
