@@ -48,9 +48,9 @@ Beinhaltet:
 - Buff-Wechsel & Progression
 - Tokens & Freischaltungen
 - Reroll-Mechaniken
-- Regeln & Einschränkungen
+- Buff Items
 
-Siehe: **Systemübersicht**
+Siehe: [Systemübersicht](system-overview.md)
 
 ---
 
