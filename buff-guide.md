@@ -1,0 +1,222 @@
+# Buff Guide
+
+Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, inklusive ihrer Fähigkeiten, Passiv-Effekte und Rollen im Spiel.
+
+Jeder Buff ist mit **Tags** versehen, die seinen Spielstil und seine Rolle beschreiben.
+
+---
+
+## 🧭 Buff-Übersicht mit Tags
+
+### Grinding Buff
+**Tags:** 🧪 Utility  
+Fokus auf Ressourcen, Farming und Fortschritt
+
+---
+
+### Magic Buff
+**Tags:** ✨ Support · 🛡️ Defensiv  
+Heilung, Extra-Herzen und Beschwörung zur Unterstützung
+
+---
+
+### Archer Buff
+**Tags:** 🔥 Damage Dealer · 🛡️ Defensiv  
+Starker Fernkampf mit hohem Schadenspotenzial
+
+---
+
+### Tank Buff
+**Tags:** 🛡️ Defensiv  
+Schadensreduktion, Absorption und Schutzmechaniken
+
+---
+
+### Warrior Buff
+**Tags:** 🔥 Damage Dealer  
+Direkter Nahkampf, Mobilität und erhöhter Schaden
+
+---
+
+### Wither Buff
+**Tags:** 🌀 Control  
+Starke Debuffs und permanenter Druck auf Gegner
+
+---
+
+### Warden Buff
+**Tags:** 🌀 Control · 🔥 Damage Dealer  
+Zonenkontrolle kombiniert mit hohem Schadensdruck
+
+---
+
+### Dragon Buff *(Legendary)*
+**Tags:** ✨ Support · 🔀 Hybrid  
+Selbstheilung, Sustain und offensive Präsenz
+
+---
+
+### Assassin Buff
+**Tags:** 🩸 Drain  
+Entzieht Gegnern Mobilität und wichtige Ressourcen
+
+---
+
+### Storm Buff
+**Tags:** 🔥 Damage Dealer · 🌀 Control  
+AoE-Schaden und Lähmung durch Blitze
+
+---
+
+### Guardian Buff
+**Tags:** ✨ Support · 🌀 Control  
+Schutz für Verbündete und starke Einschränkungen für Gegner
+
+---
+
+### Trickster Buff *(Legendary)*
+**Tags:** 🌀 Control · 🔥 Damage Dealer  
+Störung, Flächenschaden und Unterdrückung von Verteidigung
+
+---
+
+### Adventurer Buff
+**Tags:** 🧪 Utility  
+Quality-of-Life, Mobilität und schneller Progress
+
+---
+
+### Cavalry Buff
+**Tags:** 🔥 Damage Dealer · ✨ Support  
+Mobiler Frontkämpfer mit Ansturm und Gruppenbuffs
+
+---
+
+---
+
+## 📘 Detaillierte Buff-Beschreibungen
+
+### Grinding Buff
+- **Rechtsklick:** Haste II für 30 Sekunden *(120 Sek Cooldown)*
+- **Passiv:**
+    - Permanent *Hero of the Village II*
+    - Auto-Smelt bei Erzen
+
+---
+
+### Magic Buff
+- **Rechtsklick:** +6 Herzen für 45 Sekunden + volle Heilung *(150 Sek)*
+- **Rechtsklick + Sneaken:** Spawnt einen mächtigen Zombie *(100 Sek)*
+
+---
+
+### Archer Buff
+- **Rechtsklick:** Sättigung II für 5 Sekunden *(120 Sek)*
+- **Rechtsklick + Sneaken:** Extrem starker Pfeil *(16 Sek)*
+
+---
+
+### Tank Buff
+- **Rechtsklick:** Resistenz II + Absorption II für 30 Sekunden *(100 Sek)*
+- **Passiv:**
+    - Schildbruch stößt Angreifer zurück und verursacht Schaden *(30 Sek CD)*
+
+---
+
+### Warrior Buff
+- **Rechtsklick:** Schneller Dash nach vorne *(14 Sek)*
+- **Rechtsklick + Sneaken:**
+    - Reduzierter Angriffscooldown
+    - Erhöhter Schaden *(120 Sek)*
+
+---
+
+### Wither Buff
+- **Rechtsklick:** Schießt Wither-Schädel *(20 Sek)*
+- **Rechtsklick + Sneaken:** Wither III für 10 Sekunden *(120 Sek)*
+
+---
+
+### Warden Buff
+- **Rechtsklick:** Warden-Strahl *(120 Sek)*
+- **Rechtsklick + Sneaken:** Darkness + Slowness für 16 Sekunden *(90 Sek)*
+
+---
+
+### Dragon Buff *(Legendary)*
+- **Item:** Netherite Sword mit Sharpness VII
+- **Rechtsklick:**
+    - Drachenatem-Wolke
+    - Heilt Spieler innerhalb der Wolke *(30 Sek)*
+- **Rechtsklick + Sneaken:**
+    - 4 Endkristalle
+    - Heilung + Rüstungsreparatur *(100 Sek)*
+
+---
+
+### Assassin Buff
+- **Sneak + Rechtsklick auf Spieler:**
+    - Teleport hinter Ziel
+    - Slowness + No-Jump (5 Sek) *(80 Sek)*
+- **Rechtsklick auf Spieler:**
+    - Spinnennetz am Kopf *(25 Sek)*
+- **Passiv:** Enderperlen fliegen durch Entities
+
+---
+
+### Storm Buff
+- **Sneak + Rechtsklick:**
+    - Trident entfesselt Blitze
+    - Kann Gegner lähmen (bei Regen stärker) *(45 Sek)*
+- **Rechtsklick auf Spieler:**
+    - Kettenblitz mit fallendem Schaden *(90 Sek)*
+
+---
+
+### Guardian Buff
+- **Rechtsklick:**
+    - Gegner in 12 Blöcken
+    - Glowing + kein Blockabbau (20 Sek) *(80 Sek)*
+- **Sneak + Rechtsklick:**
+    - 4 Wächter für 30 Sekunden
+    - Auto-Angriff (15 Blöcke)
+    - Treffer: 33 % Chance → Windcharge / Enderperle / Blockplatzierung schlägt fehl (10 Sek)
+    - *(160 Sek CD)*
+
+---
+
+### Cavalry Buff
+- **Rechtsklick:**
+    - Beschwört Pferd & reitet vorwärts
+    - Knockback in 2,5 Blöcken
+    - Ende: Schaden + Slowness + Mining Fatigue *(65 Sek)*
+- **Rechtsklick + Sneaken:**
+    - Verbündete (20 Blöcke) → Regeneration + Speed (20 Sek) *(80 Sek)*
+- **Passiv:** Cavalry-Lanze fügt Freeze-Ticks hinzu
+
+---
+
+### Adventurer Buff
+- **Rechtsklick:** Auto-Treefeller (20 Sek) *(100 Sek)*
+- **Rechtsklick + Sneaken:**
+    - Speed II
+    - Dolphin’s Grace I
+    - Fire Resistance I *(20 Sek)*  
+      **Darf nicht zum Weglaufen aus Kämpfen benutzt werden**
+- **Passiv:**
+    - Blöcke landen direkt im Inventar
+    - +50 % EXP aus allen Quellen
+
+---
+
+### Trickster Buff *(Legendary)*
+- **Rechtsklick:**
+    - Teleport nach oben
+    - Gegner → Cobwebs + Schild deaktiviert
+    - Treffer verursachen Flächenschaden *(65 Sek)*
+- **Rechtsklick + Sneaken:**
+    - Speed, Strength & Fire Resistance *(20 Sek)*
+- **Passiv:** Positive Trankeffekte wirken **50 % länger**
+
+---
+

@@ -1,0 +1,6 @@
+* [Home](README.md)
+* [Buff Guide](buff-guide.md)
+* [Essence Guide](essence-guide.md)
+* [Altar-Ritual](altar-ritual.md)
+* [Systemübersicht](system-overview.md)
+* [Recipes](recipes.md)
