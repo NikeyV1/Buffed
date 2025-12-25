@@ -199,8 +199,8 @@ Mobiler Frontkämpfer mit Ansturm und Gruppenbuffs
     - Regeneration
     - Speed *(80 Sek Cooldown)*
 
-* **Passiv:**
-  * Die Cavalry-Lanze fügt getroffenen Gegnern Freeze-Ticks hinzu
+- **Passiv:**
+  - Die Cavalry-Lanze fügt getroffenen Gegnern Freeze-Ticks hinzu
 
 ---
 
