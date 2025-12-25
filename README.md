@@ -1,5 +1,3 @@
-# Buff Wiki
+# Headline
 
-Willkommen im offiziellen Buff-Guide.
-
-Wähle links einen Buff aus.
+> An awesome project.
