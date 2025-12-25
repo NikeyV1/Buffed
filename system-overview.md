@@ -62,7 +62,7 @@ Punkte können ausgegeben werden für:
 
 ---
 
-## Wichtige Buff-Items
+## 💎 Wichtige Buff-Items
 
 - **Revive Beacon:** Belebt gebannte Spieler wieder; selten erhältlich und wird beim Einsatz verbraucht.
 - **Warden Shard:** Droppt zu 30% von einem getöteten Warden; benötigt für den Warden Buff.
