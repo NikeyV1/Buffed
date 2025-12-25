@@ -155,4 +155,4 @@ Auto-Smelt, Haste, Farming-Boni
 - Taktischer, sehr störender Spielstil
 
 **Typische Effekte:**  
-Enderperlen blockieren, Springen verhindern, Netze, Cooldown-Störungen
+Enderperlen blockieren, Springen verhindern, Netze, Cooldown-Störungen  
