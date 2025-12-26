@@ -71,3 +71,14 @@ Siehe: [Recipe](recipes.md)
 ---
 
 Viel Spaß beim Spielen und Experimentieren mit dem Buff-System.
+
+---
+
+### License
+
+⚠️ **All Rights Reserved**
+
+No use, modification, or redistribution permitted.
+
+See [LICENSE](LICENSE).
+
