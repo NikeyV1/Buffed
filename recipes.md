@@ -9,26 +9,25 @@ Jedes Rezept ist mit dem entsprechenden Item verlinkt – ein Klick auf den Name
 
 ### Buff Tokens
 ![](images/recipes/dragon_buff_token_recipe.png)
-
 ![](images/recipes/grindingbufftokenrecipe.png)
-
 ![](images/recipes/archerbufftokenrecipe.png)
-
-
----
-
-### Spezifische Tokens
-➡️ **[Item-Infos anzeigen](Buff-Items#tokens)**  
-_Rezept:_
-- Teurer als normale Tokens
-- Ermöglichen die gezielte Buff-Auswahl
+![](images/recipes/magicbufftokenrecipe.png)
+![](images/recipes/warriorbufftokenrecipe.png)
+![](images/recipes/witherbufftokenrecipe.png)
+![](images/recipes/wardenbufftokenrecipe.png)
+![](images/recipes/tankbufftokenrecipe.png)
+![](images/recipes/stormbufftokenrecipe.png)
+![](images/recipes/assassinbufftokenrecipe.png)
+![](images/recipes/guardianbufftokenrecipe.png)
+![](images/recipes/cavalrybufftokenrecipe.png)
+![](images/recipes/adventurebufftokenrecipe.png)
 
 ---
 
 ### Reroll Book
 [![Reroll Book Recipe](images/recipes/reroll_book.png)](Buff-Items#reroll-book)
 _Rezept:_
-- Tauscht deinen buff zu einen random buff
+- Tauscht deinen buff zu einem zufälligen Buff
 - Wechselt nicht zu boss und legendary buffs
 
 ---
@@ -36,15 +35,14 @@ _Rezept:_
 ## ⚔️ Kampf- & Utility-Items
 
 ### Goldener Apfel
-➡️ **[Item-Infos anzeigen](Goldener-Apfel)**  
+➡️ **![Golden Apple](images/recipes/goldenapplerecipe.png)**  
 _Rezept:_
 - Modifiziertes oder klassisches Rezept
-- Werte können vom Vanilla-Standard abweichen
 
 ---
 
 ### Cobwebs
-➡️ **[Item-Infos anzeigen](Cobwebs)**  
+➡️ **![Cobwebs](images/recipes/cobwebrecipe.png)**  
 _Rezept:_
 - Craftbar im Buff SMP
 - Wird häufig in Control- & Trap-Mechaniken verwendet
@@ -60,7 +58,5 @@ _Rezept:_
 ---
 
 ## ℹ️ Hinweise
-
 - Alle Rezepte sind **server-spezifisch**
 - Crafting kann sich durch Balancing ändern
-- Im Zweifel gilt immer die **Item-Detailseite**, nicht das Rezept allein
