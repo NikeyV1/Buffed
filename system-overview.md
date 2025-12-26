@@ -52,13 +52,30 @@ Beim Tod wird zuerst immer auf **0 Punkte** gesetzt.
 
 ---
 
-## 🛒 Shop-System (`/shop`)
+## 🛒 Shop-System (`/points shop`)
 
 Punkte können ausgegeben werden für:
 
 - **Buff Tokens:** Ermöglichen das Kaufen eines Buff-Tokens
 - **Buff Items:** Direkte Buff-Items oder Hilfsmittel
 - **Essencen:** Kaufe essencen für den Buff
+
+---
+
+## ⌨️ Commands
+
+Kurzer Überblick über zentrale Commands des Buff-Systems:
+
+- **/settings**  
+  Persönliche Einstellungen, z. B. Aktivierung/Deaktivierung der **Cooldown-Anzeige**.
+
+- **/bufflist**  
+  Zeigt alle Buffs und ob sie bereits per Ritual freigeschaltet wurden.  
+  Dient der Übersicht über den aktuellen Server-Fortschritt.
+
+- **/points**  
+  Verwaltung des Punktesystems:  
+  Punktestand einsehen, **Shop öffnen**, Punkte ausgeben oder bezahlen.
 
 ---
 
