@@ -80,5 +80,5 @@ Viel Spaß beim Spielen und Experimentieren mit dem Buff-System.
 
 No use, modification, or redistribution permitted.
 
-See [LICENSE](LICENSE).
+See [LICENSE](https://github.com/NikeyV1/Buffed/blob/e18d5577398c47f5197eb9f0c404c7b5509f95fc/LICENSE).
 
