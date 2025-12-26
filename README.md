@@ -60,7 +60,7 @@ Alle wichtigen Rezepte auf einen Blick:
 - Spezialitems
 - Ritual-relevante Items
 
-Siehe: **Recipes**
+Siehe: [Recipe](recipes.md)
 
 ---
 
