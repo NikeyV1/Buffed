@@ -100,12 +100,12 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
   - Gegner im Umkreis von 2,5 Blöcken** erhalten Knockback
   - Beim Ende des Ansturms:
     - Gegner in der Nähe erleiden Schaden
-    - Erhalten Slowness und Mining Fatigue *(65 Sek Cooldown)*
+    - Erhalten Slowness und Mining Fatigue *(65 Sek)*
 
 - **Sneak + Rechtsklick:**
   - Verbündete im Umkreis von 20 Blöcken erhalten für 20 Sekunden
     - Regeneration
-    - Speed *(80 Sek Cooldown)*
+    - Speed *(80 Sek)*
 
 - **Passiv:**
   - Die Cavalry-Lanze fügt getroffenen Gegnern Freeze-Ticks hinzu
