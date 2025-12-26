@@ -25,7 +25,7 @@ Jedes Rezept ist mit dem entsprechenden Item verlinkt – ein Klick auf den Name
 ---
 
 ### Reroll Book
-[![Reroll Book Recipe](images/recipes/reroll_book.png)](Buff-Items#reroll-book)
+[![Reroll Book Recipe](images/recipes/rerollbookrecipe.png)](Buff-Items#reroll-book)
 _Rezept:_
 - Tauscht deinen buff zu einem zufälligen Buff
 - Wechselt nicht zu boss und legendary buffs
@@ -35,17 +35,12 @@ _Rezept:_
 ## ⚔️ Kampf- & Utility-Items
 
 ### Goldener Apfel
-➡️ **![Golden Apple](images/recipes/goldenapplerecipe.png)**  
-_Rezept:_
-- Modifiziertes oder klassisches Rezept
+**![Golden Apple](images/recipes/goldenapplerecipe.png)**
 
 ---
 
 ### Cobwebs
-➡️ **![Cobwebs](images/recipes/cobwebrecipe.png)**  
-_Rezept:_
-- Craftbar im Buff SMP
-- Wird häufig in Control- & Trap-Mechaniken verwendet
+**![Cobwebs](images/recipes/cobwebrecipe.png)**
 
 ---
 
