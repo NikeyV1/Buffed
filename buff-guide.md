@@ -5,7 +5,7 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 ## 📘 Detaillierte Buff-Beschreibungen
 
 ### Grinding Buff
-- **Rechtsklick:** Haste II für 30 Sekunden *(120 Sek Cooldown)*
+- **Rechtsklick:** Haste II für 30 Sekunden *(120 Sek)*
 - **Passiv:**
     - Permanent *Hero of the Village II*
     - Auto-Smelt bei Erzen
