@@ -55,7 +55,7 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 - **Item:** Netherite Sword mit Sharpness VII
 - **Rechtsklick:**
     - Drachenatem-Wolke
-    - Heilt Spieler innerhalb der Wolke *(30 Sek)*
+    - Heilt zusätzlich den Spieler innerhalb der Wolke *(30 Sek)*
 - **Rechtsklick + Sneaken:** Spawnt 4 Endkristalle, die dich heilen und die Rüstung repariert *(100 Sek)*
 
 ---
