@@ -86,7 +86,7 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
   - Betroffene Spieler können 20 Sekunden lang keine Blöcke abbauen *(80 Sek)*
 
 - **Sneak + Rechtsklick:**
-  - Beschwört 4 schwebende Wächter, die **30 Sekunden lang um dich kreisen
+  - Beschwört 4 schwebende Wächter, die 30 Sekunden lang um dich kreisen
   - Wächter greifen automatisch Feinde im Umkreis von 15 Blöcken an
   - Getroffene Spieler haben 10 Sekunden lang eine 25 % Chance, dass
     Wind Charges, Enderperlen und Blockplatzierung fehlschlagen *(160 Sek)*
@@ -97,7 +97,7 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 ### Cavalry Buff
 - **Rechtsklick:**
   - Beschwört ein Pferd und stürmt vorwärts
-  - Gegner im Umkreis von 2,5 Blöcken** erhalten Knockback
+  - Gegner im Umkreis von 2,5 Blöcken erhalten Knockback
   - Beim Ende des Ansturms:
     - Gegner in der Nähe erleiden Schaden
     - Erhalten Slowness und Mining Fatigue *(65 Sek)*
