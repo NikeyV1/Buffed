@@ -154,9 +154,8 @@ Sie erweitern **aktive Abilities**, fügen **neue Effekte** hinzu oder schalten 
 ### ⚔️ Aktive Ability Changes
 
 **Thunder Javelin**
-- Bei Regen:
-    - **50 % Chance** auf zweiten Javelin
-- Stun dauert **4 Sekunden** *(statt 3)*
+- 50 % Chance auf einen zweiten Javelin
+- Stun dauert 4 Sekunden *(statt 3)*
 
 **Chain Lightning**
 - Trifft **2 zusätzliche Entities**
