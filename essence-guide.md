@@ -53,7 +53,9 @@ Sie erweitern **aktive Abilities**, fügen **neue Effekte** hinzu oder schalten 
 - Pferd wird zu einem **Skelettpferd**
     - Mehr Geschwindigkeit
     - Kann höhere Blöcke erklimmen
-- Gegner in der Nähe erleiden **kontinuierlichen Schaden**
+- Gegner in der Nähe erleiden:
+  - erleiden **kontinuierlichen Schaden**
+  - werden **leicht zum Pferd hingezogen**      
 
 **Banner of War**
 - Verbündete in der Nähe erhalten für **20 Sekunden**:
