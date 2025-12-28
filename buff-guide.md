@@ -139,3 +139,14 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 - **Passiv:** Positive Trank-Effekte wirken 50 % länger
 
 ---
+
+### Duelist Buff 
+- **Rechtsklick:**
+  - Aktiviert eine Parierhaltung für 3 Sekunden
+  - Der nächste direkte Treffer wird vollständig negiert
+  - Der Angreifer erhält Weakness I für 10 Sekunden *(40 Sek)*
+- **Rechtsklick + Sneaken:**
+  - Markiert einen Spieler für 20 Sekunden
+  - Du verursachst +15 % Schaden an diesem Ziel *(70 Sek)*
+
+---
