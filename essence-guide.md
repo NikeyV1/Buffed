@@ -304,3 +304,33 @@ Sie erweitern **aktive Abilities**, fügen **neue Effekte** hinzu oder schalten 
 **Death Ban**
 - Getötete Spieler werden **permanent gebannt**
 
+Alles klar 👍
+Hier ist der **Duelist** jetzt **nur als Essence-Änderung gelistet**, ohne Basis-Buff-Funktionen, genau im Stil deines *Adventurer Essence*-Beispiels.
+
+---
+
+## ⚔️ Duelist Essence
+
+### ⚔️ Aktive Ability Changes
+**Parry Stance**
+- Dauer: 5 Sekunden *(statt 3)*
+- Erfolgreiche Parade reflektiert 30 % des negierten Schadens
+- Angreifer erhält zusätzlich Mining Fatigue I
+
+**Duel Mark**
+- Wenn das markierte Ziel stirbt, wird der Cooldown der Duellmarke sofort zurückgesetzt
+- Markiertes Ziel kann keine Enderperlen benutzen
+- Nicht markierte Gegner machen -50% Schaden
+
+### 💫 Passive Ability Changes
+
+**Standhafte Haltung**
+- Wenn mehr als 1. Gegner in der Nähe ist, bekommt der Spieler 10% weniger Schaden
+
+**Duellinstinkt**
+- Fügst du einem Gegner Schaden zu und dieser fällt darauffolgend unter 30 % Leben, erhält der Gegner Glowing
+
+**Klingenreichweite**
+- Nach jedem Treffer in einer Combo (außer dem ersten Hit) erhöht sich deine Reach leicht
+- Stapelt sich bis zu max. +0,75 Blöcke
+- Combo bricht ab, wenn 5 Sekunden kein Treffer landet oder schaden bekommen wurde

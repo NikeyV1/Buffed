@@ -21,6 +21,7 @@ Jedes Rezept ist mit dem entsprechenden Item verlinkt – ein Klick auf den Name
 ![](images/recipes/guardianbufftokenrecipe.png)
 ![](images/recipes/cavalrybufftokenrecipe.png)
 ![](images/recipes/adventurebufftokenrecipe.png)
+![](images/recipes/dualistbufftokenrecipe.png)
 
 ---
 
