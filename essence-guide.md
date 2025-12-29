@@ -309,7 +309,7 @@ Hier ist der **Duelist** jetzt **nur als Essence-Änderung gelistet**, ohne Basi
 
 ---
 
-## ⚔️ Duelist Essence
+## 🎯️ Duelist Essence
 
 ### ⚔️ Aktive Ability Changes
 **Parry Stance**
