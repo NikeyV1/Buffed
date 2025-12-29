@@ -332,5 +332,5 @@ Hier ist der **Duelist** jetzt **nur als Essence-Änderung gelistet**, ohne Basi
 
 **Klingenreichweite**
 - Nach jedem Treffer in einer Combo (außer dem ersten Hit) erhöht sich deine Reach leicht
-- Stapelt sich bis zu max. +0,75 Blöcke
+- Stapelt sich bis zu max. +1 Block
 - Combo bricht ab, wenn 5 Sekunden kein Treffer landet oder schaden bekommen wurde
