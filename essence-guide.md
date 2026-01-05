@@ -11,13 +11,13 @@ Sie erweitern **aktive Abilities**, fügen **neue Effekte** hinzu oder schalten 
 
 ### ⚔️ Aktive Ability Changes
 
-**Strength Shot**
+**Regeneration**
 - Cooldown: **80 Sekunden** *(statt 120)*
+
+**Strength Shot**
+- Cooldown: **12 Sekunden** *(statt 16)*
 - Durchdringt mehrere Gegner
 - Getroffene Gegner erhalten **Glowing (10 Sek)**
-
-**Regeneration**
-- Cooldown: **12 Sekunden** *(statt 16)*
 
 ### 💫 Passive Ability Changes
 
