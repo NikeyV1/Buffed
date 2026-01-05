@@ -32,7 +32,7 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 ---
 
 ### Warrior Buff
-- **Rechtsklick:** Schneller Dash nach vorne *(14 Sek)*
+- **Rechtsklick:** Schneller Dash nach vorne *(12 Sek)*
 - **Rechtsklick + Sneaken:**
     - Reduzierter Angriffscooldown
     - Erhöhter Schaden *(120 Sek)*
