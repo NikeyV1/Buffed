@@ -85,6 +85,12 @@ Die Tags helfen dabei, den **Spielstil** und die **Einsatzgebiete** eines Buffs 
 
 ---
 
+### Duelist Buff
+**Tags:** Damage Dealer / Defensiv  
+- Fokus auf 1v1-Kämpfe mit Parieren, gezieltem Konter und erhöhtem Schaden gegen ein einzelnes Ziel
+
+---
+
 ## 🏷️ Übersicht der Buff-Tags
 
 ### 🔥 Damage Dealer
