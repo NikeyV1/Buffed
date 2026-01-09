@@ -38,11 +38,23 @@ Das frühere Lebenssystem wurde durch ein **Punkte-System** ersetzt. Jeder Spiel
 ---
 
 ### Punkteänderungen durch Kills & Sterben
-- **Spieler killen:** +3 Punkte
-- **Sterben:** bis zu −3 Punkte, fair begrenzt
 
-**Regel:** Direkter Fall ins Minus ist nicht möglich, solange positive Punkte vorhanden sind.  
-Beim Tod wird zuerst immer auf **0 Punkte** gesetzt.
+#### 🗡️ Spieler töten
+
+- Standardmäßig erhält der Killer **+3 Punkte**
+
+#### ☠️ Sterben
+
+Der Punkteverlust hängt vom aktuellen Punktestand ab:
+
+**Wenn der Spieler ≥ 0 Punkte hat:**
+
+- Normaler Verlust: **−3 Punkte**
+- Sonderregel:
+  Würde der Tod direkt ins Minus führen, werden stattdessen nur **−2 Punkte** abgezogen
+
+**Wenn der Spieler bereits < 0 Punkte hat:**
+- Pro Tod nur **−1 Punkt**
 
 ---
 
