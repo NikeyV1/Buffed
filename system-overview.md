@@ -53,9 +53,6 @@ Der Punkteverlust hängt vom aktuellen Punktestand ab:
 - Sonderregel:
   Würde der Tod direkt ins Minus führen, werden stattdessen nur **−2 Punkte** abgezogen
 
-**Wenn der Spieler bereits < 0 Punkte hat:**
-- Pro Tod nur **−1 Punkt**
-
 ---
 
 ### Unter 0 Punkten
