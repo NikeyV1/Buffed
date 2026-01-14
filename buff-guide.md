@@ -20,7 +20,7 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 
 ### Archer Buff
 - **Rechtsklick:** Sättigung II für 5 Sekunden *(120 Sek)*
-- **Rechtsklick + Sneaken:** Schießt einen extrem starken Pfeil *(16 Sek)*
+- **Rechtsklick + Sneaken:** Schießt einen extrem starken Pfeil *(14 Sek)*
 
 ---
 
