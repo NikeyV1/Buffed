@@ -38,6 +38,7 @@ Diese Variante entspricht dem klassischen **Altar-Ritual** und zählt als **Ritu
     - Aufenthalt im 100-Block-Radius um den Altar
         - Verlassen des Bereichs → 30 Sekunden, um zurückzukehren
     - **Tod** des Spielers → Ritual wird sofort abgebrochen
+    - Campen ist nicht erlaubt 
     - Eine **Bossbar** zeigt die verbleibende Ritualzeit an
 3. **Ritualabschluss**
     - **Altes Buff-Item vorhanden**
