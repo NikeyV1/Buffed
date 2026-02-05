@@ -73,7 +73,7 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 ### Storm Buff
 - **Sneak + Rechtsklick:**
     - Trident entfesselt Blitze
-    - Lähmt Gegner wenn es regnet *(45 Sek)*
+    - Lähmt Gegner wenn es regnet *(50 Sek)*
 - **Rechtsklick auf Spieler:**
     - Kettenblitz mit fallendem Schaden
     - Gibt Gegnern Weakness I *(90 Sek)*
@@ -105,7 +105,7 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 - **Sneak + Rechtsklick:**
   - Verbündete im Umkreis von 20 Blöcken erhalten für 20 Sekunden
     - Regeneration
-    - Speed *(80 Sek)*
+    - Speed *(85 Sek)*
 
 - **Passiv:**
   - Die Cavalry-Lanze fügt getroffenen Gegnern Freeze-Ticks hinzu
