@@ -116,3 +116,4 @@ Kurzer Überblick über zentrale Commands des Buff-Systems:
     - Permanentes Hochbauen
     - Sich verbunkern
 - Gelegentliche Fluchtversuche sind erlaubt, dauerhaftes Entkommen widerspricht der vorgesehenen Tracker-Funktion
+- Das Ziel und die Trackende Person sind während des trackens in combat
