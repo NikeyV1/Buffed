@@ -22,7 +22,7 @@ Diese Variante entspricht dem klassischen **Altar-Ritual** und zählt als **Ritu
 - **1 Token** *(wird verbraucht)*
 - Das **alte Buff-Item** muss sich im Inventar befinden
 - Es müssen **mindestens genauso viele Gegner wie Allies** online sein
-    - Spieler in Spawn-Protection zählen nicht als Gegner
+    - Spieler müssen Angreifbar sein um als Gegner zu zählen
 - Das Ritual muss vor 22:00 Uhr beendet sein
     - An Wochenenden & Feiertagen bis 22:30 Uhr
 - **Ritualdauer:**
