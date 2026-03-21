@@ -150,3 +150,8 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
   - Du verursachst +12 % Schaden an diesem Ziel *(80 Sek)*
 
 ---
+
+### Leech Buff
+- **Rechtsklick:** Beschwöhrt eine Schockwelle die Gegner in der Nähe zurückschleudert, Schaden verursacht, dich heilt und einen Blutungseffekt startet *(75 Sek)*
+- **Rechtsklick + Sneaken:** Zapft das Leben des nächsten Feindes in 15 Blöcken 
+    - Jeder Treffer auf das gezapfte Ziel heilt dich für 35 % des verursachten Schadens *(90 Sek)*
