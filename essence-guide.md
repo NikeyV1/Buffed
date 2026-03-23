@@ -334,3 +334,31 @@ Hier ist der **Duelist** jetzt **nur als Essence-Änderung gelistet**, ohne Basi
 - Nach jedem Treffer in einer Combo (außer dem ersten Hit) erhöht sich deine Reach leicht
 - Stapelt sich bis zu max. +1 Block
 - Combo bricht ab, wenn 5 Sekunden kein Treffer landet oder schaden bekommen wurde
+
+---
+
+## 🩸 Leech Essence
+
+### ⚔️ Aktive Ability Changes
+**Blood Nova**
+- Aktivierung gibt dir sofort volle Sättigung
+- Getroffene Gegner erhalten Hunger II (12 Sek)
+
+**Life Siphon**
+- Ein sichtbarer Partikelstrahl verbindet dich mit dem Ziel
+- Jede Sekunde des aktiven Links: 1 Herz Leben wird direkt vom Ziel auf dich übertragen
+
+### 💫 Passive Ability Changes
+**Seuchenatem**
+- Jeder Sense-Treffer hat eine 6 % Chance auf Poison II (3 Sek) beim Gegner
+- Trifft die Chance: +1.5 Herzen Sofort-Heilung
+- Ist der Gegner bereits vergiftet: +3 Herzen Sofort-Heilung
+
+**Hungrige Wunde**
+- Nach 3 Treffern in Folge auf denselben Gegner: −30 % Heilung (5 Sek) aus allen Quellen
+- Zähler resettet sich nach 4 Sekunden ohne Treffer auf dieses Ziel
+- Refresht sich bei erneutem 3er-Combo während des Debuffs
+
+**Parasitenimmunität**
+- Slowness, Weakness und Poison wirken nicht auf dich
+- Effekte werden sofort beim Anwenden gecancelt
