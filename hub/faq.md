@@ -3,7 +3,7 @@
 ## 🌐 Allgemein
 
 ### Welche Server gibt es?
-Aktuell **BuffSMP** (live, Season 7). **Vanilla SMP** ist in Planung.
+Aktuell läuft keine aktive Season. Das neue **Vanilla SMP** befindet sich derzeit in Arbeit.
 
 ### Wo gelten die Network Rules?
 **Überall** — auf jedem Buffed-Server, im Discord und in jedem offiziellen Channel. Siehe [Network Rules](network-rules.md).
@@ -28,7 +28,7 @@ Server-spezifisch — schau in die jeweilige Server-Sektion:
 - [Vanilla SMP Beitritt](../vanilla/join.md)
 
 ### Welche Minecraft-Version brauche ich?
-Aktuell **1.21.8** (Paper). ViaVersion-Clients sind **nicht erlaubt**.
+Aktuell **1.21.11** (Paper). ViaVersion-Clients sind **nicht erlaubt**.
 
 ---
 

@@ -6,11 +6,11 @@ Wähle den **Server, den du spielst** — und du siehst nur Inhalte, die für di
 
 <a href="#/buffsmp/" class="server-card">
   <h3>⚔️ BuffSMP</h3>
-  <span class="status live">🟢 LIVE — Season 7</span>
-  <div class="desc">Semi-privater SMP mit dem berühmten Buff-System. Wähle einen Buff, sammle Essences und stürze dich ins PvP.</div>
+  <span class="status planned">⚫ OFFLINE — Season 7 beendet</span>
+  <div class="desc">Semi-privater SMP mit dem berühmten Buff-System. Season 7 ist abgeschlossen — Recaps und Wiki bleiben verfügbar.</div>
   <div class="meta">
-    <strong>IP:</strong> buffed.mineserver.top<br>
-    <strong>Version:</strong> Paper 1.21.8
+    <strong>Status:</strong> Aktuell offline<br>
+    <strong>Version (S7):</strong> Paper 1.21.11
   </div>
 </a>
 
@@ -48,7 +48,7 @@ Network Rules, FAQ und alles, was für **jeden** Buffed-Server gilt, findest du 
 ---
 
 > [!TIP]
-> Du suchst etwas Bestimmtes? Nutze die **Suche oben rechts** oder drücke `Strg + K`.
+> Du suchst etwas Bestimmtes? Nutze die **Suche oben rechts**.
 
 ---
 

@@ -8,12 +8,12 @@ Der Vanilla SMP ist ein **klassischer Survival-Server** im Buffed-Stil. Fokus li
 
 ## 📋 Server-Info
 
-| | |
-|---|---|
+| |                    |
+|---|--------------------|
 | **Status** | 🟡 In Vorbereitung |
-| **Geplante Version** | Paper 1.21.8 |
-| **Modus** | Vanilla Survival |
-| **Launch** | Folgt |
+| **Geplante Version** | Paper 26.1.2       |
+| **Modus** | Vanilla Survival   |
+| **Launch** | Folgt              |
 
 ---
 
