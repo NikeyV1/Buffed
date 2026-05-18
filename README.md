@@ -1,66 +1,54 @@
 # Willkommen im Buffed Wiki
 
-Hier findest du **alle Informationen** rund um das Buffed-Netzwerk: Regeln, das Buff-System, Server-Infos und mehr.
+Wähle den **Server, den du spielst** — und du siehst nur Inhalte, die für dich relevant sind.
 
-Nutze die **Sidebar links** oder die **Suche oben rechts**, um schnell zu finden, was du suchst.
+<div class="server-grid">
 
----
+<a href="#/buffsmp/" class="server-card">
+  <h3>⚔️ BuffSMP</h3>
+  <span class="status live">🟢 LIVE — Season 7</span>
+  <div class="desc">Semi-privater SMP mit dem berühmten Buff-System. Wähle einen Buff, sammle Essences und stürze dich ins PvP.</div>
+  <div class="meta">
+    <strong>IP:</strong> buffed.mineserver.top<br>
+    <strong>Version:</strong> Paper 1.21.8
+  </div>
+</a>
 
-## 🧭 Schnellzugriff
+<a href="#/vanilla/" class="server-card">
+  <h3>🌿 Vanilla SMP</h3>
+  <span class="status planned">🟡 GEPLANT</span>
+  <div class="desc">Reine Vanilla-Erfahrung im Buffed-Stil. Fokus auf Community, Survival und faire Gameplay-Regeln.</div>
+  <div class="meta">
+    <strong>Status:</strong> In Vorbereitung<br>
+    <strong>Launch:</strong> Folgt
+  </div>
+</a>
 
-<!-- tabs:start -->
-
-#### **📜 Regeln**
-
-Das Regelwerk ist in **drei Ebenen** unterteilt:
-
-- **[Network Rules](rules/network-rules.md)** — Gelten überall im Buffed-Netzwerk.
-- **[BuffSMP Rules](rules/buffsmp-rules.md)** — Zusätzliche Regeln für BuffSMP.
-- **[Vanilla SMP Rules](rules/vanilla-rules.md)** — Zusätzliche Regeln für Vanilla SMP.
-
-> Jede Server-Regel kommt **on top** der Network Rules. Network Rules haben immer Priorität.
-
-#### **⚔️ Buff-System**
-
-Das Herzstück von BuffSMP. Hier wird alles erklärt:
-
-- **[Buff Guide](buffs/buff-guide.md)** — Alle Buffs, Fähigkeiten und Cooldowns.
-- **[Essence Guide](buffs/essence-guide.md)** — Wie Essences Buffs verstärken.
-- **[Altar & Ritual](buffs/altar-ritual.md)** — Buffs aktivieren und freischalten.
-- **[Systemübersicht](buffs/system-overview.md)** — Punkte, Shop, Commands.
-- **[Rezepte](buffs/recipes.md)** — Crafting-Rezepte aller Buff-Items.
-
-#### **🌐 Server**
-
-Alles rund um die Server selbst:
-
-- **[Beitritt](server/join.md)** — Wie komme ich auf den Server?
-- **[Seasons](server/seasons.md)** — Aktuelle und vergangene Seasons.
-
-<!-- tabs:end -->
+</div>
 
 ---
 
-## 🔗 Links
+<div class="hub-callout">
 
-- 🌐 Website: [buffed.mineserver.top](https://buffed.mineserver.top)
-- 💬 Discord: [discord.gg/MQzbpd4rju](https://discord.gg/MQzbpd4rju)
-- 💎 Patreon: [patreon.com/NikeyV1](https://patreon.com/NikeyV1)
-- 📺 YouTube: [@NikeyV1](https://youtube.com/@NikeyV1)
-- 🔧 Modrinth: [NikeyV1](https://modrinth.com/user/NikeyV1)
+#### 🧭 Du suchst Allgemeines?
+
+Network Rules, FAQ und alles, was für **jeden** Buffed-Server gilt, findest du im **[Hub](hub/README.md)**.
+
+</div>
 
 ---
 
-## 📌 Hinweise
+## 🔗 Schnelllinks
 
-- Inhalte werden **regelmäßig aktualisiert**.
-- Werte können sich durch **Balancing-Updates** ändern.
-- Bei Fragen oder Fehlern bitte einen Ticket im Discord öffnen.
+- 💬 **Discord:** [discord.gg/MQzbpd4rju](https://discord.gg/MQzbpd4rju)
+- 💎 **Patreon:** [patreon.com/NikeyV1](https://patreon.com/NikeyV1)
+- 📺 **YouTube:** [@NikeyV1](https://youtube.com/@NikeyV1)
+- 🔧 **Modrinth:** [NikeyV1](https://modrinth.com/user/NikeyV1)
 
 ---
 
 > [!TIP]
-> Du kannst die Wiki-Suche oben rechts auch mit `Strg + K` öffnen.
+> Du suchst etwas Bestimmtes? Nutze die **Suche oben rechts** oder drücke `Strg + K`.
 
 ---
 

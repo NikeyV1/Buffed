@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Buffed Wiki</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Offizielles Wiki von Buffed – Buffs, Essences, Regeln und Server-Infos">
+  <meta name="description" content="Offizielles Wiki von Buffed – BuffSMP, Vanilla SMP, Regeln & Buff-System">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="icon" href="images/server-icon.ico" type="image/x-icon">
 
@@ -14,8 +14,8 @@
   <!-- Custom Theme Overrides -->
   <style>
     :root {
-      --theme-color: #d4af37;
-      --theme-color-secondary: #ffd700;
+      --theme-color: #14b8a6;
+      --theme-color-secondary: #2dd4bf;
       --base-background-color: #1a1a1a;
       --base-color: #e0e0e0;
       --base-font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -24,14 +24,14 @@
 
       --sidebar-background: #141414;
       --sidebar-border-color: #2a2a2a;
-      --sidebar-name-color: #d4af37;
+      --sidebar-name-color: #14b8a6;
       --sidebar-nav-link-color: #b0b0b0;
-      --sidebar-nav-link-color--active: #d4af37;
-      --sidebar-nav-link-color--hover: #ffd700;
+      --sidebar-nav-link-color--active: #14b8a6;
+      --sidebar-nav-link-color--hover: #2dd4bf;
       --sidebar-nav-link-font-weight--active: 600;
-      --sidebar-nav-link-border-color--active: #d4af37;
+      --sidebar-nav-link-border-color--active: #14b8a6;
 
-      --heading-h1-color: #d4af37;
+      --heading-h1-color: #14b8a6;
       --heading-h2-color: #e0e0e0;
       --heading-h3-color: #c8c8c8;
       --heading-h2-border-color: #2a2a2a;
@@ -39,49 +39,49 @@
       --heading-h2-border-width: 0 0 1px 0;
       --heading-h2-padding: 0 0 0.4em 0;
 
-      --link-color: #d4af37;
-      --link-color--hover: #ffd700;
+      --link-color: #14b8a6;
+      --link-color--hover: #2dd4bf;
 
       --blockquote-background: #1f1f1f;
-      --blockquote-border-color: #d4af37;
+      --blockquote-border-color: #14b8a6;
       --blockquote-border-width: 0 0 0 4px;
       --blockquote-color: #c0c0c0;
 
       --code-inline-background: #2a2a2a;
-      --code-inline-color: #ffd700;
+      --code-inline-color: #2dd4bf;
       --code-theme-background: #0d0d0d;
 
-      --notice-tip-border-color: #d4af37;
+      --notice-tip-border-color: #14b8a6;
       --notice-important-border-color: #e74c3c;
 
       --cover-background-color: #0d0d0d;
-      --cover-background-image: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%);
+      --cover-background-image: linear-gradient(135deg, #0f2027 0%, #0d0d0d 50%, #134e4a 100%);
       --cover-color: #e0e0e0;
-      --cover-heading-color: #d4af37;
+      --cover-heading-color: #14b8a6;
       --cover-heading-font-weight: 700;
-      --cover-button-background: #d4af37;
+      --cover-button-background: #14b8a6;
       --cover-button-color: #0d0d0d;
-      --cover-button-border: 2px solid #d4af37;
+      --cover-button-border: 2px solid #14b8a6;
       --cover-button-border-radius: 4px;
       --cover-button-primary-background: transparent;
-      --cover-button-primary-color: #d4af37;
-      --cover-button-primary-border: 2px solid #d4af37;
+      --cover-button-primary-color: #14b8a6;
+      --cover-button-primary-border: 2px solid #14b8a6;
 
       --search-input-background-color: #2a2a2a;
       --search-input-color: #e0e0e0;
-      --search-result-heading-color: #d4af37;
+      --search-result-heading-color: #14b8a6;
       --search-result-item-color: #c0c0c0;
-      --search-result-item-color--active: #ffd700;
+      --search-result-item-color--active: #2dd4bf;
     }
 
-    /* Table styling */
+    /* Tables */
     .markdown-section table {
       border-collapse: collapse;
       margin: 1em 0;
     }
     .markdown-section table th {
       background: #2a2a2a;
-      color: #d4af37;
+      color: #14b8a6;
       border-color: #3a3a3a;
     }
     .markdown-section table td {
@@ -90,7 +90,7 @@
 
     /* Sidebar group styling */
     .sidebar-nav > ul > li > p {
-      color: #d4af37 !important;
+      color: #14b8a6 !important;
       font-weight: 700;
       font-size: 0.85em;
       text-transform: uppercase;
@@ -112,32 +112,135 @@
 
     /* Pagination styling */
     .pagination-item-title {
-      color: #d4af37 !important;
+      color: #14b8a6 !important;
     }
     .pagination-item-label {
       color: #888 !important;
+    }
+
+    /* === HOMEPAGE SERVER CARDS === */
+    .server-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+    .server-card {
+      display: block;
+      background: linear-gradient(145deg, #1f1f1f 0%, #161616 100%);
+      border: 1px solid #2a2a2a;
+      border-radius: 10px;
+      padding: 1.5rem;
+      text-decoration: none !important;
+      color: inherit !important;
+      transition: all 0.2s ease;
+      position: relative;
+      overflow: hidden;
+    }
+    .server-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0;
+      width: 4px;
+      height: 100%;
+      background: #14b8a6;
+      transition: width 0.2s ease;
+    }
+    .server-card:hover {
+      transform: translateY(-3px);
+      border-color: #14b8a6;
+      box-shadow: 0 8px 24px rgba(20, 184, 166, 0.15);
+    }
+    .server-card:hover::before {
+      width: 6px;
+    }
+    .server-card.disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    .server-card.disabled:hover {
+      transform: none;
+      border-color: #2a2a2a;
+      box-shadow: none;
+    }
+    .server-card h3 {
+      color: #14b8a6 !important;
+      margin: 0 0 0.5rem 0 !important;
+      font-size: 1.4em;
+    }
+    .server-card .status {
+      display: inline-block;
+      font-size: 0.75em;
+      padding: 0.2em 0.6em;
+      border-radius: 12px;
+      margin-bottom: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+    }
+    .server-card .status.live {
+      background: rgba(20, 184, 166, 0.15);
+      color: #2dd4bf;
+      border: 1px solid #14b8a6;
+    }
+    .server-card .status.planned {
+      background: rgba(180, 180, 180, 0.1);
+      color: #888;
+      border: 1px solid #444;
+    }
+    .server-card .meta {
+      font-size: 0.85em;
+      color: #888;
+      margin-top: 0.8rem;
+      line-height: 1.5;
+    }
+    .server-card .desc {
+      color: #c0c0c0;
+      font-size: 0.95em;
+      margin-bottom: 0.5rem;
+    }
+
+    /* Hub callout */
+    .hub-callout {
+      background: linear-gradient(145deg, #112624 0%, #0a1a18 100%);
+      border: 1px solid #14b8a6;
+      border-radius: 10px;
+      padding: 1.2rem 1.5rem;
+      margin: 1.5rem 0;
+    }
+    .hub-callout h4 {
+      color: #14b8a6 !important;
+      margin-top: 0 !important;
     }
   </style>
 </head>
 <body>
   <div id="app">Lade Wiki...</div>
   <script>
+    // === Alternate-Sidebar Logic ===
+    // We swap _sidebar.md per top-level section so each server only shows its own pages.
     window.$docsify = {
       name: 'Buffed Wiki',
       repo: 'https://github.com/NikeyV1/Buffed',
       logo: 'images/server-icon.png',
       loadSidebar: true,
       loadNavbar: true,
-      coverpage: true,
+      coverpage: ['/'],
       onlyCover: false,
       auto2top: true,
       maxLevel: 3,
       subMaxLevel: 3,
       homepage: 'README.md',
       notFoundPage: true,
-      relativePath: true,
+      relativePath: false,
 
-      // Search Plugin Config
+      // Alias per section → load the right sidebar
+      alias: {
+        '/buffsmp/.*/_sidebar.md': '/buffsmp/_sidebar.md',
+        '/vanilla/.*/_sidebar.md': '/vanilla/_sidebar.md',
+        '/hub/.*/_sidebar.md':     '/hub/_sidebar.md',
+        '/.*/_sidebar.md':         '/_sidebar.md'
+      },
+
       search: {
         maxAge: 86400000,
         paths: 'auto',
@@ -147,7 +250,6 @@
         hideOtherSidebarContent: false
       },
 
-      // Pagination Plugin Config
       pagination: {
         previousText: 'Zurück',
         nextText: 'Weiter',
@@ -155,14 +257,12 @@
         crossChapterText: true
       },
 
-      // Copy Code Plugin Config
       copyCode: {
         buttonText: 'Kopieren',
         errorText: 'Fehler',
         successText: 'Kopiert!'
       },
 
-      // Tabs Plugin Config
       tabs: {
         persist: true,
         sync: true,
@@ -171,41 +271,27 @@
         tabHeadings: true
       },
 
-      // Sidebar Collapse Plugin
       sidebarDisplayLevel: 1
     }
   </script>
 
-  <!-- Docsify Core -->
+  <!-- Core -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-
-  <!-- Themeable Plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
 
-  <!-- Search Plugin -->
+  <!-- Plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-
-  <!-- Pagination Plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-
-  <!-- Copy Code Plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-
-  <!-- Tabs Plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-
-  <!-- Sidebar Collapse Plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 
-  <!-- Syntax Highlighting (YAML, Java for plugin examples) -->
+  <!-- Syntax Highlighting -->
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-java.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
 
   <!-- Emoji -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-
-  <!-- External Links open in new tab -->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 </body>
 </html>
