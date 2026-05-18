@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](images/server-icon.ico ':size=160')
+![logo](images/server-icon.png ':size=160')
 
 # Buffed Wiki <small>S7</small>
 
