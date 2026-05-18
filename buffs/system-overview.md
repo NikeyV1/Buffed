@@ -12,7 +12,7 @@ Hier werden insbesondere das **Punkte-System**, Buff-Progression, Shops und allg
 - Buffs besitzen **aktive Fähigkeiten** (Rechtsklick / Sneaken + Rechtsklick)
 - Manche Buffs haben **passive Effekte**
 - Aktive Fähigkeiten haben feste **Cooldowns**
-- **Legendary Buffs** sind deutlich stärker und sind einzigartig
+- **Legendary Buffs** sind deutlich stärker und einzigartig
 - **Essences:**
     - Können im Shop gekauft oder durch ein erfolgreiches Ritual aktiviert werden
     - Verstärken den Buff erheblich
@@ -67,7 +67,7 @@ Punkte können ausgegeben werden für:
 
 - **Buff Tokens:** Ermöglichen das Kaufen eines Buff-Tokens
 - **Buff Items:** Direkte Buff-Items oder Hilfsmittel
-- **Essencen:** Kaufe essencen für den Buff
+- **Essencen:** Kaufe Essences für den Buff
 
 ---
 
@@ -75,15 +75,15 @@ Punkte können ausgegeben werden für:
 
 Kurzer Überblick über zentrale Commands des Buff-Systems:
 
-- **/settings**  
+- **`/settings`**
   Persönliche Einstellungen, z. B. Aktivierung/Deaktivierung der **Cooldown-Anzeige**.
 
-- **/bufflist**  
-  Zeigt alle Buffs und ob sie bereits per Ritual freigeschaltet wurden.  
+- **`/bufflist`**
+  Zeigt alle Buffs und ob sie bereits per Ritual freigeschaltet wurden.
   Dient der Übersicht über den aktuellen Server-Fortschritt.
 
-- **/points**  
-  Verwaltung des Punktesystems:  
+- **`/points`**
+  Verwaltung des Punktesystems:
   Punktestand einsehen, **Shop öffnen**, Punkte ausgeben oder bezahlen.
 
 ---
@@ -116,4 +116,4 @@ Kurzer Überblick über zentrale Commands des Buff-Systems:
     - Permanentes Hochbauen
     - Sich verbunkern
 - Gelegentliche Fluchtversuche sind erlaubt, dauerhaftes Entkommen widerspricht der vorgesehenen Tracker-Funktion
-- Das Ziel und die Trackende Person sind während des trackens in combat
+- Das Ziel und die trackende Person sind während des Trackings in Combat

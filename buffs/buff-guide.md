@@ -91,7 +91,6 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
   - Getroffene Spieler haben 10 Sekunden lang eine 30 % Chance, dass
     Wind Charges, Enderperlen und Blockplatzierung fehlschlagen *(160 Sek)*
 
-
 ---
 
 ### Cavalry Buff
@@ -116,8 +115,8 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 - **Rechtsklick:** Für 20 Sekunden werden komplette Bäume automatisch gefällt, sobald ein einzelner Log abgebaut wird *(100 Sek)*
 - **Rechtsklick + Sneaken:**
     - Speed II
-    - Dolphin’s Grace I
-    - Fire Resistance I *(20 Sek)*  
+    - Dolphin's Grace I
+    - Fire Resistance I *(20 Sek)*
       * Darf nicht zum Weglaufen aus Kämpfen benutzt werden
 - **Passiv:**
     - Blöcke landen direkt im Inventar
@@ -140,7 +139,7 @@ Diese Seite enthält eine vollständige Übersicht aller verfügbaren Buffs, ink
 
 ---
 
-### Duelist Buff 
+### Duelist Buff
 - **Rechtsklick:**
   - Aktiviert eine Parierhaltung für 3 Sekunden
   - Der nächste direkte Treffer wird vollständig negiert

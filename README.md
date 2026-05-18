@@ -1,84 +1,69 @@
-# Buff-System Wiki
+# Willkommen im Buffed Wiki
 
-Willkommen im offiziellen Wiki des **Buff-Systems**.  
-Hier findest du alle Informationen rund um Buffs, Essenzen, Rituale, Rezepte und das grundlegende System dahinter.
+Hier findest du **alle Informationen** rund um das Buffed-Netzwerk: Regeln, das Buff-System, Server-Infos und mehr.
 
-Dieses Wiki dient als **zentrale Referenz** für Spieler und Admins.
-
----
-
-## 📘 Inhalte
-
-### 🔮 Buff Guide
-Alles zu verfügbaren Buffs:
-- Fähigkeiten & Effekte
-- Aktivierungen
-- Cooldowns
-- Besonderheiten & Synergien
-
-Siehe: [Buff Guide](buff-guide.md)
+Nutze die **Sidebar links** oder die **Suche oben rechts**, um schnell zu finden, was du suchst.
 
 ---
 
-### 🧪 Essence Guide
-Essenzen verstärken Buffs oder schalten Zusatzmechaniken frei.
-- Essenz-Typen
-- Passive & aktive Effekte
-- Kombinationen mit Buffs
+## 🧭 Schnellzugriff
 
-Siehe: [Essence Guide](essence-guide.md)
+<!-- tabs:start -->
+
+#### **📜 Regeln**
+
+Das Regelwerk ist in **drei Ebenen** unterteilt:
+
+- **[Network Rules](rules/network-rules.md)** — Gelten überall im Buffed-Netzwerk.
+- **[BuffSMP Rules](rules/buffsmp-rules.md)** — Zusätzliche Regeln für BuffSMP.
+- **[Vanilla SMP Rules](rules/vanilla-rules.md)** — Zusätzliche Regeln für Vanilla SMP.
+
+> Jede Server-Regel kommt **on top** der Network Rules. Network Rules haben immer Priorität.
+
+#### **⚔️ Buff-System**
+
+Das Herzstück von BuffSMP. Hier wird alles erklärt:
+
+- **[Buff Guide](buffs/buff-guide.md)** — Alle Buffs, Fähigkeiten und Cooldowns.
+- **[Essence Guide](buffs/essence-guide.md)** — Wie Essences Buffs verstärken.
+- **[Altar & Ritual](buffs/altar-ritual.md)** — Buffs aktivieren und freischalten.
+- **[Systemübersicht](buffs/system-overview.md)** — Punkte, Shop, Commands.
+- **[Rezepte](buffs/recipes.md)** — Crafting-Rezepte aller Buff-Items.
+
+#### **🌐 Server**
+
+Alles rund um die Server selbst:
+
+- **[Beitritt](server/join.md)** — Wie komme ich auf den Server?
+- **[Seasons](server/seasons.md)** — Aktuelle und vergangene Seasons.
+
+<!-- tabs:end -->
 
 ---
 
-### 🗿 Altar-Ritual
-Das Herzstück des Systems.
-- Buff-Freischaltung
-- Ritualablauf
-- Token-Verbrauch
-- Voraussetzungen & Sonderfälle
+## 🔗 Links
 
-Siehe: [Altar-Ritual](altar-ritual.md)
-
----
-
-### ⚙️ Systemübersicht
-Grundlegende Mechaniken des gesamten Systems.
-
-Beinhaltet:
-- Buff-Wechsel & Progression
-- Tokens & Freischaltungen
-- Reroll-Mechaniken
-- Buff Items
-
-Siehe: [Systemübersicht](system-overview.md)
-
----
-
-### 🧾 Recipes
-Alle wichtigen Rezepte auf einen Blick:
-- Crafting-Rezepte
-- Spezialitems
-- Ritual-relevante Items
-
-Siehe: [Recipe](recipes.md)
+- 🌐 Website: [buffed.mineserver.top](https://buffed.mineserver.top)
+- 💬 Discord: [discord.gg/MQzbpd4rju](https://discord.gg/MQzbpd4rju)
+- 💎 Patreon: [patreon.com/NikeyV1](https://patreon.com/NikeyV1)
+- 📺 YouTube: [@NikeyV1](https://youtube.com/@NikeyV1)
+- 🔧 Modrinth: [NikeyV1](https://modrinth.com/user/NikeyV1)
 
 ---
 
 ## 📌 Hinweise
-- Änderungen am System werden regelmäßig aktualisiert
-- Werte können sich durch Balancing ändern
+
+- Inhalte werden **regelmäßig aktualisiert**.
+- Werte können sich durch **Balancing-Updates** ändern.
+- Bei Fragen oder Fehlern bitte einen Ticket im Discord öffnen.
 
 ---
 
-Viel Spaß beim Spielen und Experimentieren mit dem Buff-System.
+> [!TIP]
+> Du kannst die Wiki-Suche oben rechts auch mit `Strg + K` öffnen.
 
 ---
 
-### License
+### Lizenz
 
-⚠️ **All Rights Reserved**
-
-No use, modification, or redistribution permitted.
-
-See [LICENSE](https://github.com/NikeyV1/Buffed/blob/e18d5577398c47f5197eb9f0c404c7b5509f95fc/LICENSE).
-
+⚠️ **All Rights Reserved** — siehe [LICENSE](https://github.com/NikeyV1/Buffed/blob/main/LICENSE).

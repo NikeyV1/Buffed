@@ -1,8 +1,9 @@
 # Essence Guide
 
-Essenzen verstärken bestehende Buffs und verändern deren Fähigkeiten teils massiv.  
+Essenzen verstärken bestehende Buffs und verändern deren Fähigkeiten teils massiv.
 Sie erweitern **aktive Abilities**, fügen **neue Effekte** hinzu oder schalten **starke passive Mechaniken** frei.
 
+> [!TIP]
 > Eine Essence wirkt **nur in Kombination mit dem passenden Buff**.
 
 ---
@@ -54,8 +55,8 @@ Sie erweitern **aktive Abilities**, fügen **neue Effekte** hinzu oder schalten 
     - Mehr Geschwindigkeit
     - Kann höhere Blöcke erklimmen
 - Gegner in der Nähe erleiden:
-  - erleiden **kontinuierlichen Schaden**
-  - werden **leicht zum Pferd hingezogen**      
+  - **kontinuierlichen Schaden**
+  - werden **leicht zum Pferd hingezogen**
 
 **Banner of War**
 - Verbündete in der Nähe erhalten für **20 Sekunden**:
@@ -111,7 +112,7 @@ Sie erweitern **aktive Abilities**, fügen **neue Effekte** hinzu oder schalten 
 
 ### ⚔️ Aktive Ability Changes
 
-**Guardian’s**
+**Guardian's**
 - Wächter bleiben **40 Sekunden** aktiv *(statt 30)*
 - Alle 10 Sekunden:
     - Stoßen Gegner zurück
@@ -258,7 +259,7 @@ Sie erweitern **aktive Abilities**, fügen **neue Effekte** hinzu oder schalten 
 
 **Trailrunner Boost**
 - Speed III
-- Dolphin’s Grace
+- Dolphin's Grace
 - Fire Resistance
 - *(30 Sekunden)*
 
@@ -304,14 +305,12 @@ Sie erweitern **aktive Abilities**, fügen **neue Effekte** hinzu oder schalten 
 **Death Ban**
 - Getötete Spieler werden **permanent gebannt**
 
-Alles klar 👍
-Hier ist der **Duelist** jetzt **nur als Essence-Änderung gelistet**, ohne Basis-Buff-Funktionen, genau im Stil deines *Adventurer Essence*-Beispiels.
-
 ---
 
-## 🎯️ Duelist Essence
+## 🎯 Duelist Essence
 
 ### ⚔️ Aktive Ability Changes
+
 **Parry Stance**
 - Dauer: 5 Sekunden *(statt 3)*
 - Erfolgreiche Parade reflektiert 30 % des negierten Schadens
@@ -325,7 +324,7 @@ Hier ist der **Duelist** jetzt **nur als Essence-Änderung gelistet**, ohne Basi
 ### 💫 Passive Ability Changes
 
 **Standhafte Haltung**
-- Wenn mehr als 1. Gegner in der Nähe ist, bekommt der Spieler 10% weniger Schaden
+- Wenn mehr als 1 Gegner in der Nähe ist, bekommt der Spieler 10% weniger Schaden
 
 **Duellinstinkt**
 - Fügst du einem Gegner Schaden zu und dieser fällt darauffolgend unter 30 % Leben, erhält der Gegner Glowing
@@ -333,13 +332,14 @@ Hier ist der **Duelist** jetzt **nur als Essence-Änderung gelistet**, ohne Basi
 **Klingenreichweite**
 - Nach jedem Treffer in einer Combo (außer dem ersten Hit) erhöht sich deine Reach leicht
 - Stapelt sich bis zu max. +1 Block
-- Combo bricht ab, wenn 5 Sekunden kein Treffer landet oder schaden bekommen wurde
+- Combo bricht ab, wenn 5 Sekunden kein Treffer landet oder Schaden bekommen wurde
 
 ---
 
 ## 🩸 Leech Essence
 
 ### ⚔️ Aktive Ability Changes
+
 **Blood Nova**
 - Aktivierung gibt dir sofort volle Sättigung
 - Getroffene Gegner erhalten Hunger II (12 Sek)
@@ -349,6 +349,7 @@ Hier ist der **Duelist** jetzt **nur als Essence-Änderung gelistet**, ohne Basi
 - Jede Sekunde des aktiven Links: 1 Herz Leben wird direkt vom Ziel auf dich übertragen
 
 ### 💫 Passive Ability Changes
+
 **Seuchenatem**
 - Jeder Sense-Treffer hat eine 6 % Chance auf Poison II (3 Sek) beim Gegner
 - Trifft die Chance: +1.5 Herzen Sofort-Heilung

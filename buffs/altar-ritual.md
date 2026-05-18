@@ -1,6 +1,6 @@
 # Altar- & Ritualsystem
 
-Buffs können entweder über ein **Altar-Ritual** oder **direkt ohne Ritual** aktiviert werden.  
+Buffs können entweder über ein **Altar-Ritual** oder **direkt ohne Ritual** aktiviert werden.
 Beide Varianten werden über einen **Token** gestartet, unterscheiden sich jedoch deutlich in Ablauf, Anforderungen und Belohnungen.
 
 ---
@@ -22,7 +22,7 @@ Diese Variante entspricht dem klassischen **Altar-Ritual** und zählt als **Ritu
 - **1 Token** *(wird verbraucht)*
 - Das **alte Buff-Item** muss sich im Inventar befinden
 - Es müssen **mindestens genauso viele Gegner wie Allies** online sein
-    - Spieler müssen Angreifbar sein um als Gegner zu zählen
+    - Spieler müssen angreifbar sein, um als Gegner zu zählen
 - Das Ritual muss vor 22:00 Uhr beendet sein
     - An Wochenenden & Feiertagen bis 22:30 Uhr
 - **Ritualdauer:**
@@ -38,7 +38,7 @@ Diese Variante entspricht dem klassischen **Altar-Ritual** und zählt als **Ritu
     - Aufenthalt im 100-Block-Radius um den Altar
         - Verlassen des Bereichs → 30 Sekunden, um zurückzukehren
     - **Tod** des Spielers → Ritual wird sofort abgebrochen
-    - Campen ist nicht erlaubt 
+    - Campen ist nicht erlaubt
     - Eine **Bossbar** zeigt die verbleibende Ritualzeit an
 3. **Ritualabschluss**
     - **Altes Buff-Item vorhanden**
@@ -56,7 +56,7 @@ Diese Variante entspricht dem klassischen **Altar-Ritual** und zählt als **Ritu
 - Der Buff wird sofort aktiviert
 - **Kein Ritual**, **keine Wartezeit**, **keine Gegner-Anforderung**
 - Zählt nicht als Ritual-Freischaltung
-- **Keine Erstfreischaltungs-Belohnung**  
+- **Keine Erstfreischaltungs-Belohnung**
   *(keine 5-Tage-Essence)*
 
 ---
