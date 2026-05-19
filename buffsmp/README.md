@@ -26,17 +26,17 @@ Willkommen im BuffSMP-Wiki. BuffSMP ist ein semi-privater SMP mit einem einzigar
 
 #### **📖 Ich will mehr über das System verstehen**
 
-1. Lies die [Network Rules](../hub/network-rules.md) — gelten netzwerkweit.
-2. Lies die [BuffSMP Rules](buffsmp/rules.md) — gelten zusätzlich nur hier.
-3. Verstehe die [Systemübersicht](buffsmp/system-overview.md) — Punkte, Shop, Commands.
-4. Schau dir den [Buff Guide](buffsmp/buff-guide.md) an — alle Buffs im Überblick.
+1. Lies die [Network Rules](/hub/network-rules.md) — gelten netzwerkweit.
+2. Lies die [BuffSMP Rules](/buffsmp/rules.md) — gelten zusätzlich nur hier.
+3. Verstehe die [Systemübersicht](/buffsmp/system-overview.md) — Punkte, Shop, Commands.
+4. Schau dir den [Buff Guide](/buffsmp/buff-guide.md) an — alle Buffs im Überblick.
 
 #### **🎯 Ich kenne mich aus**
 
-- [Buff Guide](buffsmp/buff-guide.md) — Alle Buffs und Fähigkeiten.
-- [Essence Guide](buffsmp/essence-guide.md) — Verstärkungen für Buffs.
-- [Altar & Ritual](buffsmp/altar-ritual.md) — Buffs aktivieren und freischalten.
-- [Rezepte](buffsmp/recipes.md) — Crafting-Rezepte.
+- [Buff Guide](/buffsmp/buff-guide.md) — Alle Buffs und Fähigkeiten.
+- [Essence Guide](/buffsmp/essence-guide.md) — Verstärkungen für Buffs.
+- [Altar & Ritual](/buffsmp/altar-ritual.md) — Buffs aktivieren und freischalten.
+- [Rezepte](/buffsmp/recipes.md) — Crafting-Rezepte.
 
 <!-- tabs:end -->
 
@@ -44,38 +44,38 @@ Willkommen im BuffSMP-Wiki. BuffSMP ist ein semi-privater SMP mit einem einzigar
 
 ## 📚 Alle Sektionen
 
-### 📜 [BuffSMP Rules](buffsmp/rules.md)
+### 📜 [BuffSMP Rules](/buffsmp/rules.md)
 Server-spezifische Regeln — Combat, Items, Bases, Teaming, Bounties.
 
-### 🚪 [Beitritt](buffsmp/join.md)
+### 🚪 [Beitritt](/buffsmp/join.md)
 Application-Prozess und alles, was du vor dem Joinen wissen musst.
 
-### 🏆 [Seasons](buffsmp/seasons.md)
+### 🏆 [Seasons](/buffsmp/seasons.md)
 Aktuelle Season und Recaps vergangener Seasons.
 
 ---
 
 ## 🔮 Buff-System
 
-### [Systemübersicht](buffsmp/system-overview.md)
+### [Systemübersicht](/buffsmp/system-overview.md)
 Punkte-System, Shop, Commands und wichtige Buff-Items.
 
-### [Buff Guide](buffsmp/buff-guide.md)
+### [Buff Guide](/buffsmp/buff-guide.md)
 Alle Buffs mit Fähigkeiten, Cooldowns und Besonderheiten.
 
-### [Buff Tags](buffsmp/buff-tags.md)
+### [Buff Tags](/buffsmp/buff-tags.md)
 Welcher Buff passt zu welchem Spielstil?
 
-### [Essence Guide](buffsmp/essence-guide.md)
+### [Essence Guide](/buffsmp/essence-guide.md)
 Wie Essences Buffs erheblich verstärken.
 
-### [Altar & Ritual](buffsmp/altar-ritual.md)
+### [Altar & Ritual](/buffsmp/altar-ritual.md)
 Das zentrale Freischaltungssystem.
 
-### [Rezepte](buffsmp/recipes.md)
+### [Rezepte](/buffsmp/recipes.md)
 Crafting-Rezepte aller Buff-Items.
 
 ---
 
 > [!TIP]
-> Du suchst die **Network Rules** (gelten netzwerkweit)? Die findest du im [🧭 Hub](../hub/network-rules.md).
+> Du suchst die **Network Rules** (gelten netzwerkweit)? Die findest du im [🧭 Hub](/hub/network-rules.md).

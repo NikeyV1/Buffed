@@ -41,7 +41,7 @@ Nach Freigabe:
 ## ⚠️ Was du beachten solltest
 
 > [!WARNING]
-> Vor dem Beitritt solltest du **mindestens die [Network Rules](../hub/network-rules.md)** und die **[BuffSMP Rules](rules.md)** gelesen haben.
+> Vor dem Beitritt solltest du **mindestens die [Network Rules](/hub/network-rules.md)** und die **[BuffSMP Rules](/buffsmp/rules.md)** gelesen haben.
 
 - Nur **ein Account pro Spieler** — Alt-Accounts sind nicht erlaubt.
 - **Cracked / Offline-Mode** wird nicht unterstützt.

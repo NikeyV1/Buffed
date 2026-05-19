@@ -17,7 +17,7 @@ Ein Überblick über alle BuffSMP-Seasons.
 - Neue Buffs: **Duelist** und **Leech**
 - Player Tracker, Buff Swapper, Revive Beacon
 
-> Details siehe [Buff Guide](buff-guide.md) und [Systemübersicht](system-overview.md).
+> Details siehe [Buff Guide](/buffsmp/buff-guide.md) und [Systemübersicht](/buffsmp/system-overview.md).
 
 ---
 

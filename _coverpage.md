@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](images/server-icon.png ':size=160')
+![logo](/images/server-icon.png ':size=160')
 
 # Buffed Wiki
 
@@ -13,4 +13,4 @@
 
 [Discord](https://discord.gg/MQzbpd4rju)
 [Patreon](https://patreon.com/NikeyV1)
-[Wiki starten](README.md)
+[Wiki starten](/README.md)

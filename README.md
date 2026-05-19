@@ -32,7 +32,7 @@ Wähle den **Server, den du spielst** — und du siehst nur Inhalte, die für di
 
 #### 🧭 Du suchst Allgemeines?
 
-Network Rules, FAQ und alles, was für **jeden** Buffed-Server gilt, findest du im **[Hub](hub/README.md)**.
+Network Rules, FAQ und alles, was für **jeden** Buffed-Server gilt, findest du im **[Hub](/hub/README.md)**.
 
 </div>
 
@@ -48,7 +48,7 @@ Network Rules, FAQ und alles, was für **jeden** Buffed-Server gilt, findest du 
 ---
 
 > [!TIP]
-> Du suchst etwas Bestimmtes? Nutze die **Suche oben rechts** in der Sidebar.
+> Du suchst etwas Bestimmtes? Nutze die **Suche** oben in der Sidebar.
 
 ---
 

@@ -6,7 +6,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Offizielles Wiki von Buffed – BuffSMP, Vanilla SMP, Regeln & Buff-System">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="icon" href="images/server-icon.ico" type="image/x-icon">
+
+  <!-- Favicons (multiple formats for best browser support) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="images/server-icon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/server-icon.png">
+  <link rel="shortcut icon" href="images/server-icon.png">
+  <link rel="apple-touch-icon" href="images/server-icon.png">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Buffed Wiki">
+  <meta property="og:description" content="Offizielles Wiki des Buffed-Netzwerks">
+  <meta property="og:image" content="images/server-icon.png">
+  <meta property="og:type" content="website">
 
   <!-- Docsify Themeable Base Theme -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
@@ -107,13 +118,13 @@
       margin: 0.3em 0.3em 0.3em 0;
     }
 
-    /* Code block tweaks */
+    /* Code blocks */
     .markdown-section pre {
       border-radius: 6px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.3);
     }
 
-    /* Pagination styling */
+    /* Pagination */
     .pagination-item-title {
       color: #14b8a6 !important;
     }
@@ -229,11 +240,15 @@
       notFoundPage: true,
       relativePath: false,
 
+      // Alias-Konfiguration: jede Section bekommt ihre eigene Sidebar.
+      // WICHTIG: Reihenfolge zählt — spezifische Patterns ZUERST.
       alias: {
-        '/buffsmp/.*/_sidebar.md': '/buffsmp/_sidebar.md',
-        '/vanilla/.*/_sidebar.md': '/vanilla/_sidebar.md',
-        '/hub/.*/_sidebar.md':     '/hub/_sidebar.md',
-        '/.*/_sidebar.md':         '/_sidebar.md'
+        '/buffsmp/_sidebar.md':       '/buffsmp/_sidebar.md',
+        '/vanilla/_sidebar.md':       '/vanilla/_sidebar.md',
+        '/hub/_sidebar.md':           '/hub/_sidebar.md',
+        '/buffsmp/.*/_sidebar.md':    '/buffsmp/_sidebar.md',
+        '/vanilla/.*/_sidebar.md':    '/vanilla/_sidebar.md',
+        '/hub/.*/_sidebar.md':        '/hub/_sidebar.md'
       },
 
       search: {

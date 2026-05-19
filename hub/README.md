@@ -6,7 +6,7 @@ Hier findest du alles, was für **jeden** Buffed-Server gilt — egal ob du Buff
 
 ## 📚 Inhalte des Hubs
 
-### [📜 Network Rules](hub/network-rules.md)
+### [📜 Network Rules](/hub/network-rules.md)
 
 Die **Basis-Regeln des gesamten Buffed-Netzwerks**. Gelten überall: in jedem Server, im Discord, in jedem offiziellen Channel.
 
@@ -14,7 +14,7 @@ Die **Basis-Regeln des gesamten Buffed-Netzwerks**. Gelten überall: in jedem Se
 
 ---
 
-### [❓ FAQ](hub/faq.md)
+### [❓ FAQ](/hub/faq.md)
 
 Häufig gestellte Fragen zu Servern, Beitritt, Mods und Community.
 

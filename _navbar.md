@@ -1,10 +1,10 @@
 <!-- _navbar.md -->
 
 * [🏠 Home](/)
-* [🧭 Hub](hub/)
+* [🧭 Hub](/hub/)
 * Server
-  * [⚔️ BuffSMP](buffsmp/)
-  * [🌿 Vanilla SMP](vanilla/)
+  * [⚔️ BuffSMP](/buffsmp/)
+  * [🌿 Vanilla SMP](/vanilla/)
 * Links
   * [💬 Discord](https://discord.gg/MQzbpd4rju)
   * [💎 Patreon](https://patreon.com/NikeyV1)
