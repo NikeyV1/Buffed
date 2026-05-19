@@ -7,7 +7,7 @@
 
 ## Was bereits feststeht
 
-- Beitritt vermutlich über **Discord-Application** (wie bei BuffSMP).
+- Beitritt vermutlich öffentlich (Verify möglich)
 - **Java-Edition Minecraft Account** erforderlich.
 - Geplante Server-Version: **Paper 26.1.2**.
 - Nur **ein Account pro Spieler** — Alt-Accounts sind nicht erlaubt.
