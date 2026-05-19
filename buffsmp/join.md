@@ -1,10 +1,13 @@
 # 🚪 Beitritt zu BuffSMP
 
+> [!IMPORTANT]
+> **BuffSMP Season 7 ist beendet** — aktuell kann man nicht joinen. Die folgende Anleitung dient als Referenz für künftige Seasons. Updates kommen im [Discord](https://discord.gg/MQzbpd4rju).
+
 BuffSMP ist ein **semi-privater Server**. Um zu joinen, musst du den **Application-Prozess** durchlaufen.
 
 ---
 
-## 📝 So joinst du
+## 📝 So joinst du (wenn der Server live ist)
 
 ### Schritt 1: Discord beitreten
 
@@ -29,7 +32,7 @@ Im Discord findest du den Application-Channel. Die Application besteht aus **5 k
 ### Schritt 4: Server joinen
 
 Nach Freigabe:
-1. Joine den Server mit der IP `buffed.mineserver.top`
+1. Joine den Server mit der dann aktuellen IP
 2. Du landest zunächst in einem **Limbo-Bereich**
 3. Ein Staff-Mitglied schaltet dich **manuell ingame frei**
 
@@ -63,4 +66,4 @@ Nein, aber sie helfen. Wenn dich jemand bereits aus dem Discord kennt und für d
 ---
 
 > [!TIP]
-> Probleme beim Joinen? Öffne ein **Ticket im Discord** — Staff hilft schnell weiter.
+> Probleme oder Fragen zur nächsten Season? Öffne ein **Ticket im Discord** — Staff hilft schnell weiter.

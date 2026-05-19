@@ -2,14 +2,14 @@
 
 ![logo](images/server-icon.png ':size=160')
 
-# Buffed Wiki <small>S7</small>
+# Buffed Wiki
 
 > Das offizielle Wiki des Buffed-Netzwerks.
 
 - ⚔️ Vollständige Buff- & Essence-Übersicht
 - 📜 Network- und Server-Regeln
 - 🗿 Ritualsystem, Punkte & Shops
-- 🌐 Live auf `buffed.mineserver.top`
+- 🌐 Mehrere Buffed-Server unter einem Dach
 
 [Discord](https://discord.gg/MQzbpd4rju)
 [Patreon](https://patreon.com/NikeyV1)

@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Offizielles Wiki von Buffed – BuffSMP, Vanilla SMP, Regeln & Buff-System">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="icon" href="images/server-icon.png" type="image/x-icon">
+  <link rel="icon" href="images/server-icon.ico" type="image/x-icon">
 
   <!-- Docsify Themeable Base Theme -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
@@ -25,6 +25,9 @@
       --sidebar-background: #141414;
       --sidebar-border-color: #2a2a2a;
       --sidebar-name-color: #14b8a6;
+      --sidebar-name-font-size: 1.4em;
+      --sidebar-name-font-weight: 700;
+      --sidebar-name-margin: 0.5em 0 1em 0;
       --sidebar-nav-link-color: #b0b0b0;
       --sidebar-nav-link-color--active: #14b8a6;
       --sidebar-nav-link-color--hover: #2dd4bf;
@@ -154,15 +157,6 @@
     .server-card:hover::before {
       width: 6px;
     }
-    .server-card.disabled {
-      opacity: 0.5;
-      cursor: not-allowed;
-    }
-    .server-card.disabled:hover {
-      transform: none;
-      border-color: #2a2a2a;
-      box-shadow: none;
-    }
     .server-card h3 {
       color: #14b8a6 !important;
       margin: 0 0 0.5rem 0 !important;
@@ -186,6 +180,11 @@
       background: rgba(180, 180, 180, 0.1);
       color: #888;
       border: 1px solid #444;
+    }
+    .server-card .status.offline {
+      background: rgba(180, 180, 180, 0.08);
+      color: #777;
+      border: 1px solid #333;
     }
     .server-card .meta {
       font-size: 0.85em;
@@ -216,12 +215,9 @@
 <body>
   <div id="app">Lade Wiki...</div>
   <script>
-    // === Alternate-Sidebar Logic ===
-    // We swap _sidebar.md per top-level section so each server only shows its own pages.
     window.$docsify = {
       name: 'Buffed Wiki',
       repo: 'https://github.com/NikeyV1/Buffed',
-      logo: 'images/server-icon.png',
       loadSidebar: true,
       loadNavbar: true,
       coverpage: ['/'],
@@ -233,7 +229,6 @@
       notFoundPage: true,
       relativePath: false,
 
-      // Alias per section → load the right sidebar
       alias: {
         '/buffsmp/.*/_sidebar.md': '/buffsmp/_sidebar.md',
         '/vanilla/.*/_sidebar.md': '/vanilla/_sidebar.md',

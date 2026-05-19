@@ -1,4 +1,4 @@
-<!-- _sidebar.md (Hub-Ebene) -->
+<!-- _sidebar.md -->
 
 * [🏠 Startseite](README.md)
 

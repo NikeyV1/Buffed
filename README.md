@@ -6,7 +6,7 @@ Wähle den **Server, den du spielst** — und du siehst nur Inhalte, die für di
 
 <a href="#/buffsmp/" class="server-card">
   <h3>⚔️ BuffSMP</h3>
-  <span class="status planned">⚫ OFFLINE — Season 7 beendet</span>
+  <span class="status offline">⚫ OFFLINE — Season 7 beendet</span>
   <div class="desc">Semi-privater SMP mit dem berühmten Buff-System. Season 7 ist abgeschlossen — Recaps und Wiki bleiben verfügbar.</div>
   <div class="meta">
     <strong>Status:</strong> Aktuell offline<br>
@@ -20,7 +20,7 @@ Wähle den **Server, den du spielst** — und du siehst nur Inhalte, die für di
   <div class="desc">Reine Vanilla-Erfahrung im Buffed-Stil. Fokus auf Community, Survival und faire Gameplay-Regeln.</div>
   <div class="meta">
     <strong>Status:</strong> In Vorbereitung<br>
-    <strong>Launch:</strong> Folgt
+    <strong>Geplante Version:</strong> Paper 26.1.2
   </div>
 </a>
 
@@ -48,7 +48,7 @@ Network Rules, FAQ und alles, was für **jeden** Buffed-Server gilt, findest du 
 ---
 
 > [!TIP]
-> Du suchst etwas Bestimmtes? Nutze die **Suche oben rechts**.
+> Du suchst etwas Bestimmtes? Nutze die **Suche oben rechts** in der Sidebar.
 
 ---
 

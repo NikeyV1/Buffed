@@ -4,13 +4,13 @@ Ein Überblick über alle BuffSMP-Seasons.
 
 ---
 
-## 🌟 Season 7 — Aktuell
+## 🌟 Season 7 — Beendet
 
 - **Start:** 20. März 2026
-- **Version:** 1.21.8 (Paper)
-- **Status:** 🟢 Live
+- **Version:** Paper 1.21.11
+- **Status:** ⚫ Beendet
 
-### Neuheiten dieser Season
+### Highlights dieser Season
 - **16 Buffs** insgesamt, davon **2 Legendary** (Dragon, Trickster)
 - **Essence-System** — Erstfreischaltungen geben 5 Tage Essence gratis
 - **Punkte-System** ersetzt das alte Lebenssystem
@@ -43,3 +43,8 @@ Während jeder Season laufen besondere Events:
 - **Easter Egg Hunt** *(April)* — Items sammeln, Legendary Armor freischalten
 - **Dragon Fight** — Event-Boss mit besonderen Belohnungen
 - **Weitere Events** werden im Discord angekündigt
+
+---
+
+> [!IMPORTANT]
+> Eine **neue Season** ist nach dem Ende von S7 noch nicht angekündigt. Wenn etwas kommt, erfährst du es im [Discord](https://discord.gg/MQzbpd4rju) zuerst.

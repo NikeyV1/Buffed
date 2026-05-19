@@ -11,6 +11,7 @@ Sobald der Vanilla SMP startet, werden hier die spezifischen Regeln für diesen 
 
 - Die [Network Rules](../hub/network-rules.md) gelten weiterhin uneingeschränkt.
 - Fokus liegt auf einer **möglichst reinen Vanilla-Erfahrung**.
+- Geplante Server-Version: **Paper 26.1.2** (oder neuere Release).
 - Genauere Regeln zu Combat, Bases und Teaming folgen.
 
 ---

@@ -1,23 +1,22 @@
 # ⚔️ BuffSMP
 
-**Season 7 — Live**
+**Season 7 — Beendet**
 
-Willkommen im BuffSMP — einem semi-privaten SMP mit einem einzigartigen **Buff-System**. Jeder Spieler bekommt eine besondere Fähigkeit, die seinen Spielstil definiert.
+Willkommen im BuffSMP-Wiki. BuffSMP ist ein semi-privater SMP mit einem einzigartigen **Buff-System** — jeder Spieler bekommt eine besondere Fähigkeit, die seinen Spielstil definiert.
+
+> [!IMPORTANT]
+> **Season 7 ist beendet — der Server ist aktuell offline.** Das Wiki bleibt als Referenz erhalten. Neuigkeiten zu künftigen Seasons werden im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
 
 ---
 
-## 📋 Server-Info
+## 📋 Server-Info (Season 7)
 
 | | |
 |---|---|
-| **IP** | `buffed.mineserver.top` |
-| **Version** | Paper 1.21.8 |
+| **Version** | Paper 1.21.11 |
 | **Modus** | Survival + Buffs |
 | **Zugang** | Discord-Application + In-Game Unlock |
-| **Status** | 🟢 Aktiv seit 20. März 2026 |
-
-> [!TIP]
-> Du willst joinen? Schau in die [Beitritts-Anleitung](buffsmp/join.md).
+| **Status** | ⚫ Offline (Season 7 beendet) |
 
 ---
 
@@ -25,13 +24,12 @@ Willkommen im BuffSMP — einem semi-privaten SMP mit einem einzigartigen **Buff
 
 <!-- tabs:start -->
 
-#### **🆕 Ich bin neu auf BuffSMP**
+#### **📖 Ich will mehr über das System verstehen**
 
 1. Lies die [Network Rules](../hub/network-rules.md) — gelten netzwerkweit.
 2. Lies die [BuffSMP Rules](buffsmp/rules.md) — gelten zusätzlich nur hier.
-3. Folge der [Beitritts-Anleitung](buffsmp/join.md).
-4. Verstehe die [Systemübersicht](buffsmp/system-overview.md) — Punkte, Shop, Commands.
-5. Schau dir den [Buff Guide](buffsmp/buff-guide.md) an — alle Buffs im Überblick.
+3. Verstehe die [Systemübersicht](buffsmp/system-overview.md) — Punkte, Shop, Commands.
+4. Schau dir den [Buff Guide](buffsmp/buff-guide.md) an — alle Buffs im Überblick.
 
 #### **🎯 Ich kenne mich aus**
 

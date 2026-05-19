@@ -8,12 +8,14 @@ Der Vanilla SMP ist ein **klassischer Survival-Server** im Buffed-Stil. Fokus li
 
 ## 📋 Server-Info
 
-| |                    |
-|---|--------------------|
+| | |
+|---|---|
 | **Status** | 🟡 In Vorbereitung |
-| **Geplante Version** | Paper 26.1.2       |
-| **Modus** | Vanilla Survival   |
-| **Launch** | Folgt              |
+| **Geplante Version** | Paper 26.1.2 |
+| **Modus** | Vanilla Survival |
+| **Launch** | Folgt |
+
+> Geplant wird auf der aktuellen Minecraft-Release-Version (26.1.2 — "Tiny Takeover"). Sollte vor Launch eine neuere Release erscheinen, wird auf diese aktualisiert.
 
 ---
 
@@ -31,7 +33,7 @@ Der Vanilla SMP ist ein **klassischer Survival-Server** im Buffed-Stil. Fokus li
 
 Ein klassischer SMP ohne Buff-System. **Keine Buffs, keine Essences, keine Rituale.** Reine Vanilla-Erfahrung mit Community-Fokus.
 
-Wenn du das Buff-System suchst, du bist hier falsch — schau dir [BuffSMP](../buffsmp/README.md) an.
+Wenn du das Buff-System suchst, du bist hier falsch — schau dir [BuffSMP](../buffsmp/README.md) an *(aktuell offline, Season 7 beendet)*.
 
 <!-- tabs:end -->
 

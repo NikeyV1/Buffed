@@ -9,6 +9,7 @@
 
 - Beitritt vermutlich über **Discord-Application** (wie bei BuffSMP).
 - **Java-Edition Minecraft Account** erforderlich.
+- Geplante Server-Version: **Paper 26.1.2**.
 - Nur **ein Account pro Spieler** — Alt-Accounts sind nicht erlaubt.
 
 ---
@@ -22,4 +23,4 @@ Sobald der Vanilla SMP startet, wird er dort offiziell angekündigt.
 ---
 
 > [!TIP]
-> Du willst aktuell schon spielen? Schau dir den [BuffSMP](../buffsmp/README.md) an — der ist live.
+> BuffSMP Season 7 ist beendet und aktuell offline. Updates zu künftigen BuffSMP-Seasons kommen ebenfalls über Discord.

@@ -26,7 +26,7 @@ Häufig gestellte Fragen zu Servern, Beitritt, Mods und Community.
 
 <a href="#/buffsmp/" class="server-card">
   <h3>⚔️ BuffSMP</h3>
-  <span class="status live">🟢 LIVE — Season 7</span>
+  <span class="status offline">⚫ OFFLINE — Season 7 beendet</span>
   <div class="desc">Buff-System, Rituale, Essences, PvP.</div>
 </a>
 
