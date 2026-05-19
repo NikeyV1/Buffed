@@ -28,7 +28,7 @@ Ein Überblick über alle BuffSMP-Seasons.
 
 ### Season 6
 - Abgeschlossen vor S7-Launch
-- Letzte Season mit dem alten Lebenssystem
+- Points rework
 
 ### Frühere Seasons
 - Die Buffed-Serverhistorie reicht über mehrere Seasons zurück
