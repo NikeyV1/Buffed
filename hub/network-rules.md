@@ -114,8 +114,6 @@ The following are not allowed under any circumstances:
 - Reach / Hitbox modifiers
 - Aim Assist, Killaura, Triggerbot
 - ESP, Player Tracers, Player Radar
-- Minimaps that show entities, players, or mobs
-- Health Indicators (client-side) — Buffed has its own server-side system
 - Item Indicators
 - Loot Beams
 
@@ -126,14 +124,14 @@ The following are not allowed under any circumstances:
 - Macros that bind multiple actions to one key beyond standard mouse use
 
 **Movement & timing**
-- Speed mods, Timer mods, Step / Spider, Flight, Free Move, Freecam (legacy building exception only)
+- Speed mods, Timer mods, Step / Spider, Flight, Free Move, Freecam
 - Wall-Jump, Ladder Warp, Faster Ladder Climbing, Jump Over Fences
 - No-Jump-Delay, No-Input-Lag, anything that modifies tick rate
 
 **Inventory & placement**
 - Inventory Move, Inventory Profiles Next, Mouse Tweaks, Item Scroller
 - Accurate Block Placement, Pro Placer, Smart Block Placement, Cut Through
-- Tweakaroo, Tweakeroo
+- Tweakaroo
 - Schematic mods of any kind beyond plain Litematica building mode
 
 **Connection & ping**
@@ -144,7 +142,7 @@ The following are not allowed under any circumstances:
 **Other**
 - Click Crystals, Crystal Optimizer (auto-targeting variants)
 - Anchor Optimizer (auto-targeting variants)
-- Elytra Swapper, Shield Delay Optimizer, Consumable Optimizer
+- Client Commands
 - Drag-clicking is permitted at your own risk — if it crosses into automation territory, it will still be punished.
 
 *This list is not exhaustive. Any mod, resource pack, or client modification that provides an advantage outside of vanilla gameplay is forbidden by default. If you are unsure, ask in a ticket before using it.*
@@ -157,7 +155,7 @@ When staff suspects a violation, they may freeze you and request a screenshare. 
 
 - Refusing to screenshare = ban.
 - Closing Minecraft, killing the process, or disconnecting while frozen = immediate ban.
-- You must join the Discord screenshare voice channel within 3 minutes of being requested.
+- You must join the Discord screenshare voice channel as quickly as possible after being requested. Delaying, stalling, or intentionally wasting time may result in punishment. Failure to join within 3 minutes may be treated as refusal to screenshare.
 - Custom or modified operating systems are not encouraged. Using one is at your own risk — if essential services are missing, that may also result in a ban.
 
 The following actions are forbidden during the session in which you are frozen, and immediately before a screenshare begins:
@@ -212,4 +210,4 @@ If services are disabled, you may be asked to re-enable them and reboot before t
 - Punishments scale with severity, repetition, and history.
 - Appeals go through Discord tickets. One appeal per punishment — final decisions are final.
 
-**Last updated:** April 28, 2026
+**Last updated:** May 19, 2026
