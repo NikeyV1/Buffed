@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Pfade auf absolute Links aktualisieren und Metadaten ergänzen">
+    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="network-rules.md aktualisiert">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hub/network-rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/hub/network-rules.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,11 +95,20 @@
       <option name="project" value="LOCAL" />
       <updated>1779184546926</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="network-rules.md aktualisiert">
+      <option name="closed" value="true" />
+      <created>1779193775785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779193775785</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pfade auf absolute Links aktualisieren und Metadaten ergänzen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pfade auf absolute Links aktualisieren und Metadaten ergänzen" />
+    <MESSAGE value="network-rules.md aktualisiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="network-rules.md aktualisiert" />
   </component>
 </project>

@@ -142,7 +142,7 @@ The following are not allowed under any circumstances:
 **Other**
 - Click Crystals, Crystal Optimizer (auto-targeting variants)
 - Anchor Optimizer (auto-targeting variants)
-- Client Commands
+- Client Commands, OpSec
 - Drag-clicking is permitted at your own risk — if it crosses into automation territory, it will still be punished.
 
 *This list is not exhaustive. Any mod, resource pack, or client modification that provides an advantage outside of vanilla gameplay is forbidden by default. If you are unsure, ask in a ticket before using it.*
