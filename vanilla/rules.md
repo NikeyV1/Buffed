@@ -16,6 +16,7 @@ The Vanilla SMP is a public Vanilla server with small adjustments, the game stay
 - No Elytra in combat or while in a danger zone.
 - No Riptide trident in fights.
 - **Crystal PvP is forbidden.** End Crystals + Anchors may not be used as a weapon.
+- No bed bombing. Using beds to deal explosion damage.
 - No abusing mechanics in fights – including but not limited to excessive ender pearl spam.
 - No camping or harming AFK players.
 - No water-running or lava-running mechanics.
