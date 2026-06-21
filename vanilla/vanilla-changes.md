@@ -69,14 +69,14 @@ Items überleben Explosionen, Feuer und Lava. Kaktus und Blitz zerstören sie we
 ## 🛠️ Custom Crafting-Rezepte
 
 ### Goldener Apfel
-![Golden Apple Recipe](/images/recipes/goldenapplerecipe.png)
+![Golden Apple Recipe](../images/recipes/goldenapplerecipe.png)
 
 Ersetzt das Vanilla-Rezept (Vanilla nutzt 8 Goldbarren).
 
 ---
 
 ### Cobwebs
-![Cobweb Recipe](/images/recipes/cobwebrecipe.png)
+![Cobweb Recipe](../images/recipes/cobwebrecipe.png)
 
 Ersetzt das Vanilla-Rezept und ergibt 2 Cobwebs pro Craft.
 
@@ -118,7 +118,7 @@ Der Loot der **Ominous Vaults** ist über ein Datapack angepasst. Die Pool-Struk
 
 ### Unique-Pool (75 % Chance pro Vault)
 
-Hier liegen die größten Änderungen. Der Pool wurde von wenigen gleichgewichteten Items auf eine breitere, gewichtete Verteilung umgestellt. 
+Hier liegen die größten Änderungen. Der Pool wurde von wenigen gleichgewichteten Items auf eine breitere, gewichtete Verteilung umgestellt.
 
 | Item | Anteil im Pool | Chance pro Vault |
 |---|---|---|
