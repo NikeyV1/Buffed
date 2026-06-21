@@ -118,7 +118,7 @@ Der Loot der **Ominous Vaults** ist über ein Datapack angepasst. Die Pool-Struk
 
 ### Unique-Pool (75 % Chance pro Vault)
 
-Hier liegen die größten Änderungen. Der Pool wurde von wenigen gleichgewichteten Items auf eine breitere, gewichtete Verteilung umgestellt.
+Hier liegen die größten Änderungen. Der Pool wurde von wenigen gleichgewichteten Items auf eine breitere, gewichtete Verteilung umgestellt. 
 
 | Item | Anteil im Pool | Chance pro Vault |
 |---|---|---|
