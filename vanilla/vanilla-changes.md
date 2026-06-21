@@ -13,7 +13,17 @@ Diese Seite listet **alle Abweichungen vom reinen Vanilla-Verhalten** auf dem Va
 |---|---|---|
 | Geschwindigkeits-Cap | aktiv, max. **2.2** | unbegrenzt (~2.0+ bei Boost-Würfen) |
 
-Ein Endermite kann beim Werfen einer Enderpearl spawnen mit einer Chance von **1 %** (Vanilla-Standard: 5 %).
+Geboostete Enderpearl-Würfe werden auf eine maximale Geschwindigkeit von 2.2 begrenzt.
+
+---
+
+## 🐛 Endermite
+
+| Einstellung | Wert | Vanilla |
+|---|---|---|
+| Spawn-Chance pro Wurf | **1 %** | 5 % |
+
+Beim Werfen einer Enderpearl kann ein Endermite spawnen. Die Chance dafür ist von 5 % auf 1 % gesenkt.
 
 ---
 
