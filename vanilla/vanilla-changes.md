@@ -152,11 +152,27 @@ Der Rare-Pool ist ebenfalls angepasst. Verteilung der Einträge:
 > Beim Buch **Breach/Density** hat Density die **doppelte Chance** wie Breach.
 
 > [!NOTE]
-> Die Bücher für **Breach**, **Density** und **Wind Burst** sind weiterhin exklusiv über den Vault erhältlich. Wind Burst ist auf Stufe I beschränkt.
+> Die Bücher für **Breach**, **Density**, **Wind Burst** und **Knockback** sind exklusiv über den Vault erhältlich. Wind Burst ist auf Stufe I beschränkt.
 
 ### Common-Pool
 
 Der Common-Pool ist **unverändert** und entspricht dem Vanilla-\`reward_ominous_common\`. Pro Vault werden 1–3 Common-Rolls gezogen; fällt der Rare-Drop aus, kommt eine zusätzliche Common-Roll dazu.
+
+---
+
+## ✨ Exklusive Verzauberungen
+
+Bestimmte Verzauberungen sind **exklusiv** und können weder über den Verzauberungstisch noch über Dorfbewohner-Händler erworben werden.
+
+| Verzauberung | Vanilla-Quellen | Auf dem Vanilla SMP |
+|---|---|---|
+| Density | Verzauberungstisch, Dorfbewohner | ❌ gesperrt |
+| Breach | Verzauberungstisch, Dorfbewohner | ❌ gesperrt |
+| Wind Burst | Verzauberungstisch, Dorfbewohner | ❌ gesperrt |
+| Knockback | Verzauberungstisch, Dorfbewohner | ❌ gesperrt |
+
+> [!IMPORTANT]
+> Diese Verzauberungen sind ausschließlich über **Ominous Vaults** erhältlich. Alle anderen Bezugsquellen — inklusive Verzauberungstisch und Dorfbewohner-Händler — sind für diese Enchants blockiert.
 
 ---
 
