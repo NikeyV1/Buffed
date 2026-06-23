@@ -20,7 +20,7 @@ Wähle den **Server, den du spielst** — und du siehst nur Inhalte, die für di
   <div class="desc">Reine Vanilla-Erfahrung im Buffed-Stil. Fokus auf Community, Survival und faire Gameplay-Regeln.</div>
   <div class="meta">
     <strong>Status:</strong> In Vorbereitung<br>
-    <strong>Geplante Version:</strong> Paper 26.1.2
+    <strong>Geplante Version:</strong> Paper 26.2
   </div>
 </a>
 
