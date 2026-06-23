@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Vanilla SMP Join Instructions &amp; Launch Details&#10;&#10;- Added launch date (June 26, 2026) and server IP address.&#10;- Clarified that the server is public and requires no application or whitelist.&#10;- Outlined joining steps and the optional Discord verification process for bonus Sparks.&#10;- Updated technical requirements, including the target Paper version and a restriction on ViaVersion clients.&#10;- Linked to network and server-specific rules for better visibility.">
+    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Fix image paths in documentation files&#10;&#10;- Updated image links in buffsmp/recipes.md and vanilla/vanilla-changes.md to use relative paths.&#10;- Ensures images resolve correctly from subdirectories by referencing the parent directory.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vanilla/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vanilla/vanilla-changes.md" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla/vanilla-changes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="52" />
+    <option name="cachedIndexableFilesCount" value="53" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,7 +147,31 @@
       <option name="project" value="LOCAL" />
       <updated>1782002231993</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update Vanilla Changes documentation and IDE workspace&#10;&#10;- Restructured the Endermite spawn chance section in vanilla-changes.md into a table for better readability.&#10;- Added clarifying text regarding the Enderpearl speed cap.&#10;- Updated IntelliJ IDEA workspace configuration to reflect recent file changes and version control settings.">
+      <option name="closed" value="true" />
+      <created>1782002538680</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782002538680</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update Vanilla Changes documentation and IDE workspace&#10;&#10;- Restructured the Endermite spawn chance section in vanilla-changes.md into a table for better readability.&#10;- Added clarifying text regarding the Enderpearl speed cap.&#10;- Updated IntelliJ IDEA workspace configuration to reflect recent file changes and version control settings.">
+      <option name="closed" value="true" />
+      <created>1782002852584</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782002852584</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix image paths in documentation files&#10;&#10;- Updated image links in buffsmp/recipes.md and vanilla/vanilla-changes.md to use relative paths.&#10;- Ensures images resolve correctly from subdirectories by referencing the parent directory.">
+      <option name="closed" value="true" />
+      <created>1782003349005</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782003349005</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +180,8 @@
     <MESSAGE value="Vanilla SMP Rules and Combat Guidelines&#10;&#10;- Replaced placeholder content with a comprehensive set of rules for the Vanilla SMP.&#10;- Defined combat regulations, including a 3-minute combat timer, 10-minute re-engagement cooldown, and bans on Crystal PvP, Elytras, and Riptide tridents during fights.&#10;- Restricted specific items like Slow Falling and Weakness effects in combat and danger zones.&#10;- Set world boundaries and base requirements, including an 8,000-block limit from spawn and a ban on inaccessible bases.&#10;- Outlined fair play policies regarding griefing, kill farming, and bounty/economy exploitation.&#10;- Established that these rules supplement the existing Buffed Network Rules." />
     <MESSAGE value="Vanilla Changes Documentation &amp; Sidebar Update&#10;&#10;- Created `vanilla-changes.md` to provide a comprehensive overview of all gameplay modifications on the Vanilla SMP.&#10;- Documented mechanical changes for Enderpearls, Tridents, and the extended day-night cycle.&#10;- Listed item damage immunities for explosions, fire, and lava, as well as custom crafting recipes for Golden Apples and Cobwebs.&#10;- Detailed specific potion buffs, farmland protection with Feather Falling, and player head drops.&#10;- Included a thorough breakdown of modified Ominous Vault loot tables, specifically noting the increased rarity of the Heavy Core and adjusted weights for Rare and Unique pools.&#10;- Added the new page to the vanilla sidebar for easier navigation." />
     <MESSAGE value="Vanilla SMP Join Instructions &amp; Launch Details&#10;&#10;- Added launch date (June 26, 2026) and server IP address.&#10;- Clarified that the server is public and requires no application or whitelist.&#10;- Outlined joining steps and the optional Discord verification process for bonus Sparks.&#10;- Updated technical requirements, including the target Paper version and a restriction on ViaVersion clients.&#10;- Linked to network and server-specific rules for better visibility." />
-    <option name="LAST_COMMIT_MESSAGE" value="Vanilla SMP Join Instructions &amp; Launch Details&#10;&#10;- Added launch date (June 26, 2026) and server IP address.&#10;- Clarified that the server is public and requires no application or whitelist.&#10;- Outlined joining steps and the optional Discord verification process for bonus Sparks.&#10;- Updated technical requirements, including the target Paper version and a restriction on ViaVersion clients.&#10;- Linked to network and server-specific rules for better visibility." />
+    <MESSAGE value="Update Vanilla Changes documentation and IDE workspace&#10;&#10;- Restructured the Endermite spawn chance section in vanilla-changes.md into a table for better readability.&#10;- Added clarifying text regarding the Enderpearl speed cap.&#10;- Updated IntelliJ IDEA workspace configuration to reflect recent file changes and version control settings." />
+    <MESSAGE value="Fix image paths in documentation files&#10;&#10;- Updated image links in buffsmp/recipes.md and vanilla/vanilla-changes.md to use relative paths.&#10;- Ensures images resolve correctly from subdirectories by referencing the parent directory." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix image paths in documentation files&#10;&#10;- Updated image links in buffsmp/recipes.md and vanilla/vanilla-changes.md to use relative paths.&#10;- Ensures images resolve correctly from subdirectories by referencing the parent directory." />
   </component>
 </project>
