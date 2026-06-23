@@ -172,7 +172,7 @@ Bestimmte Verzauberungen sind **exklusiv** und können weder über den Verzauber
 | Knockback | Verzauberungstisch, Dorfbewohner | ❌ gesperrt |
 
 > [!IMPORTANT]
-> Diese Verzauberungen sind ausschließlich über **Ominous Vaults** erhältlich. Alle anderen Bezugsquellen — inklusive Verzauberungstisch und Dorfbewohner-Händler — sind für diese Enchants blockiert.
+> Diese Verzauberungen können nicht über Verzauberungstisch oder Dorfbewohner-Händler erworben werden.
 
 ---
 
