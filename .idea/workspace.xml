@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Update Paper version in README">
-      <change beforePath="$PROJECT_DIR$/vanilla/vanilla-changes.md" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla/vanilla-changes.md" afterDir="false" />
-    </list>
+    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Update enchantment restriction documentation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782213811006</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update enchantment restriction documentation">
+      <option name="closed" value="true" />
+      <created>1782214254710</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1782214254710</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +205,7 @@
     <MESSAGE value="Fix image paths in documentation files&#10;&#10;- Updated image links in buffsmp/recipes.md and vanilla/vanilla-changes.md to use relative paths.&#10;- Ensures images resolve correctly from subdirectories by referencing the parent directory." />
     <MESSAGE value="Vanilla SMP README Update &amp; Feature Overview&#10;&#10;- Updated launch date to June 26, 2026, and added the server IP address.&#10;- Refined the server description to reflect a &quot;vanilla with adjustments&quot; approach rather than pure vanilla.&#10;- Added a comprehensive section detailing custom features: Sparks (currency), Orbital Strikes, Buffies (QoL boosts), LootDrops, Login-Streaks, and Supporter Ranks.&#10;- Updated technical requirements to Paper 26.2.&#10;- Improved navigation links and getting started instructions." />
     <MESSAGE value="Update Paper version in README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Paper version in README" />
+    <MESSAGE value="Update enchantment restriction documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update enchantment restriction documentation" />
   </component>
 </project>

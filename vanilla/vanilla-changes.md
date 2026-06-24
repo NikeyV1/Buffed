@@ -151,9 +151,6 @@ Der Rare-Pool ist ebenfalls angepasst. Verteilung der Einträge:
 > [!NOTE]
 > Beim Buch **Breach/Density** hat Density die **doppelte Chance** wie Breach.
 
-> [!NOTE]
-> Die Bücher für **Breach**, **Density**, **Wind Burst** und **Knockback** sind exklusiv über den Vault erhältlich. Wind Burst ist auf Stufe I beschränkt.
-
 ### Common-Pool
 
 Der Common-Pool ist **unverändert** und entspricht dem Vanilla-\`reward_ominous_common\`. Pro Vault werden 1–3 Common-Rolls gezogen; fällt der Rare-Drop aus, kommt eine zusätzliche Common-Roll dazu.
