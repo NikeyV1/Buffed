@@ -1,15 +1,12 @@
 # 🚪 Beitritt zum Vanilla SMP
 
-> [!IMPORTANT]
-> Der Vanilla SMP startet am **26. Juni 2026**. Bis dahin kann noch nicht gejoint werden. Die Server-IP lautet **`vanillasmp.mineserver.top`**.
-
 Der Vanilla SMP ist ein **öffentlicher Vanilla-Server mit kleinen Anpassungen**. Das Spiel bleibt im Kern Vanilla, ergänzt um Quality-of-Life- und Spaß-Features, die das Erlebnis zugänglicher machen, ohne das Vanilla-Gefühl zu verfälschen.
 
 **Jeder kann jederzeit joinen.** Es gibt keine Application und kein Zugangs-Gate.
 
 ---
 
-## 📝 So joinst du (ab Launch)
+## 📝 So joinst du
 
 ### Schritt 1: Server joinen
 
@@ -36,7 +33,7 @@ Verifizieren ist **freiwillig** und keine Voraussetzung zum Spielen. Wer sich im
 
 ## So bleibst du informiert
 
-Der Launch wird offiziell im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
+Events, LootDrops und Neuigkeiten werden im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
 
 ---
 

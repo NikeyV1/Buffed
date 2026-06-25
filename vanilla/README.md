@@ -10,8 +10,7 @@ Der Vanilla SMP ist ein **öffentlicher Vanilla-Server mit kleinen Anpassungen**
 
 | |                                         |
 |---|-----------------------------------------|
-| **Status** | 🟡 In Vorbereitung                      |
-| **Launch** | 26. Juni 2026                           |
+| **Status** | 🟢 Online                      |
 | **IP** | `vanillasmp.mineserver.top`             |
 | **Geplante Version** | Paper 26.2                              |
 | **Modus** | Vanilla mit kleinen Anpassungen + PvP   |
@@ -76,7 +75,7 @@ Wie du auf den Server kommst.
 ---
 
 > [!IMPORTANT]
-> Der Vanilla SMP startet am **26. Juni 2026**. Updates werden im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
+> Updates werden im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
 
 ---
 

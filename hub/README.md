@@ -32,7 +32,7 @@ Häufig gestellte Fragen zu Servern, Beitritt, Mods und Community.
 
 <a href="#/vanilla/" class="server-card">
   <h3>🌿 Vanilla SMP</h3>
-  <span class="status planned">🟡 GEPLANT</span>
+  <span class="status live">🟢 ONLINE</span>
   <div class="desc">Reine Vanilla-Erfahrung.</div>
 </a>
 

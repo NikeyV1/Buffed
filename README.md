@@ -16,11 +16,12 @@ Wähle den **Server, den du spielst** — und du siehst nur Inhalte, die für di
 
 <a href="#/vanilla/" class="server-card">
   <h3>🌿 Vanilla SMP</h3>
-  <span class="status planned">🟡 GEPLANT</span>
+  <span class="status live">🟢 ONLINE</span>
   <div class="desc">Reine Vanilla-Erfahrung im Buffed-Stil. Fokus auf Community, Survival und faire Gameplay-Regeln.</div>
   <div class="meta">
-    <strong>Status:</strong> In Vorbereitung<br>
-    <strong>Geplante Version:</strong> Paper 26.2
+    <strong>Status:</strong> Online<br>
+    <strong>IP:</strong> <code>vanillasmp.mineserver.top</code><br>
+    <strong>Version:</strong> Paper 26.2
   </div>
 </a>
 

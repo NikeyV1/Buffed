@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Update enchantment restriction documentation" />
+    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Add totem limit to server rules">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hub/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hub/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/hub/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vanilla/join.md" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla/join.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="53" />
+    <option name="cachedIndexableFilesCount" value="54" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,19 +51,19 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/NikeyV1/Documents/Nikey/Saves/Coding/IdeaProjects/DetailedArmorBar&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/NikeyV1/Documents/Nikey/Saves/Coding/IdeaProjects/DetailedArmorBar",
+    "settings.editor.selected.configurable": "com.nikey.geminicommit.GeminiSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -192,7 +199,39 @@
       <option name="project" value="LOCAL" />
       <updated>1782214254710</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update enchantment restriction documentation&#10;&#10;Removed the note regarding Vault-exclusive enchantments and the level restriction on Wind Burst.">
+      <option name="closed" value="true" />
+      <created>1782319485015</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1782319485015</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add totem limit to server rules">
+      <option name="closed" value="true" />
+      <created>1782402632273</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1782402632274</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add totem limit to server rules">
+      <option name="closed" value="true" />
+      <created>1782405322633</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1782405322633</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add totem limit to server rules">
+      <option name="closed" value="true" />
+      <created>1782407891671</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1782407891671</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,6 +245,8 @@
     <MESSAGE value="Vanilla SMP README Update &amp; Feature Overview&#10;&#10;- Updated launch date to June 26, 2026, and added the server IP address.&#10;- Refined the server description to reflect a &quot;vanilla with adjustments&quot; approach rather than pure vanilla.&#10;- Added a comprehensive section detailing custom features: Sparks (currency), Orbital Strikes, Buffies (QoL boosts), LootDrops, Login-Streaks, and Supporter Ranks.&#10;- Updated technical requirements to Paper 26.2.&#10;- Improved navigation links and getting started instructions." />
     <MESSAGE value="Update Paper version in README" />
     <MESSAGE value="Update enchantment restriction documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update enchantment restriction documentation" />
+    <MESSAGE value="Update enchantment restriction documentation&#10;&#10;Removed the note regarding Vault-exclusive enchantments and the level restriction on Wind Burst." />
+    <MESSAGE value="Add totem limit to server rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add totem limit to server rules" />
   </component>
 </project>

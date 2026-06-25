@@ -3,7 +3,7 @@
 ## 🌐 Allgemein
 
 ### Welche Server gibt es?
-Aktuell ist **kein** Buffed-Server live. **BuffSMP Season 7** ist beendet, **Vanilla SMP** ist in Vorbereitung.
+Der **Vanilla SMP** ist live (`vanillasmp.mineserver.top`). **BuffSMP Season 7** ist beendet und aktuell offline.
 
 ### Wo gelten die Network Rules?
 **Überall** — auf jedem Buffed-Server, im Discord und in jedem offiziellen Channel. Siehe [Network Rules](/hub/network-rules.md).
@@ -29,7 +29,7 @@ Server-spezifisch — schau in die jeweilige Server-Sektion:
 
 ### Welche Minecraft-Version brauche ich?
 - **BuffSMP Season 7:** lief auf Paper **1.21.11**.
-- **Vanilla SMP:** geplant für Paper **26.1.2**.
+- **Vanilla SMP:** geplant für Paper **26.2**.
 
 ViaVersion-Clients sind **nicht erlaubt**.
 
