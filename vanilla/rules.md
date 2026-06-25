@@ -73,4 +73,4 @@ The Vanilla SMP is a public Vanilla server with small adjustments, the game stay
 
 ---
 
-**Last updated:** June 9, 2026 – effective at server launch (June 26, 2026)
+**Last updated:** June 25, 2026
