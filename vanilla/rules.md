@@ -32,7 +32,7 @@ The Vanilla SMP is a public Vanilla server with small adjustments, the game stay
 
 - **Slow Falling is banned** in combat and danger zones – no Slow Falling potions or arrows.
 - **Weakness is banned** in combat and danger zones – no Weakness potions or arrows.
-- Max 8 Totems per fight
+- Max 10 Totems per fight
 - Health indicators are not allowed, except through our own mod: [Health Indicators Fairplay](https://modrinth.com/mod/health-indicators-fairplay).
 - No item duplication of any kind.
 
