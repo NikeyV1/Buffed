@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Add totem limit to server rules">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hub/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hub/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hub/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/hub/faq.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vanilla/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vanilla/join.md" beforeDir="false" afterPath="$PROJECT_DIR$/vanilla/join.md" afterDir="false" />
-    </list>
+    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Launch Vanilla SMP and update server documentation&#10;&#10;- Updated server status to &quot;Online&quot; across all documentation files and the main README.&#10;- Included the server IP address in the hub and vanilla sections.&#10;- Removed &quot;planned launch&quot; references and outdated countdown information.&#10;- Added a new rule regarding totem limits to the server documentation." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782407891671</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Launch Vanilla SMP and update server documentation&#10;&#10;- Updated server status to &quot;Online&quot; across all documentation files and the main README.&#10;- Included the server IP address in the hub and vanilla sections.&#10;- Removed &quot;planned launch&quot; references and outdated countdown information.&#10;- Added a new rule regarding totem limits to the server documentation.">
+      <option name="closed" value="true" />
+      <created>1782410880093</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1782410880093</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,6 +248,7 @@
     <MESSAGE value="Update enchantment restriction documentation" />
     <MESSAGE value="Update enchantment restriction documentation&#10;&#10;Removed the note regarding Vault-exclusive enchantments and the level restriction on Wind Burst." />
     <MESSAGE value="Add totem limit to server rules" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add totem limit to server rules" />
+    <MESSAGE value="Launch Vanilla SMP and update server documentation&#10;&#10;- Updated server status to &quot;Online&quot; across all documentation files and the main README.&#10;- Included the server IP address in the hub and vanilla sections.&#10;- Removed &quot;planned launch&quot; references and outdated countdown information.&#10;- Added a new rule regarding totem limits to the server documentation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Launch Vanilla SMP and update server documentation&#10;&#10;- Updated server status to &quot;Online&quot; across all documentation files and the main README.&#10;- Included the server IP address in the hub and vanilla sections.&#10;- Removed &quot;planned launch&quot; references and outdated countdown information.&#10;- Added a new rule regarding totem limits to the server documentation." />
   </component>
 </project>

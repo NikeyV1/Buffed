@@ -1,6 +1,6 @@
 # 🌿 Vanilla SMP
 
-**Status:** 🟡 In Vorbereitung | Launch am **26. Juni 2026**
+**Status:** 🟢 Online | IP: `vanillasmp.mineserver.top`
 
 Der Vanilla SMP ist ein **öffentlicher Vanilla-Server mit kleinen Anpassungen**. Das Spiel bleibt im Kern Vanilla, ergänzt um durchdachte Quality-of-Life- und Spaß-Features, die das Erlebnis zugänglicher und unterhaltsamer machen, ohne das Vanilla-Gefühl zu verfälschen.
 
