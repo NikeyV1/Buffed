@@ -122,11 +122,11 @@ Hier liegen die größten Änderungen. Der Pool wurde von wenigen gleichgewichte
 
 | Item | Anteil im Pool | Chance pro Vault |
 |---|---|---|
-| Enchanted Golden Apple | 32,14 % | **24,11 %** |
-| Flow Armor Trim Template | 32,14 % | **24,11 %** |
-| Flow Banner Pattern | 21,43 % | **16,07 %** |
-| Music Disc (Creator) | 10,71 % | **8,04 %** |
-| Heavy Core | 3,57 % | **2,68 %** |
+| Enchanted Golden Apple | 32,73 % | **24,55 %** |
+| Flow Armor Trim Template | 32,73 % | **24,55 %** |
+| Flow Banner Pattern | 21,82 % | **16,36 %** |
+| Music Disc (Creator) | 10,91 % | **8,18 %** |
+| Heavy Core | 1,82 % | **1,36 %** |
 
 > [!IMPORTANT]
 > Der **Heavy Core** ist hier bewusst stark verseltent. In Vanilla teilt er sich den Unique-Pool gleichgewichtig mit den anderen Unique-Items und liegt dort spürbar höher. Auf dem Vanilla SMP ist er das seltenste Vault-Item.
@@ -137,24 +137,23 @@ Der Rare-Pool ist ebenfalls angepasst. Verteilung der Einträge:
 
 | Item | Anteil |
 |---|---|
-| Emerald Block | 18,52 % |
-| Iron Block | 14,81 % |
-| Verzauberte Crossbow (Lvl 5–20) | 14,81 % |
-| Goldapfel | 11,11 % |
-| Verzauberte Diamantaxt (Lvl 10–20) | 11,11 % |
-| Verzaubertes Diamant-Chestplate (Lvl 10–20) | 11,11 % |
-| Buch: Knockback/Punch/Smite/Looting/Multishot | 7,41 % |
-| Buch: Breach/Density | 3,70 % |
-| Buch: Wind Burst I | 3,70 % |
-| Diamond Block | 3,70 % |
+| Emerald Block | 19,23 % |
+| Iron Block | 15,38 % |
+| Verzauberte Crossbow (Lvl 5–20) | 15,38 % |
+| Goldapfel | 11,54 % |
+| Verzauberte Diamantaxt (Lvl 10–20) | 11,54 % |
+| Verzaubertes Diamant-Chestplate (Lvl 10–20) | 11,54 % |
+| Buch: Knockback/Punch/Smite/Looting/Multishot | 7,69 % |
+| Diamond Block | 3,85 % |
+| Buch: Breach/Density | 1,92 % |
+| Buch: Wind Burst I | 1,92 % |
 
 > [!NOTE]
 > Beim Buch **Breach/Density** hat Density die **doppelte Chance** wie Breach.
 
 ### Common-Pool
 
-Der Common-Pool ist **unverändert** und entspricht dem Vanilla-\`reward_ominous_common\`. Pro Vault werden 1–3 Common-Rolls gezogen; fällt der Rare-Drop aus, kommt eine zusätzliche Common-Roll dazu.
-
+Der Common-Pool ist **unverändert** und entspricht dem Vanilla-`reward_ominous_common`. Pro Vault werden 1–3 Common-Rolls gezogen; fällt der Rare-Drop aus, kommt eine zusätzliche Common-Roll dazu.
 ---
 
 ## ✨ Exklusive Verzauberungen

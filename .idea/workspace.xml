@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Launch Vanilla SMP and update server documentation&#10;&#10;- Updated server status to &quot;Online&quot; across all documentation files and the main README.&#10;- Included the server IP address in the hub and vanilla sections.&#10;- Removed &quot;planned launch&quot; references and outdated countdown information.&#10;- Added a new rule regarding totem limits to the server documentation." />
+    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Launch Vanilla SMP and update server documentation&#10;&#10;- Updated server status to &quot;Online&quot; across all documentation files and the main README.&#10;- Included the server IP address in the hub and vanilla sections.&#10;- Removed &quot;planned launch&quot; references and outdated countdown information.&#10;- Added a new rule regarding totem limits to the server documentation.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,19 +46,19 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/NikeyV1/Documents/Nikey/Saves/Coding/IdeaProjects/DetailedArmorBar",
-    "settings.editor.selected.configurable": "com.nikey.geminicommit.GeminiSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/NikeyV1/Documents/Nikey/Saves/Coding/IdeaProjects/DetailedArmorBar&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.nikey.geminicommit.GeminiSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -232,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782410880093</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Launch Vanilla SMP and update server documentation&#10;&#10;- Updated server status to &quot;Online&quot; across all documentation files and the main README.&#10;- Included the server IP address in the hub and vanilla sections.&#10;- Removed &quot;planned launch&quot; references and outdated countdown information.&#10;- Added a new rule regarding totem limits to the server documentation.">
+      <option name="closed" value="true" />
+      <created>1782476117546</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1782476117546</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
