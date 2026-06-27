@@ -50,6 +50,9 @@ Die serverweite Währung. Sparks bekommst du durch Kills, Supply-Drops, Login-St
 ### ☄️ Orbital Strikes
 Seltene, mächtige Items mit zwei Varianten. Reine Kampf- und Spektakel-Mechanik. Der Einsatz auf Bases ist **streng verboten** (siehe [Vanilla Rules](/vanilla/rules.md)).
 
+> [!WARNING]
+> Orbitals verursachen **massive Blockschäden** – die Explosion zerstört beim Einschlag viele Blöcke im Umkreis. Um versehentlichen Umgebungsschaden auszugleichen, gibt es ein **automatisches Rollback-System**: Blockschäden durch Explosionen werden nach einer kurzen Zeit **automatisch rückgängig gemacht**. Das Rollback gilt ausschließlich für Umgebungsblöcke – Spielerschäden, Drops und Kampfeffekte bleiben bestehen.
+
 ### 🎁 Buffies
 Quality-of-Life-Boosts, aufgeteilt in die Kategorien **Combat**, **Grinding** und **Utility**. Sie sind als kleine Annehmlichkeiten gedacht, die den Alltag erleichtern. Die competitive Balance wird bewusst **nicht** stark verschoben: Buffies helfen, ohne das Kräfteverhältnis im PvP zu kippen.
 
