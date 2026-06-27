@@ -66,6 +66,22 @@ Items überleben Explosionen, Feuer und Lava. Kaktus und Blitz zerstören sie we
 
 ---
 
+## ☄️ Explosions-Rollback (Orbital Strikes)
+
+Orbitals (Orbital Strikes) verursachen beim Einschlag **massive Blockschäden** im Umkreis der Explosion. Um dauerhaften Umgebungsschaden zu verhindern, existiert ein **automatisches Rollback-System**:
+
+| Eigenschaft | Verhalten |
+|---|---|
+| Auslöser | Explosion durch Orbital Strike |
+| Blockschaden | Wird nach kurzer Zeit **automatisch rückgängig gemacht** |
+| Spielerschaden | Bleibt bestehen (kein Rollback) |
+| Drops & Kampfeffekte | Bleiben bestehen (kein Rollback) |
+
+> [!NOTE]
+> Das Rollback betrifft ausschließlich **Umgebungsblöcke**. Schäden an Spielern sowie alle Kampf- und Item-Effekte der Explosion bleiben dauerhaft erhalten.
+
+---
+
 ## 🛠️ Custom Crafting-Rezepte
 
 ### Goldener Apfel
