@@ -22,6 +22,7 @@ The Vanilla SMP is a public Vanilla server with small adjustments, the game stay
 - No water-running or lava-running mechanics.
 - No `/gsit` or similar sit-plugin abuse during combat.
 - After dying or fleeing a fight, you may only re-engage after **10 minutes**.
+- No storing valuable items in an Ender Chest during combat to avoid losing them on death.
 - If a player or staff tells you to **"land"** (or similar), you must land immediately. This applies to anything you can fly or stay airborne with – Elytra, Riptide, Happy Ghasts and similar. Refusal is treated as elytra-in-combat.
 
 *These rules are not exhaustive. Vanilla SMP staff may take action against any combat behavior deemed harmful, disruptive, or against the spirit of the server, even if not explicitly listed.*
@@ -73,4 +74,4 @@ The Vanilla SMP is a public Vanilla server with small adjustments, the game stay
 
 ---
 
-**Last updated:** June 25, 2026
+**Last updated:** July 3, 2026
