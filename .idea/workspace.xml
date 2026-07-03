@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Update Vanilla SMP Vault Loot Tables&#10;&#10;- Adjusted drop rates for the Unique and Rare loot pools in `vanilla-changes.md`.&#10;- Reduced the drop chance of the Heavy Core to make it the rarest item in the Unique pool.&#10;- Rebalanced Rare pool percentages to reflect updated item distribution.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Update Patreon links to Store URL" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -251,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782600764555</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Update Patreon links to Store URL">
+      <option name="closed" value="true" />
+      <created>1783102391352</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1783102391352</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -269,6 +275,7 @@
     <MESSAGE value="Add totem limit to server rules" />
     <MESSAGE value="Launch Vanilla SMP and update server documentation&#10;&#10;- Updated server status to &quot;Online&quot; across all documentation files and the main README.&#10;- Included the server IP address in the hub and vanilla sections.&#10;- Removed &quot;planned launch&quot; references and outdated countdown information.&#10;- Added a new rule regarding totem limits to the server documentation." />
     <MESSAGE value="Update Vanilla SMP Vault Loot Tables&#10;&#10;- Adjusted drop rates for the Unique and Rare loot pools in `vanilla-changes.md`.&#10;- Reduced the drop chance of the Heavy Core to make it the rarest item in the Unique pool.&#10;- Rebalanced Rare pool percentages to reflect updated item distribution." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Vanilla SMP Vault Loot Tables&#10;&#10;- Adjusted drop rates for the Unique and Rare loot pools in `vanilla-changes.md`.&#10;- Reduced the drop chance of the Heavy Core to make it the rarest item in the Unique pool.&#10;- Rebalanced Rare pool percentages to reflect updated item distribution." />
+    <MESSAGE value="Update Patreon links to Store URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Patreon links to Store URL" />
   </component>
 </project>

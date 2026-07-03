@@ -42,7 +42,7 @@ Network Rules, FAQ und alles, was für **jeden** Buffed-Server gilt, findest du 
 ## 🔗 Schnelllinks
 
 - 💬 **Discord:** [discord.gg/MQzbpd4rju](https://discord.gg/MQzbpd4rju)
-- 💎 **Store:** [patreon.com/NikeyV1](https://buffed-store.tebex.io/)
+- 💎 **Store:** [buffed-store.tebex.io](https://buffed-store.tebex.io/)
 - 📺 **YouTube:** [@NikeyV1](https://youtube.com/@NikeyV1)
 - 🔧 **Modrinth:** [NikeyV1](https://modrinth.com/user/NikeyV1)
 
