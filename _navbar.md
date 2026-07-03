@@ -7,6 +7,6 @@
   * [🌿 Vanilla SMP](/vanilla/)
 * Links
   * [💬 Discord](https://discord.gg/MQzbpd4rju)
-  * [💎 Patreon](https://patreon.com/NikeyV1)
+  * [💎 Store](https://buffed-store.tebex.io/)
   * [📺 YouTube](https://youtube.com/@NikeyV1)
   * [🔧 Modrinth](https://modrinth.com/user/NikeyV1)

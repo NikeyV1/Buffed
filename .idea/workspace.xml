@@ -257,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783102391352</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update Patreon links to Store URL">
+      <option name="closed" value="true" />
+      <created>1783104233598</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1783104233598</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
