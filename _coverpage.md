@@ -12,5 +12,5 @@
 - 🌐 Mehrere Buffed-Server unter einem Dach
 
 [Discord](https://discord.gg/MQzbpd4rju)
-[Patreon](https://patreon.com/NikeyV1)
+[Store](https://buffed-store.tebex.io/)
 [Wiki starten](/README.md)
