@@ -1,7 +1,7 @@
 # Buffed Duels, Konzept
 
 **Stand:** 30. August 2026
-**Status:** Konzept für den MVP
+**Status:** Konzept für MVP‘s
 
 So ist der Duel-Server aktuell geplant. Das ist die Richtung, in die gebaut wird, kein fertiges Regelwerk. Vor allem beim Balancing wird sich noch einiges ändern, sobald wir echte Matches gespielt haben. Feedback gerne jederzeit.
 
