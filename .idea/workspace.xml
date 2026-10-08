@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Update Patreon link to Store URL">
+    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Transition wiki to Strength SMP and archive previous servers&#10;&#10;- Update landing page, coverpage, navbar, and sidebars to introduce the new Strength SMP and mark BuffSMP and Vanilla SMP as archived.&#10;- Redefine network entry points and IP routing to the network hub.&#10;- Update FAQ, rules, and server documentation to reflect current online status and archival states.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strength/rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/strength/rules.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="54" />
+    <option name="cachedIndexableFilesCount" value="66" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -41,6 +42,7 @@
 }</component>
   <component name="ProjectId" id="3DwC1RBO9Wby4B9jHmIWRIYTKBa" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -275,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783105106709</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Transition wiki to Strength SMP and archive previous servers&#10;&#10;- Update landing page, coverpage, navbar, and sidebars to introduce the new Strength SMP and mark BuffSMP and Vanilla SMP as archived.&#10;- Redefine network entry points and IP routing to the network hub.&#10;- Update FAQ, rules, and server documentation to reflect current online status and archival states.">
+      <option name="closed" value="true" />
+      <created>1791490424309</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1791490424309</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,6 +305,7 @@
     <MESSAGE value="Update Vanilla SMP Vault Loot Tables&#10;&#10;- Adjusted drop rates for the Unique and Rare loot pools in `vanilla-changes.md`.&#10;- Reduced the drop chance of the Heavy Core to make it the rarest item in the Unique pool.&#10;- Rebalanced Rare pool percentages to reflect updated item distribution." />
     <MESSAGE value="Update Patreon links to Store URL" />
     <MESSAGE value="Update Patreon link to Store URL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Patreon link to Store URL" />
+    <MESSAGE value="Transition wiki to Strength SMP and archive previous servers&#10;&#10;- Update landing page, coverpage, navbar, and sidebars to introduce the new Strength SMP and mark BuffSMP and Vanilla SMP as archived.&#10;- Redefine network entry points and IP routing to the network hub.&#10;- Update FAQ, rules, and server documentation to reflect current online status and archival states." />
+    <option name="LAST_COMMIT_MESSAGE" value="Transition wiki to Strength SMP and archive previous servers&#10;&#10;- Update landing page, coverpage, navbar, and sidebars to introduce the new Strength SMP and mark BuffSMP and Vanilla SMP as archived.&#10;- Redefine network entry points and IP routing to the network hub.&#10;- Update FAQ, rules, and server documentation to reflect current online status and archival states." />
   </component>
 </project>

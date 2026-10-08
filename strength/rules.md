@@ -1,40 +1,55 @@
-# 📜 Strength SMP – Regeln
+# Strength SMP Rules
 
-> **Wichtig**
-> **Entwurf zur Abstimmung – noch kein finales SMP-Regelwerk.** Die folgenden Punkte bilden die vorhandene Planungsgrundlage. Sie werden gemeinsam finalisiert; neue oder offene Regeln werden nicht als bereits beschlossen ausgegeben.
+Diese Regeln gelten **nur für Strength SMP**. Sie ergänzen die [Buffed Network Rules](/hub/network-rules.md), ersetzen sie aber nicht. Beide Regelwerke gelten jederzeit; die Network Rules haben Vorrang.
 
-Die [Buffed Network Rules](/hub/network-rules.md) gelten jederzeit zusätzlich und haben Vorrang. Die früheren BuffSMP- und Vanilla-SMP-Regeln gelten nicht automatisch für Strength SMP.
+> **Entwurf zur Abstimmung**
+> Diese Seite enthält die bisher geplanten Strength-SMP-Regeln. Sie ist noch nicht final. Offene Punkte werden nicht als beschlossen dargestellt.
 
-## 🛡️ Combat
+---
 
-1. **Combat beginnt, sobald ein Gegner sichtbar ist oder ein PvP-Treffer fällt.** Es endet erst, wenn kein Gegner mehr sichtbar ist und seit dem letzten Treffer mindestens drei Minuten vergangen sind.
-2. **Keine Enderperlen im Combat.**
+## A. COMBAT RULES
 
-## ⚔️ Ausrüstung
+- Combat beginnt, sobald ein Gegner sichtbar ist oder ein PvP-Treffer fällt. Er endet erst, wenn kein Gegner mehr sichtbar ist und seit dem letzten Treffer mindestens **3 Minuten** vergangen sind.
+- Keine Enderperlen im Combat.
+- Kein Combat- oder Danger-Logging. Trenne dich nicht absichtlich vom Server, um einem laufenden Kampf oder einer unmittelbaren PvP-Gefahr zu entgehen.
+- Elytra und Riptide sind im Combat und in unmittelbaren PvP-Gefahrensituationen verboten.
+- Kein Wasser- oder Lava-Rennen, um einem Kampf zu entkommen.
+- `/gsit` und vergleichbare Sitzfunktionen dürfen im Combat nicht zum Ausweichen oder Vermeiden von Treffern genutzt werden.
+- Keine Explosivwaffen im PvP: Endkristalle, Respawnanker, Betten und TNT-Minecarts. TNT-Fallen bleiben erlaubt.
 
-3. **Keine Lunge-Verzauberung verwenden.**
-4. **Keine Totems of Undying verwenden.**
-5. **Keine Strength-Tränke verwenden.**
-6. **Keine Stufe-II-Tränke verwenden.**
-7. **Keine deutlichen Abweichungen vom Strength-SMP-Kit.**
+---
 
-## 🗺️ Mods
+## B. ITEMS & KIT
 
-8. **Keine Minimaps oder Worldmaps verwenden.** Das gilt für alle entsprechenden Mods, unabhängig vom Anbieter.
-9. **Keine Health Indicators.** Mods, die die Lebenspunkte anderer Spieler anzeigen, sind verboten.
+- Keine Lunge-Verzauberung verwenden.
+- Keine Totems of Undying verwenden.
+- Keine Strength-Tränke verwenden.
+- Keine Stufe-II-Tränke verwenden.
+- Keine deutlichen Abweichungen vom Strength-SMP-Kit.
 
-## 👥 Spielverhalten
+---
 
-10. **Kein Spawn-Killing.** Tötet Spieler nicht wiederholt direkt am Spawn und hindert sie nicht gezielt am Verlassen des Spawns.
+## C. MODIFICATIONS
 
-## 🕒 Aktivität
+- Keine Minimaps oder Worldmaps verwenden. Das gilt für alle entsprechenden Mods, unabhängig vom Anbieter.
+- Keine Health Indicators verwenden. Mods, die die Lebenspunkte anderer Spieler anzeigen, sind verboten.
 
-11. **Keine unangekündigte Inaktivität.** Main-Spieler müssen mindestens zwölf Stunden pro Woche spielen. Abwesenheiten sprecht ihr mit Staff ab; ohne Absprache kann zu wenig Aktivität Konsequenzen haben.
+---
 
-Gäste werden nicht fest für Events eingeplant und können bei Events ausgelassen oder vom SMP entfernt werden.
+## D. SPAWN, WORLD & FAIR PLAY
 
-Das Server-Team entscheidet bei Verstößen nach Schwere, Wiederholung und Vorgeschichte.
+- Kein Spawn-Killing. Tötet Spieler nicht wiederholt direkt am Spawn und hindert sie nicht gezielt am Verlassen des Spawns.
+- Kein Griefing: Beschädige oder zerstöre nicht absichtlich fremde Bauwerke oder Basen.
+- Versteckte Basen sind erlaubt, müssen aber im Spiel normal erreichbar sein.
+- Kein Kill-Farming und keine Selbsttötung im Combat.
 
-## Noch in Abstimmung
+---
 
-Die genauen Kit-Grenzen und weitere ergänzende Regeln werden vor Abschluss des Regelwerks festgelegt. Die technischen Beschränkungen eines Duell-Kits sind keine automatische Ergänzung dieser SMP-Regeln.
+## E. BOUNTIES & ACTIVITY
+
+- Bountys dürfen nur durch legitimes PvP erfüllt werden. Keine abgesprochenen oder gestellten Tode, kein Bounty-Farming und keine Vereinbarungen, die den Auftrag umgehen.
+- Main-Spieler müssen mindestens **12 Stunden pro Woche** spielen.
+- Abwesenheiten sprecht ihr mit Staff ab. Unangekündigte Inaktivität kann Konsequenzen haben.
+- Gäste werden nicht fest für Events eingeplant und können bei Events ausgelassen oder vom SMP entfernt werden.
+
+**Last updated:** October 8, 2026
