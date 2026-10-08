@@ -1,59 +1,40 @@
 # 🧭 Hub
 
-Hier findest du alles, was für **jeden** Buffed-Server gilt — egal ob du BuffSMP oder Vanilla SMP spielst.
+Hier findest du den Einstieg ins Buffed Network und alles, was für jeden Buffed-Server gilt.
 
----
+## 🌐 [Network & Beitritt](/hub/network.md)
 
-## 📚 Inhalte des Hubs
+`buffed.mineserver.top` führt ins Network. Die Lobby und ihre Serverauswahl verbinden dich mit dem **Strength SMP**, der aktuell online ist.
 
-### [📜 Network Rules](/hub/network-rules.md)
+## 📜 [Network Rules](/hub/network-rules.md)
 
-Die **Basis-Regeln des gesamten Buffed-Netzwerks**. Gelten überall: in jedem Server, im Discord, in jedem offiziellen Channel.
+Die Basis-Regeln gelten auf allen Buffed-Servern, im Discord und auf jeder offiziellen Buffed-Plattform. Server-Regeln gelten zusätzlich und können keine Network Rule außer Kraft setzen.
 
-> Keine Server-Regel kann eine Network Rule außer Kraft setzen.
+## ❓ [FAQ](/hub/faq.md)
 
----
+Antworten zu Servern, Beitritt, Mods und Community.
 
-### [❓ FAQ](/hub/faq.md)
+## ⚔️ [Strength SMP](/strength/README.md)
 
-Häufig gestellte Fragen zu Servern, Beitritt, Mods und Community.
+Das aktuelle SMP-Wiki: Klassen und Fähigkeiten, Strength-Splitter, Rituale, Teams, Weekend Bountys, Items und Befehle.
 
----
+Die [Strength-SMP-Regeln](/strength/rules.md) befinden sich noch in Abstimmung und sind als Entwurf gekennzeichnet.
 
-## 🎮 Du willst zu einem Server?
+<details class="server-archive">
+  <summary>Frühere Server · Offline</summary>
+  <ul>
+    <li><a href="#/buffsmp/">BuffSMP</a> – Season 7 beendet; Buffs, Essences und Season-Inhalte im Archiv.</li>
+    <li><a href="#/vanilla/">Vanilla SMP</a> – offline; frühere Spielsysteme und Regeln im Archiv.</li>
+  </ul>
+</details>
 
-<div class="server-grid">
+## 🏛️ Welche Regeln gehören wohin?
 
-<a href="#/buffsmp/" class="server-card">
-  <h3>⚔️ BuffSMP</h3>
-  <span class="status offline">⚫ OFFLINE — Season 7 beendet</span>
-  <div class="desc">Buff-System, Rituale, Essences, PvP.</div>
-</a>
+| Ebene | Geltungsbereich |
+| --- | --- |
+| [Network Rules](/hub/network-rules.md) | Gesamtes Netzwerk und offizielle Plattformen; haben Vorrang |
+| [Strength SMP](/strength/rules.md) | Zusätzliche SMP-Regeln, derzeit als Entwurf |
+| [BuffSMP](/buffsmp/rules.md) | Archiv des früheren BuffSMP-Regelwerks |
+| [Vanilla SMP](/vanilla/rules.md) | Archiv des früheren Vanilla-SMP-Regelwerks |
 
-<a href="#/vanilla/" class="server-card">
-  <h3>🌿 Vanilla SMP</h3>
-  <span class="status live">🟢 ONLINE</span>
-  <div class="desc">Reine Vanilla-Erfahrung.</div>
-</a>
-
-</div>
-
----
-
-## 🏛️ Wie das Regelwerk aufgebaut ist
-
-```
-┌─────────────────────────────────────────┐
-│       NETWORK RULES (höchste Ebene)     │
-│       Gelten überall im Netzwerk        │
-└─────────────────┬───────────────────────┘
-                  │
-        ┌─────────┴──────────┐
-        ▼                    ▼
-┌──────────────┐      ┌──────────────┐
-│  BuffSMP     │      │  Vanilla SMP │
-│  Rules       │      │  Rules       │
-└──────────────┘      └──────────────┘
-```
-
-Jeder Server hat **zusätzlich** eigene Regeln, die du in den jeweiligen Server-Sektionen findest.
+Regeln eines SMP gelten nicht automatisch auf einem anderen SMP.

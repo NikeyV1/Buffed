@@ -1,10 +1,12 @@
-<!-- vanilla/_sidebar.md -->
+* [← Aktuelle Server](/README.md)
+* [🌐 Network & Beitritt](/hub/network.md)
+* [⚔️ Strength SMP](/strength/README.md)
 
-* [← Zurück zur Startseite](/README.md)
-* [🧭 Hub & Network Rules](/hub/README.md)
-
-* **🌿 VANILLA SMP**
-  * [Übersicht](/vanilla/README.md)
-  * [Vanilla Rules](/vanilla/rules.md)
+* **🌿 VANILLA SMP · ARCHIV**
+  * [Übersicht · Offline](/vanilla/README.md)
+  * [Damals geltende Regeln](/vanilla/rules.md)
   * [Vanilla Changes](/vanilla/vanilla-changes.md)
-  * [Beitritt](/vanilla/join.md)
+  * [Serverstatus & Beitritt](/vanilla/join.md)
+
+* [Network Rules](/hub/network-rules.md)
+* [BuffSMP-Archiv](/buffsmp/README.md)

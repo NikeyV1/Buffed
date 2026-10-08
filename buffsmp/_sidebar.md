@@ -1,12 +1,13 @@
 <!-- buffsmp/_sidebar.md -->
 
-* [← Zurück zur Startseite](/README.md)
+* [← Aktuelle Server](/README.md)
+* [⚔️ Strength SMP](/strength/README.md)
 * [🧭 Hub & Network Rules](/hub/README.md)
 
-* **⚔️ BUFFSMP**
+* **⚔️ BUFFSMP · ARCHIV**
   * [Übersicht](/buffsmp/README.md)
   * [BuffSMP Rules](/buffsmp/rules.md)
-  * [Beitritt](/buffsmp/join.md)
+  * [Früherer Beitrittsprozess](/buffsmp/join.md)
   * [Seasons](/buffsmp/seasons.md)
 
 * **🔮 Buff-System**

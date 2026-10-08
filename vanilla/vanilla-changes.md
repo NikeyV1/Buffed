@@ -1,8 +1,11 @@
 # 🔧 Vanilla Changes
 
+> **Hinweis**
+> **Archiv: Vanilla SMP ist offline.** Diese Seite dokumentiert den früheren Serverstand. [Aktuelle Server](/README.md) findest du auf der Startseite.
+
 Diese Seite listet **alle Abweichungen vom reinen Vanilla-Verhalten** auf dem Vanilla SMP. Der Kern bleibt Vanilla, einige Mechaniken sind angepasst, um das Spielgefühl fair und ausgewogen zu halten.
 
-> [!NOTE]
+> **Hinweis**
 > Was hier nicht steht, verhält sich exakt wie in Vanilla. Diese Liste ist die einzige verbindliche Übersicht der Änderungen.
 
 ---
@@ -77,7 +80,7 @@ Orbitals (Orbital Strikes) verursachen beim Einschlag **massive Blockschäden** 
 | Spielerschaden | Bleibt bestehen (kein Rollback) |
 | Drops & Kampfeffekte | Bleiben bestehen (kein Rollback) |
 
-> [!NOTE]
+> **Hinweis**
 > Das Rollback betrifft ausschließlich **Umgebungsblöcke**. Schäden an Spielern sowie alle Kampf- und Item-Effekte der Explosion bleiben dauerhaft erhalten.
 
 ---
@@ -96,7 +99,7 @@ Ersetzt das Vanilla-Rezept (Vanilla nutzt 8 Goldbarren).
 
 Ersetzt das Vanilla-Rezept und ergibt 2 Cobwebs pro Craft.
 
-> [!NOTE]
+> **Hinweis**
 > Das Rezept für den verzauberten Goldapfel ist **nicht** angepasst und verhält sich wie in Vanilla.
 
 ---
@@ -144,7 +147,7 @@ Hier liegen die größten Änderungen. Der Pool wurde von wenigen gleichgewichte
 | Music Disc (Creator) | 10,91 % | **8,18 %** |
 | Heavy Core | 1,82 % | **1,36 %** |
 
-> [!IMPORTANT]
+> **Wichtig**
 > Der **Heavy Core** ist hier bewusst stark verseltent. In Vanilla teilt er sich den Unique-Pool gleichgewichtig mit den anderen Unique-Items und liegt dort spürbar höher. Auf dem Vanilla SMP ist er das seltenste Vault-Item.
 
 ### Rare-Pool (garantiert pro Vault)
@@ -164,7 +167,7 @@ Der Rare-Pool ist ebenfalls angepasst. Verteilung der Einträge:
 | Buch: Breach/Density | 1,92 % |
 | Buch: Wind Burst I | 1,92 % |
 
-> [!NOTE]
+> **Hinweis**
 > Beim Buch **Breach/Density** hat Density die **doppelte Chance** wie Breach.
 
 ### Common-Pool
@@ -183,10 +186,10 @@ Bestimmte Verzauberungen sind **exklusiv** und können weder über den Verzauber
 | Wind Burst | Verzauberungstisch, Dorfbewohner | ❌ gesperrt |
 | Knockback | Verzauberungstisch, Dorfbewohner | ❌ gesperrt |
 
-> [!IMPORTANT]
+> **Wichtig**
 > Diese Verzauberungen können nicht über Verzauberungstisch oder Dorfbewohner-Händler erworben werden.
 
 ---
 
-> [!TIP]
+> **Tipp**
 > Fragen zu einer bestimmten Änderung? Öffne ein Ticket im [Discord](https://discord.gg/MQzbpd4rju).

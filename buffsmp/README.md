@@ -1,11 +1,11 @@
-# ⚔️ BuffSMP
+# ⚔️ BuffSMP – Archiv
 
 **Season 7 — Beendet**
 
 Willkommen im BuffSMP-Wiki. BuffSMP ist ein semi-privater SMP mit einem einzigartigen **Buff-System** — jeder Spieler bekommt eine besondere Fähigkeit, die seinen Spielstil definiert.
 
-> [!IMPORTANT]
-> **Season 7 ist beendet — der Server ist aktuell offline.** Das Wiki bleibt als Referenz erhalten. Neuigkeiten zu künftigen Seasons werden im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
+> **Wichtig**
+> **Season 7 ist beendet — der Server ist aktuell offline.** Das Wiki bleibt als Archiv erhalten. [Aktuelle Server](/README.md) findest du auf der Startseite. Neuigkeiten zu künftigen Seasons werden im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
 
 ---
 
@@ -48,10 +48,10 @@ Willkommen im BuffSMP-Wiki. BuffSMP ist ein semi-privater SMP mit einem einzigar
 Server-spezifische Regeln — Combat, Items, Bases, Teaming, Bounties.
 
 ### 🚪 [Beitritt](/buffsmp/join.md)
-Application-Prozess und alles, was du vor dem Joinen wissen musst.
+Historischer Application-Prozess; der Server ist derzeit offline.
 
 ### 🏆 [Seasons](/buffsmp/seasons.md)
-Aktuelle Season und Recaps vergangener Seasons.
+Season-Übersicht und Recaps vergangener Seasons.
 
 ---
 
@@ -77,5 +77,5 @@ Crafting-Rezepte aller Buff-Items.
 
 ---
 
-> [!TIP]
+> **Tipp**
 > Du suchst die **Network Rules** (gelten netzwerkweit)? Die findest du im [🧭 Hub](/hub/network-rules.md).

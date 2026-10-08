@@ -1,5 +1,8 @@
 # Vanilla SMP Rules
 
+> **Hinweis**
+> **Archiv: Vanilla SMP ist offline.** Diese Seite dokumentiert den früheren Serverstand. [Aktuelle Server](/README.md) findest du auf der Startseite.
+
 These rules apply **only to the Vanilla SMP**. They do not replace the Buffed Network Rules – they add on top of them. Every player on the Vanilla SMP is bound by both documents at all times.
 
 > Before reading this, make sure you have read and understood the **Buffed Network Rules**. Network Rules always take priority. Nothing written here can override them.

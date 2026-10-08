@@ -1,42 +1,28 @@
-# 🌿 Vanilla SMP
+# 🌿 Vanilla SMP – Archiv
 
-**Status:** 🟢 Online | IP: `vanillasmp.mineserver.top`
+> **Wichtig**
+> **Der Vanilla SMP ist offline.** Diese Seiten dokumentieren seine damaligen Spielsysteme und Regeln. Ein Beitritt ist derzeit nicht möglich. [Aktuelle Server](/README.md) und [Network-Einstieg](/hub/network.md) findest du im Hauptbereich.
 
-Der Vanilla SMP ist ein **öffentlicher Vanilla-Server mit kleinen Anpassungen**. Das Spiel bleibt im Kern Vanilla, ergänzt um durchdachte Quality-of-Life- und Spaß-Features, die das Erlebnis zugänglicher und unterhaltsamer machen, ohne das Vanilla-Gefühl zu verfälschen.
-
----
-
-## 📋 Server-Info
-
-| |                                         |
-|---|-----------------------------------------|
-| **Status** | 🟢 Online                      |
-| **IP** | `vanillasmp.mineserver.top`             |
-| **Geplante Version** | Paper 26.2                              |
-| **Modus** | Vanilla mit kleinen Anpassungen + PvP   |
-| **Zugang** | Öffentlich, jeder kann jederzeit joinen |
-
-> Geplant wird auf der aktuellen Minecraft-Release-Version (26.2 "Chaos Cubed"). Sollte vor Launch eine neuere Release erscheinen, wird auf diese aktualisiert.
+Der Vanilla SMP war ein **öffentlicher Vanilla-Server mit kleinen Anpassungen**. Das Spiel bleibt im Kern Vanilla, ergänzt um durchdachte Quality-of-Life- und Spaß-Features, die das Erlebnis zugänglicher und unterhaltsamer machen, ohne das Vanilla-Gefühl zu verfälschen.
 
 ---
 
-## 🧭 Wo fange ich an?
+## 📋 Archiv-Info
 
-<!-- tabs:start -->
+| | |
+| --- | --- |
+| **Status** | ⚫ Offline |
+| **Modus** | Vanilla mit kleinen Anpassungen + PvP |
+| **Beitritt** | Derzeit nicht möglich |
+| **Inhalte** | Dokumentation des früheren Servers |
 
-#### **🆕 Ich bin neu hier**
+## 📚 Was bleibt im Wiki?
 
-1. Lies die [Network Rules](/hub/network-rules.md), sie gelten netzwerkweit.
-2. Lies die [Vanilla Rules](/vanilla/rules.md), sie gelten zusätzlich nur hier.
-3. Joine den Server und leg los: [Beitritts-Anleitung](/vanilla/join.md).
+- [Vanilla Rules](/vanilla/rules.md) – das damalige Server-Regelwerk.
+- [Vanilla Changes](/vanilla/vanilla-changes.md) – die dokumentierten Anpassungen.
+- [Serverstatus & Beitritt](/vanilla/join.md) – aktueller Offline-Hinweis und Weg zu den aktiven Angeboten.
 
-#### **ℹ️ Was ist der Vanilla SMP?**
-
-Ein öffentlicher Vanilla-Server mit kleinen Anpassungen. Das Spiel bleibt im Kern Vanilla. **Keine Buffs, keine Essences, keine Rituale** wie auf BuffSMP. Stattdessen ergänzen kleine Quality-of-Life- und Spaß-Features das Erlebnis, dazu ausbalanciertes PvP und einzigartige Events.
-
-Wenn du das klassische Buff-System suchst, bist du hier falsch. Schau dir [BuffSMP](/buffsmp/README.md) an *(aktuell offline, Season 7 beendet)*.
-
-<!-- tabs:end -->
+Die folgenden Systeme gehören zum **historischen Vanilla SMP**. Sie beschreiben keine aktuell laufende Survival-Welt. Vanilla-SMP-Duelle im Network sind ein eigenes Angebot.
 
 ---
 
@@ -50,7 +36,7 @@ Die serverweite Währung. Sparks bekommst du durch Kills, Supply-Drops, Login-St
 ### ☄️ Orbital Strikes
 Seltene, mächtige Items mit zwei Varianten. Reine Kampf- und Spektakel-Mechanik. Der Einsatz auf Bases ist **streng verboten** (siehe [Vanilla Rules](/vanilla/rules.md)).
 
-> [!WARNING]
+> **Achtung**
 > Orbitals verursachen **massive Blockschäden** – die Explosion zerstört beim Einschlag viele Blöcke im Umkreis. Um versehentlichen Umgebungsschaden auszugleichen, gibt es ein **automatisches Rollback-System**: Blockschäden durch Explosionen werden nach einer kurzen Zeit **automatisch rückgängig gemacht**. Das Rollback gilt ausschließlich für Umgebungsblöcke – Spielerschäden, Drops und Kampfeffekte bleiben bestehen.
 
 ### 🎁 Buffies
@@ -72,15 +58,15 @@ Drei Ränge (**Charged**, **Surge**, **Overload**) mit Kill-Effekten, Kill-Messa
 ### 📜 [Vanilla Rules](/vanilla/rules.md)
 Server-spezifische Regeln zu Combat, Items, Bases, Fair Play, Bounties & Economy.
 
-### 🚪 [Beitritt](/vanilla/join.md)
-Wie du auf den Server kommst.
+### 🚪 [Serverstatus & Beitritt](/vanilla/join.md)
+Der Server ist offline; hier findest du den Weg zu den aktuellen Angeboten.
 
 ---
 
-> [!IMPORTANT]
+> **Wichtig**
 > Updates werden im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
 
 ---
 
-> [!TIP]
+> **Tipp**
 > Du suchst die **Network Rules** (gelten netzwerkweit)? Die findest du im [🧭 Hub](/hub/network-rules.md).

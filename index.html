@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Buffed Wiki</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Offizielles Wiki von Buffed – BuffSMP, Vanilla SMP, Regeln & Buff-System">
+  <meta name="description" content="Offizielles Buffed Wiki – Network, Strength SMP, Klassen, Rituale und Regeln. BuffSMP und Vanilla SMP im Archiv.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
   <!-- Favicons (multiple formats for best browser support) -->
@@ -135,7 +135,7 @@
     /* === HOMEPAGE SERVER CARDS === */
     .server-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr));
       gap: 1.5rem;
       margin: 2rem 0;
     }
@@ -194,7 +194,7 @@
     }
     .server-card .status.offline {
       background: rgba(180, 180, 180, 0.08);
-      color: #777;
+      color: #b0b0b0;
       border: 1px solid #333;
     }
     .server-card .meta {
@@ -221,6 +221,39 @@
       color: #14b8a6 !important;
       margin-top: 0 !important;
     }
+    .network-entry {
+      background: linear-gradient(145deg, #112624 0%, #0a1a18 100%);
+      border: 1px solid #14b8a6;
+      border-radius: 10px;
+      padding: 1.2rem 1.5rem;
+      margin: 1.5rem 0;
+    }
+    .network-entry p { margin: 0.4rem 0; }
+    .network-entry code { overflow-wrap: anywhere; }
+    .server-archive {
+      border-top: 1px solid #2a2a2a;
+      margin: 1.5rem 0;
+      padding-top: 1rem;
+    }
+    .server-archive summary, .archive-nav summary {
+      cursor: pointer;
+      color: #b0b0b0;
+      padding: 0.5rem 0;
+    }
+    .server-archive .server-grid { margin: 1rem 0; }
+    .server-archive .server-card::before { background: #555; }
+    .server-archive .server-card h3 { color: #c8c8c8 !important; }
+    .archive-nav { margin: 1rem 0; }
+    .wiki-logo { float: right; margin: 0 0 1rem 1rem; }
+    @media (max-width: 600px) {
+      .network-entry, .server-card { padding: 1rem; }
+      .server-grid { gap: 1rem; margin: 1.2rem 0; }
+      .wiki-logo { width: 48px; height: 48px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .server-card, .server-card::before { transition: none; }
+      .server-card:hover { transform: none; }
+    }
   </style>
 </head>
 <body>
@@ -231,7 +264,7 @@
       repo: 'https://github.com/NikeyV1/Buffed',
       loadSidebar: true,
       loadNavbar: true,
-      coverpage: ['/'],
+      coverpage: false,
       onlyCover: false,
       auto2top: true,
       maxLevel: 3,
@@ -243,9 +276,12 @@
       // Alias-Konfiguration: jede Section bekommt ihre eigene Sidebar.
       // WICHTIG: Reihenfolge zählt — spezifische Patterns ZUERST.
       alias: {
+        '/.*/_navbar.md':            '/_navbar.md',
+        '/strength/_sidebar.md':     '/strength/_sidebar.md',
         '/buffsmp/_sidebar.md':       '/buffsmp/_sidebar.md',
         '/vanilla/_sidebar.md':       '/vanilla/_sidebar.md',
         '/hub/_sidebar.md':           '/hub/_sidebar.md',
+        '/strength/.*/_sidebar.md':  '/strength/_sidebar.md',
         '/buffsmp/.*/_sidebar.md':    '/buffsmp/_sidebar.md',
         '/vanilla/.*/_sidebar.md':    '/vanilla/_sidebar.md',
         '/hub/.*/_sidebar.md':        '/hub/_sidebar.md'
@@ -253,7 +289,16 @@
 
       search: {
         maxAge: 86400000,
-        paths: 'auto',
+        paths: [
+          '/', '/hub/', '/hub/network', '/hub/network-rules', '/hub/faq',
+          '/strength/', '/strength/join', '/strength/strength-guide', '/strength/classes',
+          '/strength/rituals', '/strength/teams', '/strength/bounties',
+          '/strength/items', '/strength/commands', '/strength/rules',
+          '/buffsmp/', '/buffsmp/join', '/buffsmp/rules', '/buffsmp/seasons',
+          '/buffsmp/system-overview', '/buffsmp/buff-guide', '/buffsmp/buff-tags',
+          '/buffsmp/essence-guide', '/buffsmp/altar-ritual', '/buffsmp/recipes',
+          '/vanilla/', '/vanilla/join', '/vanilla/rules', '/vanilla/vanilla-changes'
+        ],
         placeholder: 'Wiki durchsuchen...',
         noData: 'Keine Ergebnisse gefunden.',
         depth: 6,
