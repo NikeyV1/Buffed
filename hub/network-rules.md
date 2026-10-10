@@ -57,7 +57,7 @@ These rules apply to your conduct as a Buffed member across every channel — ga
 
 These rules cover gameplay integrity across every Buffed server.
 
-- No hacking, cheating, or any client modification that gives an unfair advantage. Anything not explicitly allowed in the modification list is forbidden — claiming uncertainty is not a defense.
+- No hacking, cheating, or any client modification that gives an unfair advantage.
 - No X-Ray of any kind (mods, texture packs, ore highlighters, transparency tricks, exposed-cave packs).
 - No duping or bug abuse. Found a bug? Report it in a ticket — abusing it is punishable, reporting it can be rewarded.
 - No exploiting unintended game mechanics for advantage.
@@ -145,7 +145,7 @@ The following are not allowed under any circumstances:
 - Client Commands, OpSec
 - Drag-clicking is permitted at your own risk — if it crosses into automation territory, it will still be punished.
 
-*This list is not exhaustive. Any mod, resource pack, or client modification that provides an advantage outside of vanilla gameplay is forbidden by default. If you are unsure, ask in a ticket before using it.*
+*This list is not exhaustive. Mods, resource packs, and client modifications are assessed by their actual features and use. A mod is not forbidden just because it is not listed here; it is forbidden if it enables cheating or gives an unfair advantage. If you are unsure, ask in a ticket before using it.*
 
 ---
 
