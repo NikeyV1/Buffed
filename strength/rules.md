@@ -25,6 +25,7 @@ Diese Regeln gelten **nur für Strength SMP**. Sie ergänzen die [Buffed Network
 - Keine Totems of Undying verwenden.
 - Keine Strength-Tränke verwenden.
 - Keine Stufe-II-Tränke verwenden.
+- Maces may only be enchanted with Unbreaking or Mending. No other enchantments are allowed.
 - Keine deutlichen Abweichungen vom Strength-SMP-Kit.
 
 ---
