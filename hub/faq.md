@@ -34,8 +34,8 @@ Das Strength-SMP-Plugin ist für **Paper 26.2** entwickelt. Die tatsächlich erf
 
 **BuffSMP Season 7** lief auf Paper **1.21.11**. Angaben im Archiv gehören zum damaligen Serverstand.
 
-### Sind die Strength-SMP-Regeln schon final?
-Die [Regel-Seite](/strength/rules.md) ist derzeit ein ausdrücklich gekennzeichneter Entwurf. Die Network Rules gelten bereits unabhängig davon. Die früheren BuffSMP- und Vanilla-Regeln werden nicht automatisch auf Strength SMP übertragen.
+### Welche Regeln gelten auf Strength SMP?
+Die [Strength-SMP-Regeln](/strength/rules.md) gelten ergänzend zu den [Network Rules](/hub/network-rules.md). Die früheren BuffSMP- und Vanilla-Regeln gelten nicht automatisch auf Strength SMP.
 
 ---
 

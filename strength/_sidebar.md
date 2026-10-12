@@ -4,7 +4,7 @@
 * **⚔️ STRENGTH SMP**
   * [Übersicht](/strength/README.md)
   * [Einstieg & Beitritt](/strength/join.md)
-  * [Regeln · Entwurf](/strength/rules.md)
+  * [Regeln](/strength/rules.md)
 
 * **⚡ SPIELSYSTEME**
   * [Strength & Splitter](/strength/strength-guide.md)

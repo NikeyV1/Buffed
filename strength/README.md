@@ -10,7 +10,7 @@ Strength SMP verbindet Survival und PvP mit **neun Klassen**, dauerhafter Streng
 2. Öffne in der Lobby den **Kompass** und wähle **Strength SMP**.
 3. Öffne auf dem SMP mit `/strength` dein Menü. `/strength class` zeigt deine Klasse und den Ultimate-Status.
 
-Mehr dazu unter [Einstieg & Beitritt](/strength/join.md). Die [Network Rules](/hub/network-rules.md) gelten jederzeit. Die zusätzlichen [SMP-Regeln](/strength/rules.md) werden derzeit abgestimmt.
+Mehr dazu unter [Einstieg & Beitritt](/strength/join.md). Die [Network Rules](/hub/network-rules.md) gelten jederzeit und werden durch die [Strength-SMP-Regeln](/strength/rules.md) ergänzt.
 
 ## 🧭 Was möchtest du wissen?
 
@@ -23,7 +23,7 @@ Mehr dazu unter [Einstieg & Beitritt](/strength/join.md). Die [Network Rules](/h
 | Den Auftrag fürs Wochenende erledigen | [Weekend Bountys](/strength/bounties.md) |
 | Die Klasse wechseln und eigene Items nutzen | [Items & Rezepte](/strength/items.md) |
 | Einen Befehl nachschlagen | [Befehle](/strength/commands.md) |
-| Das zusätzliche Regelwerk nachlesen | [Regeln · Entwurf](/strength/rules.md) |
+| Das Regelwerk nachlesen | [Regeln](/strength/rules.md) |
 
 ## ⚡ Die wichtigsten Grundlagen
 

@@ -18,7 +18,7 @@ Antworten zu Servern, Beitritt, Mods und Community.
 
 Das aktuelle SMP-Wiki: Klassen und Fähigkeiten, Strength-Splitter, Rituale, Teams, Weekend Bountys, Items und Befehle.
 
-Die [Strength-SMP-Regeln](/strength/rules.md) befinden sich noch in Abstimmung und sind als Entwurf gekennzeichnet.
+Die [Strength-SMP-Regeln](/strength/rules.md) ergänzen die Network Rules.
 
 <details class="server-archive">
   <summary>Frühere Server · Offline</summary>
@@ -33,7 +33,7 @@ Die [Strength-SMP-Regeln](/strength/rules.md) befinden sich noch in Abstimmung u
 | Ebene | Geltungsbereich |
 | --- | --- |
 | [Network Rules](/hub/network-rules.md) | Gesamtes Netzwerk und offizielle Plattformen; haben Vorrang |
-| [Strength SMP](/strength/rules.md) | Zusätzliche SMP-Regeln, derzeit als Entwurf |
+| [Strength SMP](/strength/rules.md) | Regeln für Strength SMP |
 | [BuffSMP](/buffsmp/rules.md) | Archiv des früheren BuffSMP-Regelwerks |
 | [Vanilla SMP](/vanilla/rules.md) | Archiv des früheren Vanilla-SMP-Regelwerks |
 

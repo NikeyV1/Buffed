@@ -8,7 +8,7 @@
 
 * **⚔️ STRENGTH SMP**
   * [Zum Strength-SMP-Wiki →](/strength/README.md)
-  * [Regeln · Entwurf](/strength/rules.md)
+  * [Regeln](/strength/rules.md)
 
 <details class="archive-nav">
   <summary>Frühere Server</summary>

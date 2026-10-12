@@ -33,4 +33,4 @@ Beim ersten Anlegen deines Spielerzustands bekommst du eine zufällige Klasse un
 
 ## 📜 Regeln
 
-Die [Network Rules](/hub/network-rules.md) gelten im gesamten Netzwerk. Die zusätzlichen [Strength-SMP-Regeln](/strength/rules.md) befinden sich noch in Abstimmung und sind ausdrücklich als Entwurf gekennzeichnet.
+Die [Network Rules](/hub/network-rules.md) gelten im gesamten Netzwerk und werden durch die [Strength-SMP-Regeln](/strength/rules.md) ergänzt.

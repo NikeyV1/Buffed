@@ -22,7 +22,7 @@ Hier findest du die Spielmechaniken, Anleitungen und Regeln der Buffed-Server. W
   </a>
 </div>
 
-Die [Strength-SMP-Regeln](/strength/rules.md) stimmen wir derzeit ab. Die [Network Rules](/hub/network-rules.md) gelten jederzeit im gesamten Netzwerk.
+Die [Strength-SMP-Regeln](/strength/rules.md) ergänzen die [Network Rules](/hub/network-rules.md), die jederzeit im gesamten Netzwerk gelten.
 
 <details class="server-archive">
   <summary>Frühere Server · 2 offline</summary>

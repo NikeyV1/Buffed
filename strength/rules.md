@@ -2,9 +2,6 @@
 
 Diese Regeln gelten **nur für Strength SMP**. Sie ergänzen die [Buffed Network Rules](/hub/network-rules.md), ersetzen sie aber nicht. Beide Regelwerke gelten jederzeit; die Network Rules haben Vorrang.
 
-> **Entwurf zur Abstimmung**
-> Diese Seite enthält die bisher geplanten Strength-SMP-Regeln. Sie ist noch nicht final. Offene Punkte werden nicht als beschlossen dargestellt.
-
 ---
 
 ## A. COMBAT RULES
