@@ -47,4 +47,4 @@ Während jeder Season laufen besondere Events:
 ---
 
 > [!IMPORTANT]
-> Eine **neue Season** ist nach dem Ende von S7 noch nicht angekündigt. Wenn etwas kommt, erfährst du es im [Discord](https://discord.gg/MQzbpd4rju) zuerst.
+> Eine **neue Season** ist nach dem Ende von S7 noch nicht angekündigt. Wenn etwas kommt, erfährst du es im [Discord](https://discord.gg/RqK8Yuaxkm) zuerst.

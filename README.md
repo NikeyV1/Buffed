@@ -48,7 +48,7 @@ Die [Strength-SMP-Regeln](/strength/rules.md) ergänzen die [Network Rules](/hub
 
 ## 🔗 Community & Links
 
-- 💬 **Discord:** [discord.gg/MQzbpd4rju](https://discord.gg/MQzbpd4rju)
+- 💬 **Discord:** [discord.gg/RqK8Yuaxkm](https://discord.gg/RqK8Yuaxkm)
 - 💎 **Store:** [buffed-store.tebex.io](https://buffed-store.tebex.io/)
 - 📺 **YouTube:** [@NikeyV1](https://youtube.com/@NikeyV1)
 - 🔧 **Modrinth:** [NikeyV1](https://modrinth.com/user/NikeyV1)

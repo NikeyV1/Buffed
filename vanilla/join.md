@@ -15,4 +15,4 @@ Der **Strength SMP ist online**. Verbinde dich über `buffed.mineserver.top` mit
 
 Die [Übersicht](/vanilla/README.md), [damaligen Regeln](/vanilla/rules.md) und [Vanilla Changes](/vanilla/vanilla-changes.md) bleiben zum Nachlesen erhalten. Der Vanilla-SMP-Duellmodus im Network ist ein separates Angebot.
 
-Neuigkeiten findest du im [Discord](https://discord.gg/MQzbpd4rju).
+Neuigkeiten findest du im [Discord](https://discord.gg/RqK8Yuaxkm).

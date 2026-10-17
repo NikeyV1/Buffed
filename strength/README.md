@@ -34,7 +34,7 @@ Mehr dazu unter [Einstieg & Beitritt](/strength/join.md). Die [Network Rules](/h
 - Ein abgeschlossenes Ritual bestätigt standardmäßig **+2 Strength dauerhaft**.
 
 > **Hinweis**
-> Zahlen mit der Bezeichnung **Standard** entsprechen den gebündelten Plugin-Einstellungen. Das Server-Team kann Balancewerte anpassen. Das Menü und die Befehle im Spiel zeigen deinen aktuellen Zustand; Ankündigungen erfolgen im [Discord](https://discord.gg/MQzbpd4rju).
+> Zahlen mit der Bezeichnung **Standard** entsprechen den gebündelten Plugin-Einstellungen. Das Server-Team kann Balancewerte anpassen. Das Menü und die Befehle im Spiel zeigen deinen aktuellen Zustand; Ankündigungen erfolgen im [Discord](https://discord.gg/RqK8Yuaxkm).
 
 ## 🌍 Weltgrenzen
 

@@ -1,7 +1,7 @@
 # 🚪 Beitritt zu BuffSMP
 
 > [!IMPORTANT]
-> **BuffSMP Season 7 ist beendet** — aktuell kann man nicht joinen. Die folgende Anleitung dient als Referenz für künftige Seasons. Updates kommen im [Discord](https://discord.gg/MQzbpd4rju).
+> **BuffSMP Season 7 ist beendet** — aktuell kann man nicht joinen. Die folgende Anleitung dient als Referenz für künftige Seasons. Updates kommen im [Discord](https://discord.gg/RqK8Yuaxkm).
 
 BuffSMP ist ein **semi-privater Server**. Um zu joinen, musst du den **Application-Prozess** durchlaufen.
 
@@ -11,7 +11,7 @@ BuffSMP ist ein **semi-privater Server**. Um zu joinen, musst du den **Applicati
 
 ### Schritt 1: Discord beitreten
 
-Tritt dem Buffed Discord bei: [discord.gg/MQzbpd4rju](https://discord.gg/MQzbpd4rju)
+Tritt dem Buffed Discord bei: [discord.gg/RqK8Yuaxkm](https://discord.gg/RqK8Yuaxkm)
 
 ### Schritt 2: Application ausfüllen
 

@@ -64,7 +64,7 @@ Der Server ist offline; hier findest du den Weg zu den aktuellen Angeboten.
 ---
 
 > **Wichtig**
-> Updates werden im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
+> Updates werden im [Discord](https://discord.gg/RqK8Yuaxkm) angekündigt.
 
 ---
 

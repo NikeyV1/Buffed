@@ -13,7 +13,7 @@ Die Adresse verbindet dich mit dem **Network**. Den gewünschten Server wählst 
 3. Öffne in der Lobby den **Kompass** für die Serverauswahl.
 4. Wähle **Strength SMP**.
 
-Der Strength SMP ist aktuell **online**. Bei Fragen zum Zugang oder einer fehlenden Freischaltung hilft das Team im [Discord](https://discord.gg/MQzbpd4rju).
+Der Strength SMP ist aktuell **online**. Bei Fragen zum Zugang oder einer fehlenden Freischaltung hilft das Team im [Discord](https://discord.gg/RqK8Yuaxkm).
 
 Lies die [Network Rules](/hub/network-rules.md) und die ergänzenden [Strength-SMP-Regeln](/strength/rules.md).
 

@@ -14,7 +14,7 @@ Die Adresse verbindet dich mit dem Network. Sie ist kein direkter SMP-Einstieg.
 
 ## 2. Den SMP auswählen
 
-Öffne in der Lobby den **Kompass** und wähle **Strength SMP**. Falls der Zugang für deinen Account noch nicht freigeschaltet ist, wende dich an das Team im [Discord](https://discord.gg/MQzbpd4rju).
+Öffne in der Lobby den **Kompass** und wähle **Strength SMP**. Falls der Zugang für deinen Account noch nicht freigeschaltet ist, wende dich an das Team im [Discord](https://discord.gg/RqK8Yuaxkm).
 
 Die benötigte Minecraft-Version findest du im Servereintrag und in den aktuellen Discord-Ankündigungen. Das SMP-Plugin ist für Paper 26.2 entwickelt.
 

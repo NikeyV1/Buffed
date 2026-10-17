@@ -9,5 +9,5 @@
 - 📜 Network Rules und eigene Server-Regeln
 - 📚 BuffSMP und Vanilla SMP im Archiv
 
-[Discord](https://discord.gg/MQzbpd4rju)
+[Discord](https://discord.gg/RqK8Yuaxkm)
 [Wiki starten](/README.md)

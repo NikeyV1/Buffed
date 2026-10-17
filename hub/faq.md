@@ -53,4 +53,4 @@ Patreon/Store-Käufe sind **final**. Chargebacks führen zum Blacklist. Siehe [N
 ---
 
 > **Tipp**
-> Frage nicht beantwortet? Öffne ein Ticket im [Discord](https://discord.gg/MQzbpd4rju).
+> Frage nicht beantwortet? Öffne ein Ticket im [Discord](https://discord.gg/RqK8Yuaxkm).

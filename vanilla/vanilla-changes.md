@@ -192,4 +192,4 @@ Bestimmte Verzauberungen sind **exklusiv** und können weder über den Verzauber
 ---
 
 > **Tipp**
-> Fragen zu einer bestimmten Änderung? Öffne ein Ticket im [Discord](https://discord.gg/MQzbpd4rju).
+> Fragen zu einer bestimmten Änderung? Öffne ein Ticket im [Discord](https://discord.gg/RqK8Yuaxkm).

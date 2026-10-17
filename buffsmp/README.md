@@ -5,7 +5,7 @@
 Willkommen im BuffSMP-Wiki. BuffSMP ist ein semi-privater SMP mit einem einzigartigen **Buff-System** — jeder Spieler bekommt eine besondere Fähigkeit, die seinen Spielstil definiert.
 
 > **Wichtig**
-> **Season 7 ist beendet — der Server ist aktuell offline.** Das Wiki bleibt als Archiv erhalten. [Aktuelle Server](/README.md) findest du auf der Startseite. Neuigkeiten zu künftigen Seasons werden im [Discord](https://discord.gg/MQzbpd4rju) angekündigt.
+> **Season 7 ist beendet — der Server ist aktuell offline.** Das Wiki bleibt als Archiv erhalten. [Aktuelle Server](/README.md) findest du auf der Startseite. Neuigkeiten zu künftigen Seasons werden im [Discord](https://discord.gg/RqK8Yuaxkm) angekündigt.
 
 ---
 
