@@ -50,4 +50,11 @@ Diese Regeln gelten **nur für Strength SMP**. Sie ergänzen die [Buffed Network
 - Wer die wöchentliche Mindestspielzeit nicht erreichen kann oder am Wochenende als ausgewähltes Bounty nicht online sein kann, muss sich beim **Staff-Team** melden. So kann für den betreffenden Zeitraum eine Ausnahme von der Playtime-Pflicht oder der Teilnahme als Bounty vereinbart werden.
 - Gäste werden nicht fest für Events eingeplant und können bei Events ausgelassen oder vom SMP entfernt werden.
 
+---
+
+## F. RITUALE
+
+- Ein Ritual darf gestartet werden, wenn mindestens so viele gegnerische Spieler wie Mitglieder des eigenen Teams online und angreifbar sind.
+- In begründeten Ausnahmefällen, etwa nach längeren Inaktivitätsphasen, kann ein Ritual auch gestartet werden, wenn benötigte Teammitglieder nur im Discord erreichbar sind. Voraussetzung ist, dass verbindlich feststeht, dass sie bei Bedarf sofort online kommen können. Eine solche Ausnahme sollte vorher mit dem **Staff-Team** abgestimmt werden, damit die Situation nicht falsch eingeschätzt wird.
+
 **Last updated:** October 17, 2026
