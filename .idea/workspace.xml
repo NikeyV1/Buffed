@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Transition wiki to Strength SMP and archive previous servers&#10;&#10;- Update landing page, coverpage, navbar, and sidebars to introduce the new Strength SMP and mark BuffSMP and Vanilla SMP as archived.&#10;- Redefine network entry points and IP routing to the network hub.&#10;- Update FAQ, rules, and server documentation to reflect current online status and archival states.">
+    <list default="true" id="b4a6092d-8b57-43e6-a8e1-f381afe3101a" name="Changes" comment="Update Strength SMP rules and configuration&#10;&#10;- Restructure rules into categorized sections including Combat, Items &amp; Kit, Modifications, Spawn &amp; World, and Bounties &amp; Activity&#10;- Add new prohibitions for combat-logging, restricted mobility items in combat, exploit mechanics, and griefing&#10;- Clarify draft status and precedence alongside the Buffed Network Rules">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strength/rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/strength/rules.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791490424309</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update Strength SMP rules and configuration&#10;&#10;- Restructure rules into categorized sections including Combat, Items &amp; Kit, Modifications, Spawn &amp; World, and Bounties &amp; Activity&#10;- Add new prohibitions for combat-logging, restricted mobility items in combat, exploit mechanics, and griefing&#10;- Clarify draft status and precedence alongside the Buffed Network Rules">
+      <option name="closed" value="true" />
+      <created>1791492004147</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1791492004147</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,6 +313,7 @@
     <MESSAGE value="Update Patreon links to Store URL" />
     <MESSAGE value="Update Patreon link to Store URL" />
     <MESSAGE value="Transition wiki to Strength SMP and archive previous servers&#10;&#10;- Update landing page, coverpage, navbar, and sidebars to introduce the new Strength SMP and mark BuffSMP and Vanilla SMP as archived.&#10;- Redefine network entry points and IP routing to the network hub.&#10;- Update FAQ, rules, and server documentation to reflect current online status and archival states." />
-    <option name="LAST_COMMIT_MESSAGE" value="Transition wiki to Strength SMP and archive previous servers&#10;&#10;- Update landing page, coverpage, navbar, and sidebars to introduce the new Strength SMP and mark BuffSMP and Vanilla SMP as archived.&#10;- Redefine network entry points and IP routing to the network hub.&#10;- Update FAQ, rules, and server documentation to reflect current online status and archival states." />
+    <MESSAGE value="Update Strength SMP rules and configuration&#10;&#10;- Restructure rules into categorized sections including Combat, Items &amp; Kit, Modifications, Spawn &amp; World, and Bounties &amp; Activity&#10;- Add new prohibitions for combat-logging, restricted mobility items in combat, exploit mechanics, and griefing&#10;- Clarify draft status and precedence alongside the Buffed Network Rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Strength SMP rules and configuration&#10;&#10;- Restructure rules into categorized sections including Combat, Items &amp; Kit, Modifications, Spawn &amp; World, and Bounties &amp; Activity&#10;- Add new prohibitions for combat-logging, restricted mobility items in combat, exploit mechanics, and griefing&#10;- Clarify draft status and precedence alongside the Buffed Network Rules" />
   </component>
 </project>

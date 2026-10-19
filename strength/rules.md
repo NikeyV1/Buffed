@@ -8,7 +8,6 @@ Diese Regeln gelten **nur für Strength SMP**. Sie ergänzen die [Buffed Network
 
 - Combat beginnt, sobald ein Gegner sichtbar ist oder ein PvP-Treffer fällt. Er endet erst, wenn kein Gegner mehr sichtbar ist und seit dem letzten Treffer mindestens **3 Minuten** vergangen sind.
 - Kämpfe dürfen nicht absichtlich unnötig in die Länge gezogen werden. Dazu zählt insbesondere wiederholtes oder dauerhaftes Weglaufen ohne erkennbaren Fluchtversuch, etwa durch ständiges Rennen im Kreis oder Hin und Her. Taktische Rückzüge zum Heilen oder Neupositionieren sowie ein tatsächlicher Versuch, dem Kampf zu entkommen, bleiben erlaubt.
-- Keine Enderperlen im Combat.
 - Kein Combat- oder Danger-Logging. Trenne dich nicht absichtlich vom Server, um einem laufenden Kampf oder einer unmittelbaren PvP-Gefahr zu entgehen.
 - Elytra und Riptide sind im Combat und in unmittelbaren PvP-Gefahrensituationen verboten.
 - Kein Wasser- oder Lava-Rennen, um einem Kampf zu entkommen.
@@ -19,6 +18,7 @@ Diese Regeln gelten **nur für Strength SMP**. Sie ergänzen die [Buffed Network
 
 ## B. ITEMS & KIT
 
+- Enderperlen sind überall verboten, auch außerhalb des Combats. Sie dürfen ausschließlich als Zutat zum Craften anderer Items verwendet werden.
 - Keine Lunge-Verzauberung verwenden.
 - Keine Totems of Undying verwenden.
 - Keine Strength-Tränke verwenden.
