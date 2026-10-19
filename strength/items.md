@@ -21,14 +21,7 @@ Ein Rechtsklick verbraucht das Buch und würfelt garantiert eine **andere Klasse
 | Links | Mitte | Rechts |
 | --- | --- | --- |
 | Diamantblock | Netherithacke | Diamantblock |
-| Echoscherbe | Witherskelettschädel | Echoscherbe |
+| Ghastträne | Witherskelettschädel | Ghastträne |
 | Diamantblock | Dreizack | Diamantblock |
 
-**Material:** vier Diamantblöcke, zwei Echoscherben, eine Netherithacke, ein Witherskelettschädel und ein Dreizack.
-
-## Ortungsrune
-
-Die Ortungsrune ist im Plugin vorhanden, aber **standardmäßig deaktiviert**. Sie ist erst nach Freigabe durch das Server-Team nutzbar.
-
-Bei Freigabe zeigt sie die grobe Richtung zum nächsten Gegner in Reichweite, keine exakten Koordinaten oder Basenpositionen. Reichweite und Cooldown sind einstellbar.
-
+**Material:** vier Diamantblöcke, zwei Ghasttränen, eine Netherithacke, ein Witherskelettschädel und ein Dreizack.
