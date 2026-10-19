@@ -49,6 +49,7 @@ Diese Regeln gelten **nur für Strength SMP**. Sie ergänzen die [Buffed Network
 - Bountys dürfen nur durch legitimes PvP erfüllt werden. Keine abgesprochenen oder gestellten Tode, kein Bounty-Farming und keine Vereinbarungen, die den Auftrag umgehen.
 - Main-Spieler müssen mindestens **12 Stunden pro Woche** spielen.
 - Wer die wöchentliche Mindestspielzeit nicht erreichen kann oder am Wochenende als ausgewähltes Bounty nicht online sein kann, muss sich beim **Staff-Team** melden. So kann für den betreffenden Zeitraum eine Ausnahme von der Playtime-Pflicht oder der Teilnahme als Bounty vereinbart werden.
+- Wer sich für einen Zeitraum beim **Staff-Team** abmeldet, darf in diesem Zeitraum nicht aktiv am SMP teilnehmen. Dazu zählen insbesondere Fights und Events. Wer doch spielen oder an Aktivitäten teilnehmen möchte, muss sich vorher beim **Staff-Team** zurückmelden und die wöchentliche Mindestspielzeit erreichen.
 - Gäste werden nicht fest für Events eingeplant und können bei Events ausgelassen oder vom SMP entfernt werden.
 
 ---
