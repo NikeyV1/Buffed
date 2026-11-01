@@ -16,10 +16,10 @@ Am Strength-Maximum kannst du keinen weiteren Splitter einlösen. Einlösen und 
 
 | Links | Mitte | Rechts |
 | --- | --- | --- |
-| Echoscherbe | Herz des Meeres | Echoscherbe |
+| Endkristall | Herz des Meeres | Endkristall |
 | Witherskelettschädel | Netheritbarren | Diamantblock |
 
-**Material:** zwei Echoscherben, ein Herz des Meeres, ein Witherskelettschädel, ein Netheritbarren und ein Diamantblock.
+**Material:** zwei Endkristalle, ein Herz des Meeres, ein Witherskelettschädel, ein Netheritbarren und ein Diamantblock.
 
 ## Klassenwechsel-Buch
 
