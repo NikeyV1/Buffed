@@ -32,7 +32,7 @@ Der Killer erhält den Punkt nicht automatisch als zusätzliche Strength. Ein Sp
 
 Halte einen gültigen **Strength-Splitter** in der Haupthand und rechtsklicke. Er wird verbraucht und gibt **+1 dauerhafte Strength**. Am Maximum lässt sich kein weiterer Splitter einlösen.
 
-Splitter sind eigene Server-Items. Eine gewöhnliche Amethystscherbe funktioniert nicht. Sie sind **nicht craftbar**.
+Splitter sind eigene Server-Items. Eine gewöhnliche Amethystscherbe funktioniert nicht. Du kannst sie zusätzlich [mit einem Rezept craften](/strength/items.md#crafting-rezept).
 
 ## 📤 Strength auszahlen
 
@@ -50,10 +50,10 @@ Beispiel: `/strength withdraw 2` zieht zwei dauerhafte Strength-Punkte ab und gi
 
 ## 🗿 Strength durch Rituale
 
-Ein Ritual gibt standardmäßig **+2 Strength vorläufig**, die bei erfolgreichem Abschluss dauerhaft bestätigt werden. Der Bonus kann Passives oder die Ultimate freischalten, solange das Ritual läuft.
+Ein Ritual gibt standardmäßig **+3 Strength vorläufig**, die bei erfolgreichem Abschluss dauerhaft bestätigt werden. Der Bonus kann Passives oder die Ultimate freischalten, solange das Ritual läuft. Ein vollendetes Ritual gibt zusätzlich standardmäßig ein [Auge des Jägers](/strength/items.md#auge-des-jägers).
 
-Es muss beim Start Platz für den **gesamten** Bonus unter dem Maximum sein. Bei den Standardwerten kann man deshalb mit höchstens +3 dauerhafter Strength starten. Bei Abbruch verschwindet der vorläufige Bonus. [Zum Ritual-Guide](/strength/rituals.md).
+Es muss beim Start Platz für den **gesamten** Bonus unter dem Maximum sein. Bei Maximum +5 und Bonus +3 kannst du deshalb mit höchstens +2 dauerhafter Strength starten. Bei Abbruch verschwindet der vorläufige Bonus. [Zum Ritual-Guide](/strength/rituals.md).
 
 ## 🎯 Weekend Bountys
 
-Ein unerfüllter Wochenendauftrag kostet standardmäßig **zwei Strength**, begrenzt durch die Untergrenze. Das Erfüllen verhindert diese Strafe und gibt keine zusätzliche automatische Prämie. [Zum Bounty-Guide](/strength/bounties.md).
+Ein unerfüllter Wochenendauftrag kostet standardmäßig **zwei Strength**, begrenzt durch die Untergrenze. Das Erfüllen verhindert diese Strafe; die ersten drei erfolgreichen Abschlüsse pro Wochenende erhalten zusätzlich je ein [Auge des Jägers](/strength/items.md#auge-des-jägers). [Zum Bounty-Guide](/strength/bounties.md).

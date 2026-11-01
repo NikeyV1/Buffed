@@ -20,7 +20,7 @@ Eigene Teammitglieder und du selbst sind keine zulässigen Ziele. Ist kein Ziel 
 
 Töte dein zugeteiltes Ziel in einem gültigen gegnerischen PvP-Kill. Teamkills erfüllen den Auftrag nicht.
 
-Das Erfüllen gibt **keine zusätzliche automatische Strength-Prämie**. Es verhindert die Wochenendstrafe. Ein normaler Strength-Splitter beim Kill richtet sich unabhängig davon nach den [PvP-Transferbedingungen](/strength/strength-guide.md).
+Das Erfüllen gibt **keine zusätzliche automatische Strength**, verhindert aber die Wochenendstrafe. Die ersten drei erfolgreichen Bounty-Abschlüsse des Wochenendes werden zusätzlich jeweils mit einem [Auge des Jägers](/strength/items.md#auge-des-jägers) belohnt. Ein normaler Strength-Splitter beim Kill richtet sich unabhängig davon nach den [PvP-Transferbedingungen](/strength/strength-guide.md).
 
 ## ❌ Unerfüllter Auftrag
 
@@ -30,6 +30,7 @@ Ein unerfüllter Auftrag kostet standardmäßig **−2 Strength**. Deine Strengt
 | --- | --- |
 | Zeitfenster | Samstag 00:00 bis Montag 00:00 |
 | Strafe bei offenem Auftrag | −2 Strength |
-| Zusätzliche Prämie bei Erfolg | keine |
+| Zusätzliche Strength bei Erfolg | keine |
+| Auge des Jägers | je eins für die ersten 3 erfolgreichen Abschlüsse des Wochenendes |
 | Kein zulässiges Ziel | keine Strafe |
 

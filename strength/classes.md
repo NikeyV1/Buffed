@@ -66,6 +66,8 @@ Die folgenden Zahlen sind **Plugin-Standards**. Balancewerte sind anpassbar; die
 
 ## Streitkolben
 
+**Grundschaden:** Nahkampftreffer mit einem Streitkolben verursachen standardmäßig **85 % des normalen Schadens**.
+
 **Passive:** Der Smash-Cooldown halbiert sich von 180 auf **90 Sekunden**. Jeder Smash-Treffer startet ihn, auch gegen einen blockenden Schild. Während des Cooldowns entfallen Smash-Bonusschaden, Smash-Rückstoß und die Fallschaden-Aufhebung des Smashs.
 
 **Ultimate:** Der Streitkolben erhält vorübergehend **Wind Burst II**. Für 30 Sekunden kannst du Smashs ohne Smash-Cooldown ausführen.
@@ -102,6 +104,6 @@ Ein kurzer Actionbar-Hinweis mit Ton zeigt wichtige Zustände: aktive Schwertkom
 
 ## 📖 Klasse wechseln
 
-Ein [Klassenwechsel-Buch](/strength/items.md) würfelt garantiert eine **andere** Klasse. Es wird beim Rechtsklick verbraucht. Während eines Rituals ist der Wechsel über das Buch gesperrt.
+Ein [Klassenwechsel-Buch](/strength/items.md) würfelt garantiert eine **andere** Klasse. Mit dem **Klassenwahl-Buch** kannst du stattdessen selbst eine andere Klasse wählen; es wird erst nach deiner Bestätigung verbraucht. Beide Bücher funktionieren im Überlebensmodus, aber nicht während eines Rituals.
 
 Temporär umgewandelte Ausrüstung wird beim Ende der Fähigkeit beziehungsweise Klassenwechsel zurückgesetzt. Sie lässt sich nicht als dauerhaftes Klassenitem weitergeben.

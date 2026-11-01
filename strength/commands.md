@@ -14,6 +14,7 @@
 | `/strength ritual` | Registrierte Ritualorte anzeigen; Start am Kern per Rechtsklick |
 | `/strength ritual cancel` | Eigenes laufendes Ritual abbrechen |
 | `/strength bounty` | Eigenen Wochenendauftrag anzeigen |
+| `/strength hunt` | Tagesnutzung, aktive Jagd und Verfall eigener Augen des Jägers anzeigen |
 | `/strength help` | Kurzhilfe |
 
 Aliase für `/strength`: **`/strengthsmp`** und **`/ssmp`**.

@@ -1,6 +1,6 @@
 # 🗿 Rituale
 
-Ein Ritual ist ein zeitgebundener Versuch an einem festen **Strength-Kern**. Standardmäßig bekommst du ab Start **+2 Strength vorläufig**. Überstehst du das gesamte Ritual, werden diese Punkte dauerhaft bestätigt.
+Ein Ritual ist ein zeitgebundener Versuch an einem festen **Strength-Kern**. Standardmäßig bekommst du ab Start **+3 Strength vorläufig**. Überstehst du das gesamte Ritual, werden diese Punkte dauerhaft bestätigt.
 
 ## 📍 Einen Kern finden
 
@@ -21,11 +21,11 @@ Das Ritual durchläuft **Erwachen, Bindung und Vollendung**. Ringe, Spiralen, So
 | Einstellung | Standard |
 | --- | --- |
 | Dauer | 30 Minuten |
-| Vorläufiger und später dauerhafter Bonus | +2 Strength |
+| Vorläufiger und später dauerhafter Bonus | +3 Strength |
 | Radius um den Kern | 32 Blöcke |
 | Tageswechsel | 00:00 Uhr, Europe/Berlin |
 
-Beim Start muss der volle Bonus unter dein Strength-Maximum passen: Bei Maximum +5 und Bonus +2 darf deine dauerhafte Strength höchstens +3 sein.
+Beim Start muss der volle Bonus unter dein Strength-Maximum passen: Bei Maximum +5 und Bonus +3 darf deine dauerhafte Strength höchstens +2 sein.
 
 Standardmäßig wird der Start mit der Position angekündigt.
 
@@ -41,11 +41,11 @@ Der vorläufige Bonus verschwindet bei:
 
 Abbrechen kannst du mit `/strength ritual cancel`.
 
-Während des Rituals kannst du weder Splitter einlösen noch Strength auszahlen oder ein Klassenwechsel-Buch nutzen.
+Während des Rituals kannst du weder Splitter einlösen noch Strength auszahlen oder ein Klassenwechsel- oder Klassenwahl-Buch nutzen.
 
 ## ✅ Erfolg
 
-Nach Ablauf werden die +2 dauerhaft bestätigt. Vorläufige Strength wird nicht zusätzlich ein zweites Mal angerechnet. Deine [Passives und Ultimate](/strength/classes.md) richten sich während des Rituals bereits nach der wirksamen Strength inklusive Bonus.
+Nach Ablauf werden die +3 dauerhaft bestätigt. Standardmäßig erhältst du zusätzlich ein [Auge des Jägers](/strength/items.md#auge-des-jägers). Vorläufige Strength wird nicht zusätzlich ein zweites Mal angerechnet. Deine [Passives und Ultimate](/strength/classes.md) richten sich während des Rituals bereits nach der wirksamen Strength inklusive Bonus.
 
 > **Hinweis**
 > Die genannten Zahlen entsprechen den Plugin-Standards. Kernorte, Dauer, Radius und Bonus können vom Server-Team eingestellt werden.

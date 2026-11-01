@@ -31,7 +31,7 @@ Mehr dazu unter [Einstieg & Beitritt](/strength/join.md). Die [Network Rules](/h
 - **Ab +2** wirkt deine Klassen-Passive; **ab +5** kannst du die Ultimate einsetzen.
 - Aktiviere deine Ultimate mit **Shift+F** oder `/strength ability`. Je nach Klasse brauchst du zusätzlich Trefferladung und einen abgelaufenen Cooldown.
 - Ein gültiger PvP-Tod kostet standardmäßig **eine Strength-Stufe** und erzeugt einen Splitter als Drop.
-- Ein abgeschlossenes Ritual bestätigt standardmäßig **+2 Strength dauerhaft**.
+- Ein abgeschlossenes Ritual bestätigt standardmäßig **+3 Strength dauerhaft** und gibt zusätzlich ein **Auge des Jägers**.
 
 > **Hinweis**
 > Zahlen mit der Bezeichnung **Standard** entsprechen den gebündelten Plugin-Einstellungen. Das Server-Team kann Balancewerte anpassen. Das Menü und die Befehle im Spiel zeigen deinen aktuellen Zustand; Ankündigungen erfolgen im [Discord](https://discord.gg/RqK8Yuaxkm).
