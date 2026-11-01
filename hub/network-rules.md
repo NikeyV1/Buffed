@@ -39,6 +39,7 @@ These rules apply to your conduct as a Buffed member across every channel — ga
 - Do not falsify, alter, or fabricate evidence against another player.
 - Do not impersonate staff members or other players (names, skins, capes, Discord profiles).
 - Do not encourage, pressure, or coerce others into breaking rules.
+- Do not carry out, organize, advertise, instruct, or encourage harmful, dangerous, or unsafe activities in any space controlled by Buffed. This includes gambling and gambling-style games, even without real-money stakes. For example, hosting roulette in an official Discord channel or inviting players to gamble through in-game messages is not allowed. Private Discord DMs between members are excluded from this rule; in-game messages remain covered.
 - Do not blackmail or extort players or staff.
 - Do not evade punishments (alts, VPNs, account swaps, asking others to act on your behalf).
 - Do not knowingly associate with banned or blacklisted players in ways that help them evade punishment. Continued association may itself result in action.
