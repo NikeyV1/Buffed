@@ -2,16 +2,26 @@
 
 # Willkommen im Buffed Wiki
 
-Hier findest du Spielmechaniken, Anleitungen und Regeln der Buffed-Server.
+Das Wiki für das Buffed Network: Spielmodi, Regeln und vergangene SMP-Seasons.
 
 <div class="network-entry">
-  <strong>Buffed Network</strong>
+  <strong>🌐 Buffed Network</strong>
   <p><code>buffed.mineserver.top</code></p>
-  <p>Die Adresse führt in die Network-Lobby. Die Wiki-Seiten der früheren SMP-Server bleiben als Archive erhalten.</p>
+  <p>Verbinde dich mit der Network-Lobby und wähle deinen Spielmodus. Das Network bietet auch zwischen den SMP-Seasons Spielmöglichkeiten.</p>
   <a href="#/hub/network">Network &amp; Beitritt →</a>
 </div>
 
-## 🗂️ Server-Archive
+## 🎮 Spielmodi im Network
+
+**⚔️ Duels** · Tritt in verschiedenen Duellmodi und mit unterschiedlichen Kits gegen andere Spieler an. Im Practice-Bereich kannst du auch gegen Bots trainieren, sofern dieser freigeschaltet ist.
+
+**🔪 Murder** · Spiele den Murder-Spielmodus im Buffed Network.
+
+Die [Network Rules](/hub/network-rules.md) gelten auf dem gesamten Network. Aktuelle Informationen zu den Spielmodi findest du im [Discord](https://discord.gg/RqK8Yuaxkm).
+
+## 🗂️ Frühere SMP-Seasons
+
+Die SMPs laufen als eigene Seasons. Ihre Anleitungen und Regeln bleiben nach dem Ende hier zum Nachlesen erhalten.
 
 <div class="server-grid">
   <a href="#/strength/" class="server-card">
