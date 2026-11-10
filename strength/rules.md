@@ -1,5 +1,7 @@
 # Strength SMP Rules
 
+> **Archiv:** Diese Regeln galten für die abgeschlossene Strength-SMP-Season. Strength SMP endete mit [THE LAST EYE](/strength/last-eye.md); diese Regeln gelten nicht automatisch für BuffSMP.
+
 Diese Regeln gelten **nur für Strength SMP**. Sie ergänzen die [Buffed Network Rules](/hub/network-rules.md), ersetzen sie aber nicht. Beide Regelwerke gelten jederzeit; die Network Rules haben Vorrang.
 
 ---

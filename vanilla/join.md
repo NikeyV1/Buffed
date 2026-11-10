@@ -3,13 +3,12 @@
 > **Wichtig**
 > **Der Vanilla SMP ist offline.** Diese Seite gehört zum Archiv. Ein Beitritt zum früheren Vanilla-Survival-Server ist derzeit nicht möglich.
 
-## 🎮 Aktuelle Angebote
+## 🌐 Network
 
-Der **Strength SMP ist online**. Verbinde dich über `buffed.mineserver.top` mit dem Buffed Network und wähle ihn in der Lobby über den Kompass aus.
+`buffed.mineserver.top` führt in die Network-Lobby. Welche Angebote verfügbar sind, wird im [Discord](https://discord.gg/RqK8Yuaxkm) angekündigt.
 
 - [Network & Beitritt](/hub/network.md)
-- [Strength-SMP-Einstieg](/strength/join.md)
-- [Aktuelle Server](/README.md)
+- [Server-Archive](/README.md)
 
 ## 📚 Vanilla-Archiv
 

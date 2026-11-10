@@ -1,9 +1,10 @@
 * [← Aktuelle Server](/README.md)
 * [🌐 Network & Beitritt](/hub/network.md)
 
-* **⚔️ STRENGTH SMP**
+* **⚔️ STRENGTH SMP · ARCHIV**
   * [Übersicht](/strength/README.md)
-  * [Einstieg & Beitritt](/strength/join.md)
+  * [THE LAST EYE · Finale](/strength/last-eye.md)
+  * [Früherer Einstieg](/strength/join.md)
   * [Regeln](/strength/rules.md)
 
 * **⚡ SPIELSYSTEME**

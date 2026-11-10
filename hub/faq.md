@@ -3,7 +3,7 @@
 ## 🌐 Allgemein
 
 ### Welche Server gibt es?
-Der **Strength SMP ist online** und über das Buffed Network unter `buffed.mineserver.top` erreichbar. **Vanilla SMP und BuffSMP sind offline**; BuffSMP Season 7 ist beendet. Ihre Wikis findest du unter „Frühere Server“ auf der [Startseite](/README.md).
+Strength SMP ist nach dem Event THE LAST EYE abgeschlossen. BuffSMP Season 7 und der Vanilla SMP sind ebenfalls beendet beziehungsweise offline. Die Wiki-Seiten bleiben im [Server-Archiv](/README.md) erhalten.
 
 ### Wo gelten die Network Rules?
 **Überall** — auf jedem Buffed-Server, im Discord und in jedem offiziellen Channel. Siehe [Network Rules](/hub/network-rules.md).
@@ -22,20 +22,16 @@ Verweigern, Disconnect oder Modifikation des Systems = Ban. Details in den [Netw
 ## 🚪 Beitritt
 
 ### Wie joine ich einen Server?
-Verbinde dich mit `buffed.mineserver.top`, öffne in der Lobby den Kompass und wähle Strength SMP. Die Adresse führt ins Network.
+`buffed.mineserver.top` führt ins Network. Die früheren Survival-SMPs sind beendet beziehungsweise offline. Aktuelle Ankündigungen findest du im [Discord](https://discord.gg/RqK8Yuaxkm).
 
 - [Network & Beitritt](/hub/network.md)
-- [Strength-SMP-Einstieg](/strength/join.md)
-
-Ein Beitritt zu den früheren BuffSMP- und Vanilla-Survival-Servern ist derzeit nicht möglich.
+- [Server-Archive](/README.md)
 
 ### Welche Minecraft-Version brauche ich?
-Das Strength-SMP-Plugin ist für **Paper 26.2** entwickelt. Die tatsächlich erforderliche Client-Version findest du im Servereintrag oder in den aktuellen Discord-Ankündigungen. Die Client-Vorgaben der [Network Rules](/hub/network-rules.md) gelten weiterhin.
+Aktuelle Versionsvorgaben werden im Network und in den [Network Rules](/hub/network-rules.md) bekanntgegeben. Frühere Server-Versionen sind in den jeweiligen Archiven dokumentiert.
 
-**BuffSMP Season 7** lief auf Paper **1.21.11**. Angaben im Archiv gehören zum damaligen Serverstand.
-
-### Welche Regeln gelten auf Strength SMP?
-Die [Strength-SMP-Regeln](/strength/rules.md) gelten ergänzend zu den [Network Rules](/hub/network-rules.md). Die früheren BuffSMP- und Vanilla-Regeln gelten nicht automatisch auf Strength SMP.
+### Welche Regeln gelten auf den Servern?
+Die [Network Rules](/hub/network-rules.md) gelten netzwerkweit. Die Server-Regeln in den Wiki-Archiven beziehen sich auf die jeweilige frühere Season.
 
 ---
 

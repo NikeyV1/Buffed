@@ -1,6 +1,7 @@
-* [← Aktuelle Server](/README.md)
+* [← Server-Archive](/README.md)
 * [🌐 Network & Beitritt](/hub/network.md)
-* [⚔️ Strength SMP](/strength/README.md)
+* [⚔️ Strength SMP · Archiv](/strength/README.md)
+* [⚔️ BuffSMP · Season-7-Archiv](/buffsmp/README.md)
 
 * **🌿 VANILLA SMP · ARCHIV**
   * [Übersicht · Offline](/vanilla/README.md)
@@ -9,4 +10,3 @@
   * [Serverstatus & Beitritt](/vanilla/join.md)
 
 * [Network Rules](/hub/network-rules.md)
-* [BuffSMP-Archiv](/buffsmp/README.md)

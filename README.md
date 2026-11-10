@@ -2,45 +2,37 @@
 
 # Willkommen im Buffed Wiki
 
-Hier findest du die Spielmechaniken, Anleitungen und Regeln der Buffed-Server. Wähle deinen Server, um zu seinem Wiki zu gelangen.
+Hier findest du Spielmechaniken, Anleitungen und Regeln der Buffed-Server.
 
 <div class="network-entry">
-  <strong>Dein Einstieg ins Buffed Network</strong>
+  <strong>Buffed Network</strong>
   <p><code>buffed.mineserver.top</code></p>
-  <p>Die Adresse führt ins Network. Öffne in der Lobby den Kompass und wähle <strong>Strength SMP</strong>.</p>
+  <p>Die Adresse führt in die Network-Lobby. Die Wiki-Seiten der früheren SMP-Server bleiben als Archive erhalten.</p>
   <a href="#/hub/network">Network &amp; Beitritt →</a>
 </div>
 
-## 🎮 Aktuelle Server
+## 🗂️ Server-Archive
 
 <div class="server-grid">
   <a href="#/strength/" class="server-card">
     <h3>⚔️ Strength SMP</h3>
-    <span class="status live">🟢 ONLINE</span>
-    <div class="desc">Survival und PvP mit neun Klassen, Strength-Splittern, Ritualen und Weekend Bountys.</div>
-    <div class="meta">Über das Buffed Network erreichbar<br><strong>Zum Strength-SMP-Wiki →</strong></div>
+    <span class="status offline">⚫ ABGESCHLOSSEN · THE LAST EYE</span>
+    <div class="desc">Die Season endete mit dem Abschluss-Event THE LAST EYE. Das Wiki bleibt als Archiv erhalten.</div>
+    <div class="meta">Strength-SMP-Archiv ansehen →</div>
+  </a>
+  <a href="#/buffsmp/" class="server-card">
+    <h3>⚔️ BuffSMP</h3>
+    <span class="status offline">⚫ OFFLINE · Season 7 beendet</span>
+    <div class="desc">Buffs, Essences und Rituale. Das Wiki und die Season-Inhalte bleiben im Archiv.</div>
+    <div class="meta">BuffSMP-Archiv ansehen →</div>
+  </a>
+  <a href="#/vanilla/" class="server-card">
+    <h3>🌿 Vanilla SMP</h3>
+    <span class="status offline">⚫ OFFLINE</span>
+    <div class="desc">Frühere Vanilla-Survival-Welt mit kleinen Anpassungen. Spielsysteme und Regeln bleiben im Archiv.</div>
+    <div class="meta">Vanilla-Archiv ansehen →</div>
   </a>
 </div>
-
-Die [Strength-SMP-Regeln](/strength/rules.md) ergänzen die [Network Rules](/hub/network-rules.md), die jederzeit im gesamten Netzwerk gelten.
-
-<details class="server-archive">
-  <summary>Frühere Server · 2 offline</summary>
-  <div class="server-grid">
-    <a href="#/buffsmp/" class="server-card">
-      <h3>⚔️ BuffSMP</h3>
-      <span class="status offline">⚫ OFFLINE · Season 7 beendet</span>
-      <div class="desc">Buffs, Essences und Rituale. Wiki und Season-Inhalte bleiben im Archiv erhalten.</div>
-      <div class="meta">Archiv ansehen →</div>
-    </a>
-    <a href="#/vanilla/" class="server-card">
-      <h3>🌿 Vanilla SMP</h3>
-      <span class="status offline">⚫ OFFLINE</span>
-      <div class="desc">Der frühere Vanilla-Survival-Server. Seine Spielsysteme, Änderungen und Regeln bleiben zum Nachlesen erhalten.</div>
-      <div class="meta">Archiv ansehen →</div>
-    </a>
-  </div>
-</details>
 
 ## 🧭 Allgemeines
 
@@ -54,7 +46,7 @@ Die [Strength-SMP-Regeln](/strength/rules.md) ergänzen die [Network Rules](/hub
 - 🔧 **Modrinth:** [NikeyV1](https://modrinth.com/user/NikeyV1)
 
 > **Tipp**
-> Die Suche in der Sidebar findet Inhalte aus allen Server-Wikis, auch aus dem Archiv.
+> Die Suche in der Sidebar findet Inhalte aus allen Server-Wikis, auch aus den Archiven.
 
 ### Lizenz
 

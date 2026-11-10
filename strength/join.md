@@ -1,6 +1,8 @@
-# 🚪 Einstieg in Strength SMP
+# 🚪 Früherer Einstieg in Strength SMP
 
-Der **Strength SMP ist online**. Der Weg dorthin führt über das Buffed Network.
+> **Archiv:** Strength SMP ist nach dem Abschluss-Event THE LAST EYE beendet. Ein Beitritt ist nicht mehr möglich. Aktuelle Server-Ankündigungen findest du im [Discord](https://discord.gg/RqK8Yuaxkm).
+
+Die folgenden Angaben beschreiben den früheren Einstieg in Strength SMP.
 
 ## 1. Ins Network verbinden
 

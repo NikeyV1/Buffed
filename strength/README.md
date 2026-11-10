@@ -1,16 +1,17 @@
-# ⚔️ Strength SMP
+# ⚔️ Strength SMP – Archiv
 
-**Status: 🟢 Online** · Erreichbar über das Buffed Network: `buffed.mineserver.top`
+**Status: ⚫ Abgeschlossen** · Die Season endete mit dem Event **THE LAST EYE**.
 
-Strength SMP verbindet Survival und PvP mit **neun Klassen**, dauerhafter Strength, handelbaren Splittern, Ritualen und Weekend Bountys. Deine Klasse bestimmt deine besonderen Kampffähigkeiten; deine Strength schaltet sie frei.
+Strength SMP verband Survival und PvP mit **neun Klassen**, dauerhafter Strength, handelbaren Splittern, Ritualen und Weekend Bountys. Diese Seiten dokumentieren den damaligen Serverstand.
 
-## 🚪 Dein Einstieg
+> **Archiv-Hinweis**
+> Strength SMP ist beendet und kann nicht mehr betreten werden. Diese Seiten dokumentieren die abgeschlossene Season. Aktuelle Server-Ankündigungen findest du im [Discord](https://discord.gg/RqK8Yuaxkm).
 
-1. Verbinde dich mit `buffed.mineserver.top`.
-2. Öffne in der Lobby den **Kompass** und wähle **Strength SMP**.
-3. Öffne auf dem SMP mit `/strength` dein Menü. `/strength class` zeigt deine Klasse und den Ultimate-Status.
+## 🌑 Season-Finale: THE LAST EYE
 
-Mehr dazu unter [Einstieg & Beitritt](/strength/join.md). Die [Network Rules](/hub/network-rules.md) gelten jederzeit und werden durch die [Strength-SMP-Regeln](/strength/rules.md) ergänzt.
+Die Season endete mit einem mehrtägigen Finale rund um das Letzte Auge. Das Event verband den Urdrachen mit Rissen und Missionen in der kollabierenden Welt und führte zum Kampf um die Anker, den Risshüter und den Letzten Wächter. Eine Schlusssequenz markierte das Ende der Welt. [Rückblick auf THE LAST EYE →](/strength/last-eye.md)
+
+Die [Network Rules](/hub/network-rules.md) gelten weiterhin im Netzwerk. Die [Strength-SMP-Regeln](/strength/rules.md) dokumentieren die abgeschlossene Season.
 
 ## 🧭 Was möchtest du wissen?
 
@@ -42,4 +43,4 @@ Standardmäßig hat die Overworld eine Border mit **5.000 Blöcken Gesamtbreite*
 
 ## 🌐 Network oder früherer SMP?
 
-[Buffed Network](/hub/network.md) ist der gemeinsame Einstieg. Die Wikis des früheren [BuffSMP](/buffsmp/README.md) und [Vanilla SMP](/vanilla/README.md) bleiben als Archiv erhalten; beide Survival-Server sind offline.
+[Buffed Network](/hub/network.md) ist der gemeinsame Netzwerkeinstieg. BuffSMP Season 7 und das [Vanilla SMP](/vanilla/README.md) sind beendet beziehungsweise offline; ihre Wiki-Seiten bleiben als Archive erhalten.
